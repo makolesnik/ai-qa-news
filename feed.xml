@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:custom="https://example.com/meta">
+  <channel>
+    <title>AI QA News</title>
+    <link>https://tidyfirst.substack.com/feed</link>
+    <language>en-ua</language>
+    <managingEditor>manually curated MK</managingEditor>
+    <generator>AI QA Feed Generator</generator>
+
+    <item>
+      <title>Earn *And* Learn</title>
+      <link>https://tidyfirst.substack.com/p/earn-and-learn</link>
+      <pubDate>Wed, 18 Feb 2026 14:24:58 +0000</pubDate>
+      <category>CAREER</category>
+      <category>MANAGER</category>
+      <custom:topic>CAREER</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>11</custom:rank>
+    </item>
+
+    <item>
+      <title>Investigating AI: Playwright-Test-Planner and Playwright-Test-Generator</title>
+      <link>https://www.tjmaher.com/2026/02/investigating-ai-playwright-test.html</link>
+      <pubDate>Wed, 18 Feb 2026 21:10:00 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <category>SENIOR</category>
+      <custom:topic>AI_GENERATED_TESTS</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>11</custom:rank>
+    </item>
+
+    <item>
+      <title>Tcl vs. Bash: When Should You Choose Tcl?</title>
+      <link>
+        https://levelup.gitconnected.com/tcl-vs-bash-when-should-you-choose-tcl-e07c47eb05ff?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:53 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <category>JUNIOR</category>
+      <custom:topic>TEST_AUTOMATION</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>6</custom:rank>
+    </item>
+
+    <item>
+      <title>Turning Images into Pixel Art the Right Way</title>
+      <link>
+        https://levelup.gitconnected.com/turning-images-into-pixel-art-the-right-way-ed9ce1a013bc?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:47 +0000</pubDate>
+      <category>OTHER</category>
+      <category>JUNIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>19</custom:rank>
+    </item>
+
+    <item>
+      <title>What the F-35 can Teach us about Writing Safer Embedded C++</title>
+      <link>
+        https://levelup.gitconnected.com/what-the-f-35-can-teach-us-about-writing-safer-embedded-c-e67ebb4955e7?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:42 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <category>SENIOR</category>
+      <custom:topic>DESIGN/PATTERNS/ARCHITECTURE</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>8</custom:rank>
+    </item>
+
+    <item>
+      <title>The Difference Between a Python Script and a Python System</title>
+      <link>
+        https://levelup.gitconnected.com/the-difference-between-a-python-script-and-a-python-system-39c696424019?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:38 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <category>SENIOR</category>
+      <custom:topic>DESIGN/PATTERNS/ARCHITECTURE</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>7</custom:rank>
+    </item>
+
+    <item>
+      <title>10 Real-World Automation Projects with Prefect</title>
+      <link>
+        https://levelup.gitconnected.com/10-real-world-automation-projects-with-prefect-a6ea9c838e7c?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:34 +0000</pubDate>
+      <category>OTHER</category>
+      <category>JUNIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>16</custom:rank>
+    </item>
+
+    <item>
+      <title>Data Streaming with CDC</title>
+      <link>
+        https://levelup.gitconnected.com/data-streaming-with-cdc-1546addb0128?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:28 +0000</pubDate>
+      <category>OTHER</category>
+      <category>SENIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>20</custom:rank>
+    </item>
+
+    <item>
+      <title>Prompt Injection: The SQL Injection of LLMs?</title>
+      <link>
+        https://levelup.gitconnected.com/prompt-injection-the-sql-injection-of-llms-59f27c0dbfac?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:22 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <category>SENIOR</category>
+      <custom:topic>SECURITY_TESTING</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>3</custom:rank>
+    </item>
+
+    <item>
+      <title>Silently boost your backend performance with Go 1.26</title>
+      <link>
+        https://levelup.gitconnected.com/silently-boost-your-backend-performance-with-go-1-26-293ef5ae35af?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:15 +0000</pubDate>
+      <category>OTHER</category>
+      <category>SENIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>23</custom:rank>
+    </item>
+
+    <item>
+      <title>The âMaggiâ Developer is Dead. Long Live the âBiryaniâ Architect.</title>
+      <link>
+        https://levelup.gitconnected.com/the-maggi-developer-is-dead-long-live-the-biryani-architect-b61528b204dd?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:11 +0000</pubDate>
+      <category>CAREER</category>
+      <category>SENIOR</category>
+      <custom:topic>CAREER</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>12</custom:rank>
+    </item>
+
+    <item>
+      <title>The Hidden Skill of 2026: Knowing When to Ignore AI</title>
+      <link>
+        https://levelup.gitconnected.com/the-hidden-skill-of-2026-knowing-when-to-ignore-ai-a3bcd5be6300?source=rss----5517fd7b58a6---4</link>
+      <pubDate>Wed, 18 Feb 2026 18:21:06 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <category>SENIOR</category>
+      <custom:topic>SOFT_SKILLS/WELLNESS/COACHING</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>13</custom:rank>
+    </item>
+
+    <item>
+      <title>When Deepfakes Apply for Jobs: The Identity Verification Crisis</title>
+      <link>
+        https://smarterarticles.co.uk/when-deepfakes-apply-for-jobs-the-identity-verification-crisis?pk_campaign=rss-feed</link>
+      <pubDate>Thu, 19 Feb 2026 02:00:44 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <category>MANAGER</category>
+      <custom:topic>SECURITY_TESTING</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>5</custom:rank>
+    </item>
+
+    <item>
+      <title>Your Boss Bets Your Job on AI: The Tech Does Not Work Yet</title>
+      <link>
+        https://smarterarticles.co.uk/your-boss-bets-your-job-on-ai-the-tech-does-not-work-yet?pk_campaign=rss-feed</link>
+      <pubDate>Wed, 18 Feb 2026 02:00:10 +0000</pubDate>
+      <category>CAREER</category>
+      <category>MANAGER</category>
+      <custom:topic>CAREER</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>6</custom:rank>
+    </item>
+
+    <item>
+      <title>Artificial Intelligence and the Quintessential Organisation</title>
+      <link>
+        https://flowchainsensei.wordpress.com/2026/02/18/artificial-intelligence-and-the-quintessential-organisation/</link>
+      <pubDate>Wed, 18 Feb 2026 09:51:31 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>MANAGER</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>13</custom:rank>
+    </item>
+
+    <item>
+      <title>100% Autonomous âAgenticâ Coding Is A Foolâs Errand</title>
+      <link>
+        https://codemanship.wordpress.com/2026/02/18/100-autonomous-agentic-coding-is-a-fools-errand/</link>
+      <pubDate>Wed, 18 Feb 2026 09:05:29 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <category>SENIOR</category>
+      <custom:topic>AGENTS/SKILLS/AGENTIC</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>14</custom:rank>
+    </item>
+
+    <item>
+      <title>Taking Photos With Scotch Tape Instead Of A Lens</title>
+      <link>https://hackaday.com/2026/02/18/taking-photos-with-scotch-tape-instead-of-a-lens/</link>
+      <pubDate>Thu, 19 Feb 2026 03:00:42 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <category>JUNIOR</category>
+      <custom:topic>DIY/FUN</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>13</custom:rank>
+    </item>
+
+    <item>
+      <title>Inside a Dutch Street Organ: The Art of Mechanical Music-Making</title>
+      <link>
+        https://hackaday.com/2026/02/18/inside-a-dutch-street-organ-the-art-of-mechanical-music-making/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:03 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <category>JUNIOR</category>
+      <custom:topic>DIY/FUN</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>12</custom:rank>
+    </item>
+
+    <item>
+      <title>Creating the Worldâs Most Efficient Quadcopter Drone</title>
+      <link>https://hackaday.com/2026/02/18/creating-the-worlds-most-efficient-quadcopter-drone/</link>
+      <pubDate>Wed, 18 Feb 2026 21:00:58 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <category>JUNIOR</category>
+      <custom:topic>DIY/FUN</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>12</custom:rank>
+    </item>
+
+    <item>
+      <title>2026 Hackaday Europe Call for Participation: We Want You!</title>
+      <link>https://hackaday.com/2026/02/18/2026-hackaday-europe-call-for-participation-we-want-you/</link>
+      <pubDate>Wed, 18 Feb 2026 20:09:44 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <category>JUNIOR</category>
+      <custom:topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>5</custom:rank>
+    </item>
+
+    <item>
+      <title>Sliderule Simulator Teaches You How To Do Calculations The Old Fashioned Way</title>
+      <link>
+        https://hackaday.com/2026/02/18/sliderule-simulator-teaches-you-how-to-do-calculations-the-old-fashioned-way/</link>
+      <pubDate>Wed, 18 Feb 2026 19:30:17 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <category>JUNIOR</category>
+      <custom:topic>DIY/FUN</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>12</custom:rank>
+    </item>
+
+    <item>
+      <title>The Dismal Repairability of Milwaukee Tools</title>
+      <link>https://hackaday.com/2026/02/18/the-dismal-repairability-of-milwaukee-tools/</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:36 +0000</pubDate>
+      <category>OTHER</category>
+      <category>JUNIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>17</custom:rank>
+    </item>
+
+    <item>
+      <title>Ancient Ice production</title>
+      <link>https://hackaday.com/2026/02/18/ancient-ice-production/</link>
+      <pubDate>Wed, 18 Feb 2026 15:00:54 +0000</pubDate>
+      <category>OTHER</category>
+      <category>JUNIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>15</custom:rank>
+    </item>
+
+    <item>
+      <title>Experimenting with sponsorship for my blog and newsletter</title>
+      <link>https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything</link>
+      <pubDate>Thu, 19 Feb 2026 05:44:29 +0000</pubDate>
+      <category>CAREER</category>
+      <category>MANAGER</category>
+      <custom:topic>CAREER</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>9</custom:rank>
+    </item>
+
+    <item>
+      <title>SWE-bench February 2026 leaderboard update</title>
+      <link>https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything</link>
+      <pubDate>Thu, 19 Feb 2026 04:48:47 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <category>SENIOR</category>
+      <custom:topic>AGENTS/SKILLS/AGENTIC</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>15</custom:rank>
+    </item>
+
+    <item>
+      <title>LadybirdBrowser/ladybird: Abandon Swift adoption</title>
+      <link>https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything</link>
+      <pubDate>Thu, 19 Feb 2026 01:25:33 +0000</pubDate>
+      <category>OTHER</category>
+      <category>SENIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>22</custom:rank>
+    </item>
+
+    <item>
+      <title>Typing without having to type</title>
+      <link>https://simonwillison.net/2026/Feb/18/typing/#atom-everything</link>
+      <pubDate>Wed, 18 Feb 2026 18:56:56 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>SENIOR</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>17</custom:rank>
+    </item>
+
+    <item>
+      <title>The A.I. Disruption Weâve Been Waiting for Has Arrived</title>
+      <link>https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything</link>
+      <pubDate>Wed, 18 Feb 2026 17:07:31 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>SENIOR</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>16</custom:rank>
+    </item>
+
+    <item>
+      <title>Quoting Martin Fowler</title>
+      <link>https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything</link>
+      <pubDate>Wed, 18 Feb 2026 16:50:07 +0000</pubDate>
+      <category>CAREER</category>
+      <category>MANAGER</category>
+      <custom:topic>CAREER</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>7</custom:rank>
+    </item>
+
+    <item>
+      <title>AI Evals Explained Simply by Ankit Shula</title>
+      <link>https://www.news.aakashg.com/p/ai-evals-explained-simply</link>
+      <pubDate>Thu, 19 Feb 2026 00:25:53 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>JUNIOR</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>10</custom:rank>
+    </item>
+
+    <item>
+      <title>The Era of the Software Factory ð­</title>
+      <link>https://refactoring.fm/p/the-era-of-the-software-factory</link>
+      <pubDate>Wed, 18 Feb 2026 08:03:15 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <category>MANAGER</category>
+      <custom:topic>ENGINEERING_CULTURE_QUALITY</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>4</custom:rank>
+    </item>
+
+    <item>
+      <title>How to Build AI-Native Engineering Teams</title>
+      <link>https://newsletter.eng-leadership.com/p/how-to-build-ai-native-engineering</link>
+      <pubDate>Wed, 18 Feb 2026 23:25:35 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <category>MANAGER</category>
+      <custom:topic>ENGINEERING_CULTURE_QUALITY</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>3</custom:rank>
+    </item>
+
+    <item>
+      <title>Beware: AI Is Not a Consumer Product</title>
+      <link>https://aydinstone.wordpress.com/2026/02/18/beware-ai-is-not-a-consumer-product/</link>
+      <pubDate>Wed, 18 Feb 2026 07:17:12 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>MANAGER</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>12</custom:rank>
+    </item>
+
+    <item>
+      <title>Can AI Solve Failures in Your Supply Chain?</title>
+      <link>https://towardsdatascience.com/can-ai-solve-failures-in-your-supply-chain/</link>
+      <pubDate>Wed, 18 Feb 2026 21:00:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>MANAGER</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>14</custom:rank>
+    </item>
+
+    <item>
+      <title>Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables</title>
+      <link>
+        https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/</link>
+      <pubDate>Wed, 18 Feb 2026 20:00:00 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <category>SENIOR</category>
+      <custom:topic>AGENTS/SKILLS/AGENTIC</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>16</custom:rank>
+    </item>
+
+    <item>
+      <title>Why Every Analytics Engineer Needs to Understand Data Architecture</title>
+      <link>
+        https://towardsdatascience.com/why-every-analytics-engineer-needs-to-understand-data-architecture/</link>
+      <pubDate>Wed, 18 Feb 2026 19:00:00 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <category>SENIOR</category>
+      <custom:topic>DESIGN/PATTERNS/ARCHITECTURE</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>6</custom:rank>
+    </item>
+
+    <item>
+      <title>Agentic AI for Modern Deep Learning Experimentation</title>
+      <link>https://towardsdatascience.com/agentic-ai-for-modern-deep-learning-experimentation/</link>
+      <pubDate>Wed, 18 Feb 2026 18:20:33 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <category>SENIOR</category>
+      <custom:topic>AGENTS/SKILLS/AGENTIC</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>15</custom:rank>
+    </item>
+
+    <item>
+      <title>Advance Planning for AI Project Evaluation</title>
+      <link>https://towardsdatascience.com/advance-planning-for-ai-project-evaluation/</link>
+      <pubDate>Wed, 18 Feb 2026 00:31:16 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>MANAGER</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>13</custom:rank>
+    </item>
+
+    <item>
+      <title>Use OpenClaw to Make a Personal AI Assistant</title>
+      <link>https://towardsdatascience.com/use-openclaw-to-make-a-personal-ai-assistant/</link>
+      <pubDate>Wed, 18 Feb 2026 00:25:14 +0000</pubDate>
+      <category>OPENCLAW/MOLTBOT</category>
+      <category>JUNIOR</category>
+      <custom:topic>OPENCLAW/MOLTBOT</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>8</custom:rank>
+    </item>
+
+    <item>
+      <title>The dark factory is real, most developers are getting slower, and your org chart is the
+        bottleneck (plus 5 prompts to get from level 2 to 5)</title>
+      <link>https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains</link>
+      <pubDate>Wed, 18 Feb 2026 14:02:56 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <category>MANAGER</category>
+      <custom:topic>AGENTS/SKILLS/AGENTIC</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>13</custom:rank>
+    </item>
+
+    <item>
+      <title>Test Charter Writing: Creating Focused Exploratory Missions</title>
+      <link>https://ryancraventech.substack.com/p/test-charter-writing-creating-focused</link>
+      <pubDate>Wed, 18 Feb 2026 12:21:21 +0000</pubDate>
+      <category>MANUAL_TESTING</category>
+      <category>JUNIOR</category>
+      <custom:topic>MANUAL_TESTING</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>2</custom:rank>
+    </item>
+
+    <item>
+      <title>Why Software Testing Is Critical For Warehouse Robotics Reliability</title>
+      <link>
+        https://www.softwaretestingmagazine.com/knowledge/why-software-testing-is-critical-for-warehouse-robotics-reliability/</link>
+      <pubDate>Wed, 18 Feb 2026 20:59:28 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <category>SENIOR</category>
+      <custom:topic>QUALITY_GOVERNANCE</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>5</custom:rank>
+    </item>
+
+    <item>
+      <title>Outdated Content Tool: How to Validate Results Like a QA Pro</title>
+      <link>
+        https://www.softwaretestingmagazine.com/knowledge/outdated-content-tool-how-to-validate-results-like-a-qa-pro/</link>
+      <pubDate>Wed, 18 Feb 2026 14:42:55 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <category>JUNIOR</category>
+      <custom:topic>QUALITY_GOVERNANCE</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>4</custom:rank>
+    </item>
+
+    <item>
+      <title>ðCarvana: Sorry Jim, you're wrong.ð¤·ââï¸</title>
+      <link>https://www.fallacyalarm.com/p/carvana-sorry-jim-youre-wrong</link>
+      <pubDate>Wed, 18 Feb 2026 23:10:18 +0000</pubDate>
+      <category>OTHER</category>
+      <category>MANAGER</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>15</custom:rank>
+    </item>
+
+    <item>
+      <title>What Iâm Hearing About Cognitive Debt (So Far)</title>
+      <link>http://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <category>SENIOR</category>
+      <custom:topic>ENGINEERING_CULTURE_QUALITY</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>10</custom:rank>
+    </item>
+
+    <item>
+      <title>Clean API tests with cypress aliases</title>
+      <link>https://thetestingpirate.be/posts/2026/2026-02-18_cleanapitestswithcypressaliases/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>CYPRESS</category>
+      <category>JUNIOR</category>
+      <custom:topic>CYPRESS</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>1</custom:rank>
+    </item>
+
+    <item>
+      <title>[Fundamentals] Question behind the question</title>
+      <link>https://newsletter.weskao.com/p/fundamentals-question-behind-the</link>
+      <pubDate>Wed, 18 Feb 2026 13:03:14 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <category>MANAGER</category>
+      <custom:topic>SOFT_SKILLS/WELLNESS/COACHING</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>10</custom:rank>
+    </item>
+
+    <item>
+      <title>Matrix Inverse Using Cholesky Decomposition With C#</title>
+      <link>
+        https://jamesmccaffreyblog.com/2026/02/18/matrix-inverse-using-cholesky-decomposition-with-c/</link>
+      <pubDate>Wed, 18 Feb 2026 11:30:52 +0000</pubDate>
+      <category>OTHER</category>
+      <category>JUNIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>19</custom:rank>
+    </item>
+
+    <item>
+      <title>Get in the Habit of Learning Daily</title>
+      <link>https://nikola-breznjak.com/blog/miscellaneou/get-in-the-habit-of-learning-daily/</link>
+      <pubDate>Wed, 18 Feb 2026 19:20:25 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <category>JUNIOR</category>
+      <custom:topic>SOFT_SKILLS/WELLNESS/COACHING</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>7</custom:rank>
+    </item>
+
+    <item>
+      <title>Matrix Inverse Using Cholesky Decomposition With C#</title>
+      <link>
+        https://jamesmccaffreyblog.com/2026/02/18/matrix-inverse-using-cholesky-decomposition-with-c/</link>
+      <pubDate>Wed, 18 Feb 2026 11:30:52 +0000</pubDate>
+      <category>OTHER</category>
+      <category>JUNIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>19</custom:rank>
+    </item>
+
+    <item>
+      <title>Issue #204 : Software Testing Notes</title>
+      <link>https://softwaretestingnotes.substack.com/p/issue-204-software-testing-notes</link>
+      <pubDate>Wed, 18 Feb 2026 15:58:01 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <category>SENIOR</category>
+      <custom:topic>TEST_STRATEGY/PLANNING/PROCESS</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>4</custom:rank>
+    </item>
+
+    <item>
+      <title>The Good Old Hyperlink - Discard Pile</title>
+      <link>http://roytang.net/links/2026/#bf6d6ec20f8dae67f0c2cfa1cde3141d</link>
+      <pubDate>Wed, 18 Feb 2026 00:20:17 +0000</pubDate>
+      <category>OTHER</category>
+      <category>SENIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>19</custom:rank>
+    </item>
+
+    <item>
+      <title>Codex CLI Release: 0.104.0</title>
+      <link>https://developers.openai.com/changelog/#github-release-287549221</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OTHER</category>
+      <category>JUNIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>11</custom:rank>
+    </item>
+
+    <item>
+      <title>Intermediate Operations in Java Streams â A Complete Guide for Developers</title>
+      <link>
+        https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25</link>
+      <pubDate>Thu, 19 Feb 2026 05:46:49 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <category>JUNIOR</category>
+      <custom:topic>DESIGN/PATTERNS/ARCHITECTURE</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>3</custom:rank>
+    </item>
+
+    <item>
+      <title>VollstÃ¤ndiger Tor-Leitfaden 2026: Sichere .onion-Suchmaschinen und Datenschutz im
+        Darknet</title>
+      <link>
+        https://dev.to/roycesilverman/vollstandiger-tor-leitfaden-2026-sichere-onion-suchmaschinen-und-datenschutz-im-darknet-3fe4</link>
+      <pubDate>Thu, 19 Feb 2026 05:30:56 +0000</pubDate>
+      <category>OTHER</category>
+      <category>SENIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>24</custom:rank>
+    </item>
+
+    <item>
+      <title>Common problems in Windows</title>
+      <link>https://dev.to/khadijah/common-problems-in-windows-23f9</link>
+      <pubDate>Thu, 19 Feb 2026 05:26:00 +0000</pubDate>
+      <category>OTHER</category>
+      <category>JUNIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>18</custom:rank>
+    </item>
+
+    <item>
+      <title>Keen Electronics Key Fob</title>
+      <link>https://dev.to/a3xt/keen-electronics-key-fob-48kk</link>
+      <pubDate>Thu, 19 Feb 2026 05:19:04 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <category>SENIOR</category>
+      <custom:topic>DIY/FUN</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>21</custom:rank>
+    </item>
+
+    <item>
+      <title>Your PostgreSQL Backups Are Probably Broken (Here's How to Know for Sure)</title>
+      <link>
+        https://dev.to/kjudeh/your-postgresql-backups-are-probably-broken-heres-how-to-know-for-sure-2ihb</link>
+      <pubDate>Thu, 19 Feb 2026 05:17:25 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <category>SENIOR</category>
+      <custom:topic>QUALITY_GOVERNANCE</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>1</custom:rank>
+    </item>
+
+    <item>
+      <title>Why AI Fact-Checking Is the Most Important Journalism Innovation You Have Never Heard
+        Of</title>
+      <link>
+        https://dev.to/iojas/why-ai-fact-checking-is-the-most-important-journalism-innovation-you-have-never-heard-of-3dkp</link>
+      <pubDate>Thu, 19 Feb 2026 05:13:35 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>SENIOR</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>18</custom:rank>
+    </item>
+
+    <item>
+      <title>ð Build a Desktop File Content Search App with Python &amp; Tkinter</title>
+      <link>
+        https://dev.to/matetechnologie/build-a-desktop-file-content-search-app-with-python-tkinter-4mg5</link>
+      <pubDate>Thu, 19 Feb 2026 05:10:00 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <category>JUNIOR</category>
+      <custom:topic>DIY/FUN</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>13</custom:rank>
+    </item>
+
+    <item>
+      <title>I Built a Serverless X (Twitter) Quote Bot with AWS Lambda + S3 + DynamoDB</title>
+      <link>
+        https://dev.to/aws-builders/i-built-a-serverless-x-twitter-quote-bot-with-aws-lambda-s3-dynamodb-3mnd</link>
+      <pubDate>Thu, 19 Feb 2026 05:07:49 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <category>JUNIOR</category>
+      <custom:topic>DIY/FUN</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>14</custom:rank>
+    </item>
+
+    <item>
+      <title>Can a Web App Carry Philosophy? Building a Devotional Platform with Next.js</title>
+      <link>
+        https://dev.to/preeti_yadav/can-a-web-app-carry-philosophy-building-a-devotional-platform-with-nextjs-3blk</link>
+      <pubDate>Thu, 19 Feb 2026 05:07:39 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <category>SENIOR</category>
+      <custom:topic>DESIGN/PATTERNS/ARCHITECTURE</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>9</custom:rank>
+    </item>
+
+    <item>
+      <title>Self-Hosting Your Own AI Agent Factory: A Linux-First Guide to Flowise</title>
+      <link>
+        https://dev.to/lyraalishaikh/self-hosting-your-own-ai-agent-factory-a-linux-first-guide-to-flowise-37l</link>
+      <pubDate>Thu, 19 Feb 2026 05:02:31 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <category>JUNIOR</category>
+      <custom:topic>AGENTS/SKILLS/AGENTIC</custom:topic>
+      <custom:level>JUNIOR</custom:level>
+      <custom:rank>9</custom:rank>
+    </item>
+
+    <item>
+      <title># Why Your LLM App Breaks at Scale â 7 Architecture Mistakes Most AI Startups Make</title>
+      <link>
+        https://dev.to/cloyouai/-why-your-llm-app-breaks-at-scale-7-architecture-mistakes-most-ai-startups-make-5def</link>
+      <pubDate>Thu, 19 Feb 2026 05:00:56 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <category>SENIOR</category>
+      <custom:topic>DESIGN/PATTERNS/ARCHITECTURE</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>2</custom:rank>
+    </item>
+
+    <item>
+      <title>Claude + MCP Tools Plus vs ChatGPT + MCP Tools Plus: Which AI Assistant to Run Your
+        PrestaShop Store in 2026?</title>
+      <link>
+        https://dev.to/ndabene/claude-mcp-tools-plus-vs-chatgpt-mcp-tools-plus-which-ai-assistant-to-run-your-prestashop-28k8</link>
+      <pubDate>Thu, 19 Feb 2026 05:00:43 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>MANAGER</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>13</custom:rank>
+    </item>
+
+    <item>
+      <title>Чим ми дістаємо до ворога? Все про далекобійні дрони | DOU DefTech</title>
+      <link>https://dou.ua/lenta/articles/long-range-drones-deftech-youtube/</link>
+      <pubDate>Wed, 18 Feb 2026 08:00:05 +0000</pubDate>
+      <category>OTHER</category>
+      <category>SENIOR</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>22</custom:rank>
+    </item>
+
+    <item>
+      <title>The Impact of One Great Leader</title>
+      <link>https://mikefisher.substack.com/p/the-impact-of-one-great-leader</link>
+      <pubDate>Wed, 18 Feb 2026 14:03:22 +0000</pubDate>
+      <category>CAREER</category>
+      <category>MANAGER</category>
+      <custom:topic>CAREER</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>8</custom:rank>
+    </item>
+
+    <item>
+      <title>The First 10-Year Evolution of Stripeâs Payments API</title>
+      <link>https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes</link>
+      <pubDate>Wed, 18 Feb 2026 16:31:13 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <category>SENIOR</category>
+      <custom:topic>DESIGN/PATTERNS/ARCHITECTURE</custom:topic>
+      <custom:level>SENIOR</custom:level>
+      <custom:rank>6</custom:rank>
+    </item>
+
+    <item>
+      <title>When Every Company Can Use the Same AI Models, Context Becomes a Competitive Advantage</title>
+      <link>
+        https://hbr.org/2026/02/when-every-company-can-use-the-same-ai-models-context-becomes-a-competitive-advantage</link>
+      <pubDate>Wed, 18 Feb 2026 13:25:40 +0000</pubDate>
+      <category>AI_(general)</category>
+      <category>MANAGER</category>
+      <custom:topic>AI_(general)</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>12</custom:rank>
+    </item>
+
+    <item>
+      <title>Research Reveals a Fundamental Shift in How Investors View ESG</title>
+      <link>https://hbr.org/2026/02/research-reveals-a-fundamental-shift-in-how-investors-view-esg</link>
+      <pubDate>Wed, 18 Feb 2026 13:15:13 +0000</pubDate>
+      <category>OTHER</category>
+      <category>MANAGER</category>
+      <custom:topic>OTHER</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>16</custom:rank>
+    </item>
+
+    <item>
+      <title>Why Most Projects Failâand How to Achieve Better Outcomes</title>
+      <link>
+        https://hbr.org/podcast/2026/02/why-most-projects-fail-and-how-to-achieve-better-outcomes</link>
+      <pubDate>Wed, 18 Feb 2026 11:10:45 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <category>MANAGER</category>
+      <custom:topic>TEST_STRATEGY/PLANNING/PROCESS</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>2</custom:rank>
+    </item>
+
+    <item>
+      <title>Cybersecurity Requires Collective Resilience</title>
+      <link>https://hbr.org/2026/02/cybersecurity-requires-collective-resilience</link>
+      <pubDate>Wed, 18 Feb 2026 13:05:33 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <category>MANAGER</category>
+      <custom:topic>SECURITY_TESTING</custom:topic>
+      <custom:level>MANAGER</custom:level>
+      <custom:rank>1</custom:rank>
+    </item>
+
+  </channel>
+</rss>
