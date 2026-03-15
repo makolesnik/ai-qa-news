@@ -8,124 +8,175 @@
         <managingEditor>MK</managingEditor>
         <generator>AI QA Feed Generator</generator>
 		<item>
-			<title>The Violence in Your Vocabulary</title>
-			<link>https://flowchainsensei.wordpress.com/2026/03/13/the-violence-in-your-vocabulary/</link>
-			<pubDate>Fri, 13 Mar 2026 17:31:33 +0000</pubDate>
-			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
-			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
-			<level>MANAGER</level>
-			<rank>8</rank>
-		</item>
-		<item>
-			<title>Information Overload Is an Invisibility Cloak</title>
-			<link>
-				https://danielmiessler.com/blog/information-overload-invisibility-cloak?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-			<pubDate>Fri, 13 Mar 2026 22:05:00 +0000</pubDate>
-			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
-			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
-			<level>MANAGER</level>
-			<rank>9</rank>
-		</item>
-		<item>
-			<title>Users protest as Google Antigravity price floats upward</title>
-			<link>
-				https://www.devclass.com/ai-ml/2026/03/13/users-protest-as-google-antigravity-price-floats-upward/5209219</link>
-			<pubDate>Fri, 13 Mar 2026 15:36:00 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>MANAGER</level>
-			<rank>12</rank>
-		</item>
-		<item>
-			<title>The Hybrid Shop, or Knowing When to Use Power Tools</title>
-			<link>
-				https://testpappy.wordpress.com/2026/03/13/the-hybrid-shop-or-knowing-when-to-plug-it-in/</link>
-			<pubDate>Fri, 13 Mar 2026 07:25:00 +0000</pubDate>
-			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
-			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
-			<level>SENIOR</level>
-			<rank>11</rank>
-		</item>
-		<item>
-			<title>Porting MS-DOS 2.0 to the Apple IIe</title>
-			<link>https://hackaday.com/2026/03/13/porting-ms-dos-2-0-to-the-apple-iie/</link>
-			<pubDate>Sat, 14 Mar 2026 05:00:24 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>10</rank>
-		</item>
-		<item>
-			<title>Ford, Take Note: Classic Pickup Becomes the EV We Want</title>
-			<link>
-				https://hackaday.com/2026/03/13/ford-take-note-classic-pickup-becomes-the-ev-we-want/</link>
-			<pubDate>Sat, 14 Mar 2026 02:00:32 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>10</rank>
-		</item>
-		<item>
-			<title>Making a Bladeless Tesla Turbine Generator in Lego</title>
-			<link>
-				https://hackaday.com/2026/03/13/making-a-bladeless-tesla-turbine-generator-in-lego/</link>
-			<pubDate>Fri, 13 Mar 2026 23:00:04 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>13</rank>
-		</item>
-		<item>
-			<title>No More Paperweight: This Vintage Brick Phone Is Back Online</title>
-			<link>
-				https://hackaday.com/2026/03/13/no-more-paperweight-this-vintage-brick-phone-is-back-online/</link>
-			<pubDate>Fri, 13 Mar 2026 20:00:23 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>10</rank>
-		</item>
-		<item>
-			<title>Hackaday Podcast Episode 361: Hackaday Podcast Mailbag, A Phone is Not a
-				Computer, 3D Printing History is New Again</title>
-			<link>
-				https://hackaday.com/2026/03/13/hackaday-podcast-episode-361-hackaday-podcast-mailbag-a-phone-is-not-a-computer-3d-printing-history-is-new-again/</link>
-			<pubDate>Fri, 13 Mar 2026 17:15:41 +0000</pubDate>
-			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
+			<title>EP206: Git Workflow: Essential Commands</title>
+			<link>https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands</link>
+			<pubDate>Sat, 14 Mar 2026 15:30:58 +0000</pubDate>
+			<category>ENGINEERING_CULTURE_QUALITY</category>
+			<topic>ENGINEERING_CULTURE_QUALITY</topic>
 			<level>JUNIOR</level>
 			<rank>3</rank>
 		</item>
 		<item>
-			<title>Running a PC off AA Cells With Buck Converters Really Boosts Performance</title>
+			<title>Big tech engineers need big egos</title>
+			<link>https://seangoedecke.com/big-tech-needs-big-egos/</link>
+			<pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+			<category>ENGINEERING_CULTURE_QUALITY</category>
+			<topic>ENGINEERING_CULTURE_QUALITY</topic>
+			<level>MANAGER</level>
+			<rank>3</rank>
+		</item>
+		<item>
+			<title>AI-Assisted Cypress CI: Detecting Selector Drift and Proposing Fixes
+				Automatically</title>
 			<link>
-				https://hackaday.com/2026/03/13/running-a-pc-off-aa-cells-with-buck-converters-really-boosts-performance/</link>
-			<pubDate>Fri, 13 Mar 2026 15:30:34 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
+				https://dev.to/raju_dandigam/ai-assisted-cypress-ci-detecting-selector-drift-and-proposing-fixes-automatically-pg4</link>
+			<pubDate>Sun, 15 Mar 2026 05:55:20 +0000</pubDate>
+			<category>DRIFT_DETECTION</category>
+			<topic>DRIFT_DETECTION</topic>
+			<level>SENIOR</level>
+			<rank>1</rank>
+		</item>
+		<item>
+			<title>Build a Production-Ready Review Analytics MCP Server with TypeScript, Rules,
+				LLMs, and Vector Search</title>
+			<link>
+				https://dev.to/abhishek_dubey_21fdc73a80/build-a-production-ready-review-analytics-mcp-server-with-typescript-rules-llms-and-vector-search-3bal</link>
+			<pubDate>Sun, 15 Mar 2026 05:48:29 +0000</pubDate>
+			<category>AGENTS/SKILLS/AGENTIC</category>
+			<topic>AGENTS/SKILLS/AGENTIC</topic>
+			<level>SENIOR</level>
 			<rank>11</rank>
 		</item>
 		<item>
-			<title>This Week in Security: Plenty of Patches, Replacing Old Gear, and Phrack Calls
-				for Papers</title>
+			<title>Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL</title>
 			<link>
-				https://hackaday.com/2026/03/13/this-week-in-security-plenty-of-patches-replacing-old-gear-and-phrack-calls-for-papers/</link>
-			<pubDate>Fri, 13 Mar 2026 14:00:18 +0000</pubDate>
+				https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i</link>
+			<pubDate>Sun, 15 Mar 2026 05:48:21 +0000</pubDate>
+			<category>OTHER</category>
+			<topic>OTHER</topic>
+			<level>SENIOR</level>
+			<rank>13</rank>
+		</item>
+		<item>
+			<title>Arrays in JavaScript: Storing Multiple Values Efficiently</title>
+			<link>
+				https://dev.to/harman_panwar_46de8d9454b/arrays-in-javascript-storing-multiple-values-efficiently-3c84</link>
+			<pubDate>Sun, 15 Mar 2026 05:42:36 +0000</pubDate>
+			<category>OTHER</category>
+			<topic>OTHER</topic>
+			<level>JUNIOR</level>
+			<rank>15</rank>
+		</item>
+		<item>
+			<title>What are the top web3 security certification programs available?</title>
+			<link>
+				https://dev.to/georgiaweston/what-are-the-top-web3-security-certification-programs-available-1a0o</link>
+			<pubDate>Sun, 15 Mar 2026 05:41:19 +0000</pubDate>
 			<category>SECURITY_TESTING</category>
 			<topic>SECURITY_TESTING</topic>
 			<level>JUNIOR</level>
 			<rank>1</rank>
 		</item>
 		<item>
-			<title>You built an AI memory system. Now your agent needs hands. Here are 6 extensions
-				that compound â from household knowledge to the job hunt.</title>
-			<link>https://natesnewsletter.substack.com/p/you-built-an-ai-memory-system-now</link>
-			<pubDate>Fri, 13 Mar 2026 13:00:28 +0000</pubDate>
+			<title>I asked my AI agent to audit himself. He scored 62/100.</title>
+			<link>
+				https://dev.to/garybotlington/i-asked-my-ai-agent-to-audit-himself-he-scored-62100-180n</link>
+			<pubDate>Sun, 15 Mar 2026 05:40:06 +0000</pubDate>
 			<category>AGENTS/SKILLS/AGENTIC</category>
 			<topic>AGENTS/SKILLS/AGENTIC</topic>
 			<level>SENIOR</level>
-			<rank>16</rank>
+			<rank>8</rank>
+		</item>
+		<item>
+			<title>BK's Soul Quest</title>
+			<link>https://dev.to/bibimbop123/bks-soul-quest-3on6</link>
+			<pubDate>Sun, 15 Mar 2026 05:33:47 +0000</pubDate>
+			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
+			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
+			<level>JUNIOR</level>
+			<rank>8</rank>
+		</item>
+		<item>
+			<title>Your printer hates your designs. So I made them print-ready by default.</title>
+			<link>
+				https://dev.to/heocoi/your-printer-hates-your-designs-so-i-made-them-print-ready-by-default-12fm</link>
+			<pubDate>Sun, 15 Mar 2026 05:29:38 +0000</pubDate>
+			<category>AI_GENERATED_TESTS</category>
+			<topic>AI_GENERATED_TESTS</topic>
+			<level>JUNIOR</level>
+			<rank>6</rank>
+		</item>
+		<item>
+			<title>Cidersoft vs Toptal: An Honest Comparison for Engineering Leaders</title>
+			<link>
+				https://dev.to/ilya_lipovich_6d50e89a0ee/cidersoft-vs-toptal-an-honest-comparison-for-engineering-leaders-5756</link>
+			<pubDate>Sun, 15 Mar 2026 05:27:58 +0000</pubDate>
+			<category>CAREER</category>
+			<topic>CAREER</topic>
+			<level>MANAGER</level>
+			<rank>4</rank>
+		</item>
+		<item>
+			<title>How We Built 26 SEO-Optimized Pages in 10 Minutes with Next.js</title>
+			<link>
+				https://dev.to/yunhan_dev/how-we-built-26-seo-optimized-pages-in-10-minutes-with-nextjs-54n3</link>
+			<pubDate>Sun, 15 Mar 2026 05:17:56 +0000</pubDate>
+			<category>DESIGN/PATTERNS/ARCHITECTURE</category>
+			<topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
+			<level>JUNIOR</level>
+			<rank>2</rank>
+		</item>
+		<item>
+			<title>Getting Started with Google Cloud: A Step-by-Step Guide for 2026</title>
+			<link>
+				https://dev.to/mulera/getting-started-with-google-cloud-a-step-by-step-guide-for-2026-17hh</link>
+			<pubDate>Sun, 15 Mar 2026 05:17:34 +0000</pubDate>
+			<category>OTHER</category>
+			<topic>OTHER</topic>
+			<level>JUNIOR</level>
+			<rank>15</rank>
+		</item>
+		<item>
+			<title>Designing a Secure Observability Contract for AI Agents: Logs, Spans, and Safety
+				Signals</title>
+			<link>
+				https://dev.to/kowshik_jallipalli_a7e0a5/designing-a-secure-observability-contract-for-ai-agents-logs-spans-and-safety-signals-3762</link>
+			<pubDate>Sun, 15 Mar 2026 05:12:40 +0000</pubDate>
+			<category>AGENTS/SKILLS/AGENTIC</category>
+			<topic>AGENTS/SKILLS/AGENTIC</topic>
+			<level>SENIOR</level>
+			<rank>8</rank>
+		</item>
+		<item>
+			<title>ð Just Say Enough, Stillness IS The Key by Ryan Holiday, Re-read Saturday, 11,
+				â Beware Desire and Enough</title>
+			<link>
+				https://tcagley.wordpress.com/2026/03/14/%f0%9f%94%9e-just-say-enough-stillness-is-the-key-by-ryan-holiday-re-read-saturday-11-beware-desire-and-enough/</link>
+			<pubDate>Sat, 14 Mar 2026 23:55:00 +0000</pubDate>
+			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
+			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
+			<level>MANAGER</level>
+			<rank>5</rank>
+		</item>
+		<item>
+			<title>47 Failed. 3 Passed. A Senior QA Engineerâs Honest Week With AI.</title>
+			<link>
+				https://medium.com/codetodeploy/47-failed-3-passed-a-senior-qa-engineers-honest-week-with-ai-15b869d392be?source=rss-1409b79f4fa4------2</link>
+			<pubDate>Sun, 15 Mar 2026 02:23:08 +0000</pubDate>
+			<category>AI_GENERATED_TESTS</category>
+			<topic>AI_GENERATED_TESTS</topic>
+			<level>SENIOR</level>
+			<rank>4</rank>
+		</item>
+		<item>
+			<title>Virtual Stars, Real Losses: What AI Influencers Mean for Human Creators</title>
+			<link>
+				https://smarterarticles.co.uk/virtual-stars-real-losses-what-ai-influencers-mean-for-human-creators?pk_campaign=rss-feed</link>
+			<pubDate>Sun, 15 Mar 2026 02:00:04 +0000</pubDate>
+			<category>AI_(general)</category>
+			<topic>AI_(general)</topic>
+			<level>MANAGER</level>
+			<rank>6</rank>
 		</item>
 		<item>
 			<title>Your Data Outlives the App: The Governance Problem Nobody Has Solved</title>
@@ -135,436 +186,193 @@
 			<category>QUALITY_GOVERNANCE</category>
 			<topic>QUALITY_GOVERNANCE</topic>
 			<level>MANAGER</level>
-			<rank>4</rank>
-		</item>
-		<item>
-			<title>Journalism Built on Borrowed Code: What Happens When the Vibe Coders Leave</title>
-			<link>
-				https://smarterarticles.co.uk/journalism-built-on-borrowed-code-what-happens-when-the-vibe-coders-leave?pk_campaign=rss-feed</link>
-			<pubDate>Fri, 13 Mar 2026 02:01:13 +0000</pubDate>
-			<category>QUALITY_GOVERNANCE</category>
-			<topic>QUALITY_GOVERNANCE</topic>
-			<level>MANAGER</level>
 			<rank>1</rank>
 		</item>
 		<item>
-			<title>Big tech engineers need big egos</title>
-			<link>https://seangoedecke.com/big-tech-needs-big-egos/</link>
-			<pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+			<title>Claude Code Just Got Smarter â The Effort Parameter Explained</title>
+			<link>https://ayyaztech.com/blog/claude-code-effort-parameter-explained</link>
+			<pubDate>Sat, 14 Mar 2026 15:32:02 +0000</pubDate>
+			<category>AI_(general)</category>
+			<topic>AI_(general)</topic>
+			<level>JUNIOR</level>
+			<rank>5</rank>
+		</item>
+		<item>
+			<title>AI and Testing: From Specification to Ontology</title>
+			<link>https://testerstories.com/2026/03/ai-and-testing-from-specification-to-ontology/</link>
+			<pubDate>Sat, 14 Mar 2026 09:27:22 +0000</pubDate>
+			<category>AI_(general)</category>
+			<topic>AI_(general)</topic>
+			<level>SENIOR</level>
+			<rank>12</rank>
+		</item>
+		<item>
+			<title>Quoting Jannis Leidel</title>
+			<link>https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything</link>
+			<pubDate>Sat, 14 Mar 2026 18:41:25 +0000</pubDate>
+			<category>AI_(general)</category>
+			<topic>AI_(general)</topic>
+			<level>MANAGER</level>
+			<rank>6</rank>
+		</item>
+		<item>
+			<title>My fireside chat about agentic engineering at the Pragmatic Summit</title>
+			<link>https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything</link>
+			<pubDate>Sat, 14 Mar 2026 18:19:38 +0000</pubDate>
+			<category>AGENTS/SKILLS/AGENTIC</category>
+			<topic>AGENTS/SKILLS/AGENTIC</topic>
+			<level>SENIOR</level>
+			<rank>6</rank>
+		</item>
+		<item>
+			<title>21 Reinforcement Learning (RL) Concepts Explained Simply</title>
+			<link>https://newsletter.systemdesign.one/p/what-is-reinforcement-learning</link>
+			<pubDate>Sat, 14 Mar 2026 12:20:34 +0000</pubDate>
+			<category>MACHINE_LEARNING/DEEP_LEARNING</category>
+			<topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
+			<level>JUNIOR</level>
+			<rank>4</rank>
+		</item>
+		<item>
+			<title>The Multi-Agent Trap</title>
+			<link>https://towardsdatascience.com/the-multi-agent-trap/</link>
+			<pubDate>Sat, 14 Mar 2026 15:00:00 +0000</pubDate>
+			<category>AGENTS/SKILLS/AGENTIC</category>
+			<topic>AGENTS/SKILLS/AGENTIC</topic>
+			<level>SENIOR</level>
+			<rank>9</rank>
+		</item>
+		<item>
+			<title>The Current Status of The Quantum Software Stack</title>
+			<link>https://towardsdatascience.com/the-current-status-of-the-quantum-software-stack/</link>
+			<pubDate>Sat, 14 Mar 2026 13:00:00 +0000</pubDate>
+			<category>OTHER</category>
+			<topic>OTHER</topic>
+			<level>SENIOR</level>
+			<rank>14</rank>
+		</item>
+		<item>
+			<title>AI cut execution cost by 10x. The companies cutting headcount are making the most
+				expensive mistake of 2026 + 4 prompts to build the alternative</title>
+			<link>https://natesnewsletter.substack.com/p/whoop-is-hiring-600-people-while</link>
+			<pubDate>Sat, 14 Mar 2026 14:01:54 +0000</pubDate>
 			<category>ENGINEERING_CULTURE_QUALITY</category>
 			<topic>ENGINEERING_CULTURE_QUALITY</topic>
 			<level>MANAGER</level>
-			<rank>6</rank>
-		</item>
-		<item>
-			<title>On increasing focus in my career</title>
-			<link>https://www.ontestautomation.com/on-increasing-focus-in-my-career/</link>
-			<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>SENIOR</level>
-			<rank>7</rank>
-		</item>
-		<item>
-			<title>JournÃ©e FranÃ§aise des Tests Logiciels, Paris, June 8-9 2026</title>
-			<link>
-				https://www.softwaretestingmagazine.com/conferences/journee-francaise-des-tests-logiciels/</link>
-			<pubDate>Fri, 13 Mar 2026 10:00:04 +0000</pubDate>
-			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
-			<level>SENIOR</level>
-			<rank>5</rank>
-		</item>
-		<item>
-			<title>Nordic Testing Days, Tallinn, Estonia, June 3-5 2026</title>
-			<link>https://www.softwaretestingmagazine.com/conferences/nordic-testing-days/</link>
-			<pubDate>Fri, 13 Mar 2026 08:00:48 +0000</pubDate>
-			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
-			<level>JUNIOR</level>
 			<rank>2</rank>
 		</item>
 		<item>
-			<title>Italian Software Testing Forum, Milano, Italy, June 25 2026</title>
-			<link>
-				https://www.softwaretestingmagazine.com/conferences/italian-software-testing-forum/</link>
-			<pubDate>Fri, 13 Mar 2026 06:00:36 +0000</pubDate>
-			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
+			<title>Race Conditions: When timing determines outcomes</title>
+			<link>https://testinginprod.substack.com/p/race-conditions-when-timing-determines</link>
+			<pubDate>Sat, 14 Mar 2026 15:31:05 +0000</pubDate>
+			<category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
+			<topic>DEFECT_LEAKAGE_ANALYSIS/RCA</topic>
 			<level>SENIOR</level>
-			<rank>5</rank>
-		</item>
-		<item>
-			<title>expoQA, Madrid, Spain, May 26-28 2026</title>
-			<link>https://www.softwaretestingmagazine.com/conferences/expoqa-madrid-spain/</link>
-			<pubDate>Fri, 13 Mar 2026 05:00:28 +0000</pubDate>
-			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
-			<level>SENIOR</level>
-			<rank>5</rank>
-		</item>
-		<item>
-			<title>Dr. AI Yourself?</title>
-			<link>
-				https://qualityremarks.com/dr-ai-yourself/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dr-ai-yourself</link>
-			<pubDate>Fri, 13 Mar 2026 12:22:58 +0000</pubDate>
-			<category>SECURITY_TESTING</category>
-			<topic>SECURITY_TESTING</topic>
-			<level>MANAGER</level>
 			<rank>3</rank>
 		</item>
 		<item>
-			<title>CRM testing, Mock testing, the product mindset, &amp; more</title>
-			<link>https://morningqa.substack.com/p/crm-testing-mock-testing-the-product</link>
-			<pubDate>Fri, 13 Mar 2026 12:03:02 +0000</pubDate>
-			<category>TEST_STRATEGY/PLANNING/PROCESS</category>
-			<topic>TEST_STRATEGY/PLANNING/PROCESS</topic>
-			<level>SENIOR</level>
-			<rank>4</rank>
-		</item>
-		<item>
-			<title>1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
-			<link>https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</link>
-			<pubDate>Fri, 13 Mar 2026 18:29:13 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>SENIOR</level>
-			<rank>15</rank>
-		</item>
-		<item>
-			<title>Quoting Craig Mod</title>
-			<link>https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything</link>
-			<pubDate>Fri, 13 Mar 2026 17:14:29 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>SENIOR</level>
-			<rank>18</rank>
-		</item>
-		<item>
-			<title>Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</title>
-			<link>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</link>
-			<pubDate>Fri, 13 Mar 2026 03:44:34 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>15</rank>
-		</item>
-		<item>
-			<title>I built "git log" for any website â track changes with diffs and AI summaries</title>
+			<title>Screaming Architecture &amp; Colocation: Let Your Project Structure Tell the
+				Story</title>
 			<link>
-				https://dev.to/georouv/i-built-git-log-for-any-website-track-changes-with-diffs-and-ai-summaries-445g</link>
-			<pubDate>Sat, 14 Mar 2026 07:07:44 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>12</rank>
-		</item>
-		<item>
-			<title>When Software Development Common Sense Flips: The Law of Decreasing Generation
-				Costs</title>
-			<link>
-				https://dev.to/aws-builders/when-software-development-common-sense-flips-the-law-of-decreasing-generation-costs-506j</link>
-			<pubDate>Sat, 14 Mar 2026 07:07:10 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>SENIOR</level>
-			<rank>17</rank>
-		</item>
-		<item>
-			<title>Master HikariCP in Spring Boot 3.x: Complete Guide to High-Performance Database
-				Connection Pooling</title>
-			<link>
-				https://dev.to/manojsatna31/master-hikaricp-in-spring-boot-3x-complete-guide-to-high-performance-database-connection-pooling-3i5n</link>
-			<pubDate>Sat, 14 Mar 2026 07:03:54 +0000</pubDate>
-			<category>PERFORMANCE_TESTING</category>
-			<topic>PERFORMANCE_TESTING</topic>
-			<level>SENIOR</level>
-			<rank>2</rank>
-		</item>
-		<item>
-			<title>A Simple, Fragmentation-Proof PMM Design</title>
-			<link>
-				https://dev.to/debug_codefurry_7be8b1b2f/a-simple-fragmentation-proof-pmm-design-54hf</link>
-			<pubDate>Sat, 14 Mar 2026 07:02:27 +0000</pubDate>
+				https://thetshaped.dev/p/screaming-architecture-and-colocation-nodejs-typescript-react</link>
+			<pubDate>Sat, 14 Mar 2026 07:19:34 +0000</pubDate>
 			<category>DESIGN/PATTERNS/ARCHITECTURE</category>
 			<topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
 			<level>SENIOR</level>
-			<rank>1</rank>
-		</item>
-		<item>
-			<title>Does Dyslexia Hold You Back in Tech? Yes, but not for the reason you think</title>
-			<link>
-				https://dev.to/chadders13/does-dyslexia-hold-you-back-in-tech-yes-but-not-for-the-reason-you-think-4bec</link>
-			<pubDate>Sat, 14 Mar 2026 07:02:04 +0000</pubDate>
-			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
-			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
-			<level>SENIOR</level>
-			<rank>9</rank>
-		</item>
-		<item>
-			<title>I sent a prompt injection to my own LLM agent. Here's what caught it.</title>
-			<link>
-				https://dev.to/wharfe/i-sent-a-prompt-injection-to-my-own-llm-agent-heres-what-caught-it-1ea5</link>
-			<pubDate>Sat, 14 Mar 2026 07:01:30 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>14</rank>
-		</item>
-		<item>
-			<title>Deploy Your First Vertex AI Agent with Terraform and ADK: Model-Agnostic and
-				Future-Proof ð¤</title>
-			<link>
-				https://dev.to/suhas_mallesh/deploy-your-first-vertex-ai-agent-with-terraform-and-adk-model-agnostic-and-future-proof-1en</link>
-			<pubDate>Sat, 14 Mar 2026 07:00:00 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>JUNIOR</level>
-			<rank>7</rank>
-		</item>
-		<item>
-			<title>How I Built My Developer Portfolio Featuring AI Automation and DevOps Projects</title>
-			<link>
-				https://dev.to/abinesh_k_ebad0f31e79451e/how-i-built-my-developer-portfolio-featuring-ai-automation-and-devops-projects-4054</link>
-			<pubDate>Sat, 14 Mar 2026 06:56:50 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>JUNIOR</level>
-			<rank>4</rank>
-		</item>
-		<item>
-			<title>Common AWS Tagging Anti-Patterns and How to Fix Them</title>
-			<link>
-				https://dev.to/mark_rayhshtat_b33ccde07a/common-aws-tagging-anti-patterns-and-how-to-fix-them-4487</link>
-			<pubDate>Sat, 14 Mar 2026 06:52:01 +0000</pubDate>
-			<category>QUALITY_GOVERNANCE</category>
-			<topic>QUALITY_GOVERNANCE</topic>
-			<level>MANAGER</level>
 			<rank>2</rank>
 		</item>
 		<item>
-			<title>5 Business CRM Templates you canât avoid</title>
-			<link>https://dev.to/shreyvijayvargiya/freelance-crm-nextjs-14-react-template-4ig0</link>
-			<pubDate>Sat, 14 Mar 2026 06:49:35 +0000</pubDate>
-			<category>AI_GENERATED_TESTS</category>
-			<topic>AI_GENERATED_TESTS</topic>
-			<level>JUNIOR</level>
-			<rank>6</rank>
-		</item>
-		<item>
-			<title>3 Patterns That Fix LLM API Calling (Stop Getting Hallucinated Parameters)</title>
-			<link>
-				https://dev.to/docat0209/3-patterns-that-fix-llm-api-calling-stop-getting-hallucinated-parameters-4n3b</link>
-			<pubDate>Sat, 14 Mar 2026 06:49:32 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>12</rank>
-		</item>
-		<item>
-			<title>What is Forg.to? (And Why I Think It's Going to Be Big for Developers)</title>
-			<link>
-				https://dev.to/kislay/what-is-forgto-and-why-i-think-its-going-to-be-big-for-developers-3p5b</link>
-			<pubDate>Sat, 14 Mar 2026 06:48:17 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>JUNIOR</level>
-			<rank>5</rank>
-		</item>
-		<item>
-			<title>The One About In Real Life</title>
-			<link>https://randsinrepose.com/archives/the-one-about-in-real-life/</link>
-			<pubDate>Fri, 13 Mar 2026 03:07:50 +0000</pubDate>
-			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
-			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
-			<level>MANAGER</level>
-			<rank>8</rank>
-		</item>
-		<item>
-			<title>There's a New PM Skill. It's Called Taste at Speed</title>
-			<link>https://www.news.aakashg.com/p/taste-at-speed</link>
-			<pubDate>Fri, 13 Mar 2026 23:06:45 +0000</pubDate>
-			<category>PRODUCT_QUALITY_ECONOMICS</category>
-			<topic>PRODUCT_QUALITY_ECONOMICS</topic>
-			<level>MANAGER</level>
-			<rank>5</rank>
-		</item>
-		<item>
-			<title>Free Will and Agency in the Age of AI Agents</title>
-			<link>
-				https://aydinstone.wordpress.com/2026/03/13/free-will-and-agency-in-the-age-of-ai-agents/</link>
-			<pubDate>Fri, 13 Mar 2026 06:50:25 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>MANAGER</level>
-			<rank>10</rank>
-		</item>
-		<item>
-			<title>On increasing focus in my career</title>
-			<link>https://www.ontestautomation.com/on-increasing-focus-in-my-career/</link>
-			<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>SENIOR</level>
-			<rank>7</rank>
-		</item>
-		<item>
-			<title>Why Care About Prompt Caching in LLMs?</title>
-			<link>https://towardsdatascience.com/why-care-about-promp-caching-in-llms/</link>
-			<pubDate>Fri, 13 Mar 2026 17:09:47 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>SENIOR</level>
-			<rank>17</rank>
-		</item>
-		<item>
-			<title>How Vision Language Models Are Trained from âScratchâ</title>
-			<link>
-				https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/</link>
-			<pubDate>Fri, 13 Mar 2026 16:30:00 +0000</pubDate>
-			<category>MACHINE_LEARNING/DEEP_LEARNING</category>
-			<topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
-			<level>SENIOR</level>
-			<rank>8</rank>
-		</item>
-		<item>
-			<title>Personalized Restaurant Ranking with a Two-Tower Embedding Variant</title>
-			<link>
-				https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/</link>
-			<pubDate>Fri, 13 Mar 2026 15:00:00 +0000</pubDate>
-			<category>MACHINE_LEARNING/DEEP_LEARNING</category>
-			<topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
-			<level>SENIOR</level>
-			<rank>9</rank>
-		</item>
-		<item>
-			<title>A Tale of Two Variances: Why NumPy and Pandas Give Different Answers</title>
-			<link>
-				https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/</link>
-			<pubDate>Fri, 13 Mar 2026 13:30:00 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
+			<title>Building a Neatly Framed Word Clock</title>
+			<link>https://hackaday.com/2026/03/14/building-a-neatly-framed-word-clock/</link>
+			<pubDate>Sun, 15 Mar 2026 05:00:35 +0000</pubDate>
+			<category>DIY/FUN</category>
+			<topic>DIY/FUN</topic>
 			<level>JUNIOR</level>
 			<rank>14</rank>
 		</item>
 		<item>
-			<title>How to Build Agentic RAG with Hybrid Search</title>
-			<link>https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/</link>
-			<pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
+			<title>This Printed Zipper Repair Requires No Unsewing</title>
+			<link>https://hackaday.com/2026/03/14/this-printed-zipper-repair-requires-no-unsewing/</link>
+			<pubDate>Sun, 15 Mar 2026 02:00:23 +0000</pubDate>
+			<category>DIY/FUN</category>
+			<topic>DIY/FUN</topic>
+			<level>JUNIOR</level>
 			<rank>13</rank>
 		</item>
 		<item>
-			<title>AI Set Up My Infra in 10 Minutes. But Failed to Replicate an Image in HTML</title>
-			<link>https://alexeyondata.substack.com/p/ai-set-up-my-infra-in-10-minutes</link>
-			<pubDate>Fri, 13 Mar 2026 13:44:21 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>JUNIOR</level>
-			<rank>8</rank>
-		</item>
-		<item>
-			<title>The Ladybug on the Clock Question</title>
-			<link>https://jamesmccaffreyblog.com/2026/03/13/the-ladybug-on-the-clock-question/</link>
-			<pubDate>Fri, 13 Mar 2026 10:30:13 +0000</pubDate>
+			<title>GNU Radio Gets a Makeover With PimpMyGRC</title>
+			<link>https://hackaday.com/2026/03/14/gnu-radio-gets-a-makeover-with-pimpmygrc/</link>
+			<pubDate>Sat, 14 Mar 2026 23:00:47 +0000</pubDate>
 			<category>DIY/FUN</category>
 			<topic>DIY/FUN</topic>
 			<level>JUNIOR</level>
-			<rank>9</rank>
-		</item>
-		<item>
-			<title>The Ladybug on the Clock Question</title>
-			<link>https://jamesmccaffreyblog.com/2026/03/13/the-ladybug-on-the-clock-question/</link>
-			<pubDate>Fri, 13 Mar 2026 10:30:13 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>9</rank>
-		</item>
-		<item>
-			<title>ðThe humanoids are coming.ð¤</title>
-			<link>https://www.fallacyalarm.com/p/the-humanoids-are-coming</link>
-			<pubDate>Fri, 13 Mar 2026 14:57:04 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>MANAGER</level>
 			<rank>11</rank>
 		</item>
 		<item>
-			<title>AI and the Entry-Level Job</title>
-			<link>https://hbr.org/2026/03/ai-and-the-entry-level-job</link>
-			<pubDate>Fri, 13 Mar 2026 12:25:48 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>MANAGER</level>
-			<rank>7</rank>
+			<title>Take Pi for a Spin in this Orbital Simulator</title>
+			<link>https://hackaday.com/2026/03/14/take-pi-for-a-spin-in-this-orbital-simulator/</link>
+			<pubDate>Sat, 14 Mar 2026 20:00:08 +0000</pubDate>
+			<category>DIY/FUN</category>
+			<topic>DIY/FUN</topic>
+			<level>JUNIOR</level>
+			<rank>9</rank>
 		</item>
 		<item>
-			<title>Lessons from Chinaâs Short-Drama Boom</title>
-			<link>https://hbr.org/2026/03/lessons-from-chinas-short-drama-boom</link>
-			<pubDate>Fri, 13 Mar 2026 12:15:57 +0000</pubDate>
+			<title>Off-Grid Electricity and Hot Water from Scrap Wood</title>
+			<link>
+				https://hackaday.com/2026/03/14/off-grid-electricity-and-hot-water-from-scrap-wood/</link>
+			<pubDate>Sat, 14 Mar 2026 17:00:45 +0000</pubDate>
+			<category>DIY/FUN</category>
+			<topic>DIY/FUN</topic>
+			<level>JUNIOR</level>
+			<rank>11</rank>
+		</item>
+		<item>
+			<title>What is a Computer?</title>
+			<link>https://hackaday.com/2026/03/14/what-is-a-computer/</link>
+			<pubDate>Sat, 14 Mar 2026 14:00:41 +0000</pubDate>
 			<category>OTHER</category>
 			<topic>OTHER</topic>
-			<level>MANAGER</level>
+			<level>JUNIOR</level>
+			<rank>12</rank>
+		</item>
+		<item>
+			<title>If You Like The Sound of a Thermoacoustic Stirling Engine, Check Out These Plans</title>
+			<link>
+				https://hackaday.com/2026/03/14/if-you-like-the-sound-of-a-thermoacoustic-stirling-engine-check-out-these-plans/</link>
+			<pubDate>Sat, 14 Mar 2026 11:00:23 +0000</pubDate>
+			<category>DIY/FUN</category>
+			<topic>DIY/FUN</topic>
+			<level>JUNIOR</level>
 			<rank>13</rank>
 		</item>
 		<item>
-			<title>The Map of U.S. Prosperity Is Changing. Hereâs Where Companies Should Invest.</title>
-			<link>
-				https://hbr.org/2026/03/the-map-of-u-s-prosperity-is-changing-heres-where-companies-should-invest</link>
-			<pubDate>Fri, 13 Mar 2026 12:05:14 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>MANAGER</level>
-			<rank>14</rank>
-		</item>
-		<item>
-			<title>1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
-			<link>https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</link>
-			<pubDate>Fri, 13 Mar 2026 00:00:00 -0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>SENIOR</level>
-			<rank>16</rank>
-		</item>
-		<item>
-			<title>Quoting Craig Mod</title>
-			<link>https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything</link>
-			<pubDate>Fri, 13 Mar 2026 00:00:00 -0000</pubDate>
+			<title>Quoting Jannis Leidel</title>
+			<link>https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything</link>
+			<pubDate>Sat, 14 Mar 2026 00:00:00 -0000</pubDate>
 			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
 			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
+			<level>SENIOR</level>
+			<rank>7</rank>
+		</item>
+		<item>
+			<title>My fireside chat about agentic engineering at the Pragmatic Summit</title>
+			<link>https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything</link>
+			<pubDate>Sat, 14 Mar 2026 00:00:00 -0000</pubDate>
+			<category>AGENTS/SKILLS/AGENTIC</category>
+			<topic>AGENTS/SKILLS/AGENTIC</topic>
 			<level>SENIOR</level>
 			<rank>10</rank>
 		</item>
 		<item>
-			<title>Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</title>
-			<link>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</link>
-			<pubDate>Fri, 13 Mar 2026 00:00:00 -0000</pubDate>
-			<category>PERFORMANCE_TESTING</category>
-			<topic>PERFORMANCE_TESTING</topic>
-			<level>SENIOR</level>
-			<rank>3</rank>
-		</item>
-		<item>
-			<title>next-forge 6 is now available</title>
-			<link>https://vercel.com/changelog/next-forge-6</link>
-			<pubDate>Fri, 13 Mar 2026 00:00:00 -0000</pubDate>
-			<category>DESIGN/PATTERNS/ARCHITECTURE</category>
-			<topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
-			<level>SENIOR</level>
-			<rank>6</rank>
-		</item>
-		<item>
-			<title>How Vision Language Models Are Trained from “Scratch”</title>
+			<title>Exclusive: Early look at upcoming vibe design tool from Google</title>
 			<link>
-				https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/</link>
-			<pubDate>Fri, 13 Mar 2026 00:00:00 -0000</pubDate>
-			<category>MACHINE_LEARNING/DEEP_LEARNING</category>
-			<topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
-			<level>SENIOR</level>
-			<rank>9</rank>
+				https://www.testingcatalog.com/exclusive-early-look-at-upcoming-vibe-design-tool-from-google/</link>
+			<pubDate>Sat, 14 Mar 2026 00:00:00 -0000</pubDate>
+			<category>OTHER</category>
+			<topic>OTHER</topic>
+			<level>JUNIOR</level>
+			<rank>10</rank>
 		</item>
     </channel>
 </rss>
