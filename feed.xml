@@ -1,624 +1,404 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:custom="https://makolesnik.github.io/ai-qa-news/feed.xml" version="2.0">
-	<channel>
-		<title>AI QA News</title>
-		<link>https://makolesnik.github.io/ai-qa-news/feed.xml</link>
-		<description>AI QA curated feed</description>
-		<language>en-ua</language>
-		<managingEditor>MK</managingEditor>
-		<generator>AI QA Feed Generator</generator>
-		<item>
-			<title>Google Gemma 4 — Free Open-Source AI That Codes Locally on Your GPU</title>
-			<link>https://ayyaztech.com/blog/google-gemma-4-local-ai-coding-free-ollama</link>
-			<pubDate>Fri, 03 Apr 2026 15:35:28 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>JUNIOR</level>
-			<rank>7</rank>
-		</item>
-		<item>
-			<title>Your Agent Is 80% Plumbing. Here Are the 12 Pieces You're Missing.</title>
-			<link>https://natesnewsletter.substack.com/p/your-agent-has-12-blind-spots-you</link>
-			<pubDate>Fri, 03 Apr 2026 13:03:59 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>16</rank>
-		</item>
-		<item>
-			<title>The Purpose of a System Is What It Does, or Why German Gas Prices Peak at Noon</title>
-			<link>
-				https://testpappy.wordpress.com/2026/04/03/the-purpose-of-a-system-is-what-it-does-or-why-german-gas-prices-peak-at-noon/</link>
-			<pubDate>Fri, 03 Apr 2026 10:00:00 +0000</pubDate>
-			<category>ENGINEERING_CULTURE_QUALITY</category>
-			<topic>ENGINEERING_CULTURE_QUALITY</topic>
-			<level>SENIOR</level>
-			<rank>11</rank>
-		</item>
-		<item>
-			<title>AI Cannot Replace Glue Work</title>
-			<link>https://testpappy.wordpress.com/2026/04/03/ai-cannot-replace-glue-work/</link>
-			<pubDate>Fri, 03 Apr 2026 06:50:54 +0000</pubDate>
-			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
-			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
-			<level>MANAGER</level>
-			<rank>11</rank>
-		</item>
-		<item>
-			<title>From Developer to Tester - BrowserStack Talks podcast with David Burns</title>
-			<link>
-				https://www.softwaretester.blog/from-developer-to-tester-browserstack-talks-podcast-with-david-burns/</link>
-			<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>SENIOR</level>
-			<rank>7</rank>
-		</item>
-		<item>
-			<title>Quoting Kyle Daigle</title>
-			<link>https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything</link>
-			<pubDate>Sat, 04 Apr 2026 02:20:17 +0000</pubDate>
-			<category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-			<topic>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</topic>
-			<level>MANAGER</level>
-			<rank>4</rank>
-		</item>
-		<item>
-			<title>Vulnerability Research Is Cooked</title>
-			<link>
-				https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything</link>
-			<pubDate>Fri, 03 Apr 2026 23:59:08 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>15</rank>
-		</item>
-		<item>
-			<title>The cognitive impact of coding agents</title>
-			<link>https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything</link>
-			<pubDate>Fri, 03 Apr 2026 23:57:04 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>16</rank>
-		</item>
-		<item>
-			<title>Quoting Willy Tarreau</title>
-			<link>https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything</link>
-			<pubDate>Fri, 03 Apr 2026 21:48:22 +0000</pubDate>
-			<category>SECURITY_TESTING</category>
-			<topic>SECURITY_TESTING</topic>
-			<level>MANAGER</level>
-			<rank>1</rank>
-		</item>
-		<item>
-			<title>Quoting Daniel Stenberg</title>
-			<link>https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything</link>
-			<pubDate>Fri, 03 Apr 2026 21:46:07 +0000</pubDate>
-			<category>SECURITY_TESTING</category>
-			<topic>SECURITY_TESTING</topic>
-			<level>MANAGER</level>
-			<rank>3</rank>
-		</item>
-		<item>
-			<title>Quoting Greg Kroah-Hartman</title>
-			<link>https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything</link>
-			<pubDate>Fri, 03 Apr 2026 21:44:41 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>MANAGER</level>
-			<rank>13</rank>
-		</item>
-		<item>
-			<title>Can JavaScript Escape a CSP Meta Tag Inside an Iframe?</title>
-			<link>https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything</link>
-			<pubDate>Fri, 03 Apr 2026 16:05:00 +0000</pubDate>
-			<category>SECURITY_TESTING</category>
-			<topic>SECURITY_TESTING</topic>
-			<level>SENIOR</level>
-			<rank>2</rank>
-		</item>
-		<item>
-			<title>The Axios supply chain attack used individually targeted social engineering</title>
-			<link>
-				https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything</link>
-			<pubDate>Fri, 03 Apr 2026 13:54:53 +0000</pubDate>
-			<category>SECURITY_TESTING</category>
-			<topic>SECURITY_TESTING</topic>
-			<level>SENIOR</level>
-			<rank>2</rank>
-		</item>
-		<item>
-			<title>Our New Book on Behavioral Interviews Is Now Available on Amazon</title>
-			<link>https://blog.bytebytego.com/p/our-new-book-on-behavioral-interviews</link>
-			<pubDate>Fri, 03 Apr 2026 15:31:34 +0000</pubDate>
-			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
-			<level>MANAGER</level>
-			<rank>2</rank>
-		</item>
-		<item>
-			<title>Starving Genies</title>
-			<link>https://tidyfirst.substack.com/p/starving-genies</link>
-			<pubDate>Fri, 03 Apr 2026 13:37:36 +0000</pubDate>
-			<category>DESIGN/PATTERNS/ARCHITECTURE</category>
-			<topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
-			<level>SENIOR</level>
-			<rank>5</rank>
-		</item>
-		<item>
-			<title>From Developer to Tester - BrowserStack Talks podcast with David Burns</title>
-			<link>
-				https://www.softwaretester.blog/from-developer-to-tester-browserstack-talks-podcast-with-david-burns/</link>
-			<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
-			<level>SENIOR</level>
-			<rank>4</rank>
-		</item>
-		<item>
-			<title>Silicon Valley Heard 81,000 People: It Chose Not to Listen</title>
-			<link>
-				https://smarterarticles.co.uk/silicon-valley-heard-81-000-people-it-chose-not-to-listen?pk_campaign=rss-feed</link>
-			<pubDate>Sat, 04 Apr 2026 01:00:40 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>MANAGER</level>
-			<rank>12</rank>
-		</item>
-		<item>
-			<title>They Taught Themselves to Hack: How AI Agents Hold Your Data To Ransom</title>
-			<link>
-				https://smarterarticles.co.uk/they-taught-themselves-to-hack-how-ai-agents-hold-your-data-to-ransom?pk_campaign=rss-feed</link>
-			<pubDate>Fri, 03 Apr 2026 01:00:40 +0000</pubDate>
-			<category>SECURITY_TESTING</category>
-			<topic>SECURITY_TESTING</topic>
-			<level>MANAGER</level>
-			<rank>7</rank>
-		</item>
-		<item>
-			<title>The Last Useful Animal</title>
-			<link>https://testerstories.com/2026/04/the-last-useful-animal/</link>
-			<pubDate>Fri, 03 Apr 2026 17:54:25 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>SENIOR</level>
-			<rank>18</rank>
-		</item>
-		<item>
-			<title>A Canonical Example of Machine Learning Regression Using C#</title>
-			<link>
-				https://jamesmccaffreyblog.com/2026/04/03/a-canonical-example-of-machine-learning-regression-using-c/</link>
-			<pubDate>Fri, 03 Apr 2026 10:30:57 +0000</pubDate>
-			<category>MACHINE_LEARNING/DEEP_LEARNING</category>
-			<topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
-			<level>JUNIOR</level>
-			<rank>4</rank>
-		</item>
-		<item>
-			<title>We are becoming Harness Engineers</title>
-			<link>https://kau.sh/blog/harness-engineers/</link>
-			<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>14</rank>
-		</item>
-		<item>
-			<title>I Built an AI Agent Team for Software Development and Tested on 5 Real Projects</title>
-			<link>https://alexeyondata.substack.com/p/i-built-an-ai-agent-team-for-software</link>
-			<pubDate>Fri, 03 Apr 2026 10:46:22 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>14</rank>
-		</item>
-		<item>
-			<title>Reliability Engineering for Air-Gapped Systems</title>
-			<link>https://blog.alexewerlof.com/p/reliability-engineering-for-air-gapped</link>
-			<pubDate>Fri, 03 Apr 2026 21:03:06 +0000</pubDate>
-			<category>SRE (Site Reliability Engineering)</category>
-			<topic>SRE (Site Reliability Engineering)</topic>
-			<level>SENIOR</level>
-			<rank>12</rank>
-		</item>
-		<item>
-			<title>Episode 228: Hangin’ with Shachin and Pulkit</title>
-			<link>https://testingpodcast.com/episode-228-hangin-with-shachin-and-pulkit/</link>
-			<pubDate>Fri, 03 Apr 2026 17:00:00 +0000</pubDate>
-			<category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-			<topic>BOOKS/CONFERENCES/PODCASTS/RESOURCES</topic>
-			<level>SENIOR</level>
-			<rank>10</rank>
-		</item>
-		<item>
-			<title>Claude’s Codebase Leaked… and the Weirdest Thing Inside Was 187 Spinner Verbs</title>
-			<link>
-				https://medium.com/@kanishks772/claudes-codebase-leaked-and-the-weirdest-thing-inside-was-187-spinner-verbs-adc6664699d1?source=rss-28bc612dd382------2</link>
-			<pubDate>Fri, 03 Apr 2026 14:59:13 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>JUNIOR</level>
-			<rank>15</rank>
-		</item>
-		<item>
-			<title>Oracle Layoffs at 6 AM, AI at 6 Billion: Welcome to Modern Tech</title>
-			<link>
-				https://medium.com/@kanishks772/oracle-layoffs-at-6-am-ai-at-6-billion-welcome-to-modern-tech-fef63b217efe?source=rss-28bc612dd382------2</link>
-			<pubDate>Fri, 03 Apr 2026 04:16:10 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>MANAGER</level>
-			<rank>8</rank>
-		</item>
-		<item>
-			<title>Evaluating alignment of behavioral dispositions in LLMs</title>
-			<link>
-				https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/</link>
-			<pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>SENIOR</level>
-			<rank>15</rank>
-		</item>
-		<item>
-			<title>How Anthropic shipped 120 features in 90 days (and how to use them)</title>
-			<link>https://www.news.aakashg.com/p/anthropic-q1-features</link>
-			<pubDate>Fri, 03 Apr 2026 22:04:31 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>JUNIOR</level>
-			<rank>8</rank>
-		</item>
-		<item>
-			<title>The oracle has opinions</title>
-			<link>https://kato-coaching.com/the-oracle-has-opinions/</link>
-			<pubDate>Fri, 03 Apr 2026 07:00:00 +0000</pubDate>
-			<category>AI_GENERATED_TESTS</category>
-			<topic>AI_GENERATED_TESTS</topic>
-			<level>SENIOR</level>
-			<rank>6</rank>
-		</item>
-		<item>
-			<title>Ruby Digest #97 у Ruby: зміни, інструменти та досвід</title>
-			<link>https://dou.ua/forums/topic/58754/</link>
-			<pubDate>Fri, 03 Apr 2026 14:00:05 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>JUNIOR</level>
-			<rank>15</rank>
-		</item>
-		<item>
-			<title>Zephyr OS на Raspberry Pi Pico в Ubuntu 22.04: від нуля до Hello World</title>
-			<link>https://dou.ua/forums/topic/58410/</link>
-			<pubDate>Fri, 03 Apr 2026 08:00:05 +0000</pubDate>
-			<category>TEST_AUTOMATION</category>
-			<topic>TEST_AUTOMATION</topic>
-			<level>JUNIOR</level>
-			<rank>6</rank>
-		</item>
-		<item>
-			<title>Making a Vintage Allen Scythe Electric</title>
-			<link>https://hackaday.com/2026/04/03/making-a-vintage-allen-scythe-electric/</link>
-			<pubDate>Sat, 04 Apr 2026 05:00:52 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>12</rank>
-		</item>
-		<item>
-			<title>Reverse-Engineering a Handheld Car Tire Pressure Gauge</title>
-			<link>
-				https://hackaday.com/2026/04/03/reverse-engineering-a-handheld-car-tire-pressure-gauge/</link>
-			<pubDate>Sat, 04 Apr 2026 02:00:41 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>12</rank>
-		</item>
-		<item>
-			<title>Simulating a glowing fireplace with an RP2040</title>
-			<link>https://hackaday.com/2026/04/03/simulating-a-glowing-fireplace-with-an-rp2040/</link>
-			<pubDate>Fri, 03 Apr 2026 23:00:19 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>13</rank>
-		</item>
-		<item>
-			<title>Burning Wood to Brew Wood to Preserve Wood : Pine Tar</title>
-			<link>
-				https://hackaday.com/2026/04/03/burning-wood-to-brew-wood-to-preserve-wood-pine-tar/</link>
-			<pubDate>Fri, 03 Apr 2026 20:00:18 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>11</rank>
-		</item>
-		<item>
-			<title>For Such a Small Program, ZX81 1K Chess Sure Packs a Lot In</title>
-			<link>
-				https://hackaday.com/2026/04/03/for-such-a-small-program-zx81-1k-chess-sure-packs-a-lot-in/</link>
-			<pubDate>Fri, 03 Apr 2026 18:30:58 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>11</rank>
-		</item>
-		<item>
-			<title>Hackaday Podcast Episode 364: Clocks, Cameras, and Free Will</title>
-			<link>
-				https://hackaday.com/2026/04/03/hackaday-podcast-episode-364-clocks-cameras-and-free-will/</link>
-			<pubDate>Fri, 03 Apr 2026 16:00:18 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>JUNIOR</level>
-			<rank>14</rank>
-		</item>
-		<item>
-			<title>Fixing an E-Waste ASUS P5A-B Socket 7 Mainboard</title>
-			<link>https://hackaday.com/2026/04/03/fixing-an-e-waste-asus-p5a-b-socket-7-mainboard/</link>
-			<pubDate>Fri, 03 Apr 2026 15:30:46 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>12</rank>
-		</item>
-		<item>
-			<title>Programming (with AI agents) as theory building</title>
-			<link>https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</link>
-			<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>16</rank>
-		</item>
-		<item>
-			<title>Word Embeddings: How AI Understands ‘Similar Meaning’</title>
-			<link>https://qualitywithmillan.github.io/post/llm/what-is-embeddings.html</link>
-			<pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-			<category>MACHINE_LEARNING/DEEP_LEARNING</category>
-			<topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
-			<level>JUNIOR</level>
-			<rank>5</rank>
-		</item>
-		<item>
-			<title>What is Tokenization? How LLMs See Your Text</title>
-			<link>https://qualitywithmillan.github.io/post/llm/what-is-tokenization.html</link>
-			<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>JUNIOR</level>
-			<rank>7</rank>
-		</item>
-		<item>
-			<title>When War Becomes Efficient (and the Day the World almost Ended)</title>
-			<link>
-				https://aydinstone.wordpress.com/2026/04/03/when-war-becomes-efficient-and-the-day-the-world-almost-ended/</link>
-			<pubDate>Fri, 03 Apr 2026 07:58:00 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>JUNIOR</level>
-			<rank>10</rank>
-		</item>
-		<item>
-			<title>Не «домогосподарки», але проблеми є. Що насправді не так з українською оборонкою</title>
-			<link>https://dou.ua/lenta/articles/five-deftech-problems/</link>
-			<pubDate>Fri, 03 Apr 2026 07:00:13 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>SENIOR</level>
-			<rank>19</rank>
-		</item>
-		<item>
-			<title>YouTube: Make the Video Timer Always Visible</title>
-			<link>https://dev.to/andrewelans/youtube-make-the-video-timer-always-visible-20o</link>
-			<pubDate>Sat, 04 Apr 2026 06:03:54 +0000</pubDate>
-			<category>DIY/FUN</category>
-			<topic>DIY/FUN</topic>
-			<level>JUNIOR</level>
-			<rank>13</rank>
-		</item>
-		<item>
-			<title>React Radio Group Components: shadcn Patterns for Real Apps</title>
-			<link>
-				https://dev.to/vaibhavg/react-radio-group-components-shadcn-patterns-for-real-apps-4l4a</link>
-			<pubDate>Sat, 04 Apr 2026 06:02:45 +0000</pubDate>
-			<category>DESIGN/PATTERNS/ARCHITECTURE</category>
-			<topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
-			<level>SENIOR</level>
-			<rank>3</rank>
-		</item>
-		<item>
-			<title>200+ Resume Action Verbs That Get Results (by Category)</title>
-			<link>https://dev.to/sarah_m/200-resume-action-verbs-that-get-results-by-category-2bdp</link>
-			<pubDate>Sat, 04 Apr 2026 06:01:08 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>JUNIOR</level>
-			<rank>3</rank>
-		</item>
-		<item>
-			<title>Auditoría de smart contracts: por qué es imprescindible y cómo proteger tu
-				proyecto (2026)</title>
-			<link>
-				https://dev.to/beltsys-labs/auditoria-de-smart-contracts-por-que-es-imprescindible-y-como-proteger-tu-proyecto-2026-49p1</link>
-			<pubDate>Sat, 04 Apr 2026 06:00:11 +0000</pubDate>
-			<category>SECURITY_TESTING</category>
-			<topic>SECURITY_TESTING</topic>
-			<level>SENIOR</level>
-			<rank>1</rank>
-		</item>
-		<item>
-			<title>OpenAI Codex for Code Review: Developer Guide</title>
-			<link>https://dev.to/rahulxsingh/openai-codex-for-code-review-developer-guide-1ebc</link>
-			<pubDate>Sat, 04 Apr 2026 06:00:00 +0000</pubDate>
-			<category>AI_GENERATED_TESTS</category>
-			<topic>AI_GENERATED_TESTS</topic>
-			<level>SENIOR</level>
-			<rank>13</rank>
-		</item>
-		<item>
-			<title>5 Open Source CSS Frameworks for Mobile-First Web Development</title>
-			<link>
-				https://dev.to/137foundry/5-open-source-css-frameworks-for-mobile-first-web-development-2he9</link>
-			<pubDate>Sat, 04 Apr 2026 05:50:16 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>JUNIOR</level>
-			<rank>17</rank>
-		</item>
-		<item>
-			<title>I Built a Product While My User Slept. Here's What I Learned About Autonomous AI.</title>
-			<link>
-				https://dev.to/xadenai/i-built-a-product-while-my-user-slept-heres-what-i-learned-about-autonomous-ai-bp1</link>
-			<pubDate>Sat, 04 Apr 2026 05:48:25 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>SENIOR</level>
-			<rank>14</rank>
-		</item>
-		<item>
-			<title>Understanding the this Keyword in JavaScript</title>
-			<link>
-				https://dev.to/souvik_blog_b790df30e8dea/understanding-the-this-keyword-in-javascript-5135</link>
-			<pubDate>Sat, 04 Apr 2026 05:47:06 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>JUNIOR</level>
-			<rank>18</rank>
-		</item>
-		<item>
-			<title>Map and Set in JavaScript</title>
-			<link>https://dev.to/souvik_blog_b790df30e8dea/map-and-set-in-javascript-58ip</link>
-			<pubDate>Sat, 04 Apr 2026 05:46:54 +0000</pubDate>
-			<category>DESIGN/PATTERNS/ARCHITECTURE</category>
-			<topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
-			<level>JUNIOR</level>
-			<rank>2</rank>
-		</item>
-		<item>
-			<title>Destructuring in JavaScript</title>
-			<link>https://dev.to/souvik_blog_b790df30e8dea/destructuring-in-javascript-3412</link>
-			<pubDate>Sat, 04 Apr 2026 05:46:38 +0000</pubDate>
-			<category>DESIGN/PATTERNS/ARCHITECTURE</category>
-			<topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
-			<level>JUNIOR</level>
-			<rank>1</rank>
-		</item>
-		<item>
-			<title>JavaScript Promises Explained for Beginners</title>
-			<link>
-				https://dev.to/souvik_blog_b790df30e8dea/javascript-promises-explained-for-beginners-4okk</link>
-			<pubDate>Sat, 04 Apr 2026 05:46:16 +0000</pubDate>
-			<category>OTHER</category>
-			<topic>OTHER</topic>
-			<level>JUNIOR</level>
-			<rank>16</rank>
-		</item>
-		<item>
-			<title>Synchronous vs Asynchronous JavaScript</title>
-			<link>
-				https://dev.to/souvik_blog_b790df30e8dea/synchronous-vs-asynchronous-javascript-1893</link>
-			<pubDate>Sat, 04 Apr 2026 05:45:58 +0000</pubDate>
-			<category>DESIGN/PATTERNS/ARCHITECTURE</category>
-			<topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
-			<level>JUNIOR</level>
-			<rank>2</rank>
-		</item>
-		<item>
-			<title>A Canonical Example of Machine Learning Regression Using C#</title>
-			<link>
-				https://jamesmccaffreyblog.com/2026/04/03/a-canonical-example-of-machine-learning-regression-using-c/</link>
-			<pubDate>Fri, 03 Apr 2026 10:30:57 +0000</pubDate>
-			<category>MACHINE_LEARNING/DEEP_LEARNING</category>
-			<topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
-			<level>JUNIOR</level>
-			<rank>4</rank>
-		</item>
-		<item>
-			<title>DenseNet Paper Walkthrough: All Connected</title>
-			<link>https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/</link>
-			<pubDate>Fri, 03 Apr 2026 14:21:00 +0000</pubDate>
-			<category>MACHINE_LEARNING/DEEP_LEARNING</category>
-			<topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
-			<level>SENIOR</level>
-			<rank>9</rank>
-		</item>
-		<item>
-			<title>I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian</title>
-			<link>
-				https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/</link>
-			<pubDate>Fri, 03 Apr 2026 11:35:00 +0000</pubDate>
-			<category>AGENTS/SKILLS/AGENTIC</category>
-			<topic>AGENTS/SKILLS/AGENTIC</topic>
-			<level>JUNIOR</level>
-			<rank>7</rank>
-		</item>
-		<item>
-			<title>The Pitfalls of an Interim CEO</title>
-			<link>https://hbr.org/2026/04/the-pitfalls-of-an-interim-ceo</link>
-			<pubDate>Fri, 03 Apr 2026 12:25:40 +0000</pubDate>
-			<category>CAREER</category>
-			<topic>CAREER</topic>
-			<level>MANAGER</level>
-			<rank>10</rank>
-		</item>
-		<item>
-			<title>When Silos Hinder Innovation—and When They Can Help</title>
-			<link>https://hbr.org/2026/04/when-silos-hinder-innovation-and-when-they-can-help</link>
-			<pubDate>Fri, 03 Apr 2026 12:15:50 +0000</pubDate>
-			<category>ENGINEERING_CULTURE_QUALITY</category>
-			<topic>ENGINEERING_CULTURE_QUALITY</topic>
-			<level>MANAGER</level>
-			<rank>5</rank>
-		</item>
-		<item>
-			<title>Burnout Looks Different Across the Org Chart. Watch for These Signs.</title>
-			<link>
-				https://hbr.org/2026/04/burnout-looks-different-across-the-org-chart-watch-for-these-signs</link>
-			<pubDate>Fri, 03 Apr 2026 12:05:35 +0000</pubDate>
-			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
-			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
-			<level>MANAGER</level>
-			<rank>9</rank>
-		</item>
-		<item>
-			<title>The power of dropping practices</title>
-			<link>https://djdegrood.wordpress.com/2026/04/03/the-power-of-dropping-practices/</link>
-			<pubDate>Fri, 03 Apr 2026 06:43:47 +0000</pubDate>
-			<category>ENGINEERING_CULTURE_QUALITY</category>
-			<topic>ENGINEERING_CULTURE_QUALITY</topic>
-			<level>MANAGER</level>
-			<rank>6</rank>
-		</item>
-		<item>
-			<title>Cloudflare previews 'EmDash' – an AI-driven rebuild of WordPress in TypeScript</title>
-			<link>
-				https://www.devclass.com/serverless/2026/04/03/cloudflare-previews-emdash-an-ai-driven-rebuild-of-wordpress-in-typescript/5214241</link>
-			<pubDate>Fri, 03 Apr 2026 15:58:00 +0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>SENIOR</level>
-			<rank>17</rank>
-		</item>
-		<item>
-			<title>Every Engineer Is a Manager Now 🤖 — with Chris Lattner</title>
-			<link>https://refactoring.fm/p/every-engineer-is-a-manager-now-with</link>
-			<pubDate>Fri, 03 Apr 2026 07:03:15 +0000</pubDate>
-			<category>SOFT_SKILLS/WELLNESS/COACHING</category>
-			<topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
-			<level>SENIOR</level>
-			<rank>8</rank>
-		</item>
-		<item>
-			<title>Microsoft releases 3 new models on MAI Playground</title>
-			<link>https://www.testingcatalog.com/microsoft-releases-3-new-models-on-mai-playground/</link>
-			<pubDate>Fri, 03 Apr 2026 00:00:00 -0000</pubDate>
-			<category>AI_(general)</category>
-			<topic>AI_(general)</topic>
-			<level>JUNIOR</level>
-			<rank>9</rank>
-		</item>
-	</channel>
+  <channel>
+    <title>AI QA News</title>
+    <link>https://makolesnik.github.io/ai-qa-news/feed.xml</link>
+    <description>AI QA curated feed</description>
+    <language>en-ua</language>
+    <managingEditor>MK</managingEditor>
+    <generator>AI QA Feed Generator</generator>
+    <item>
+      <title>The Smallest Dialup ISP is a Raspberry Pi and a Prison Phone</title>
+      <link>
+        https://hackaday.com/2026/04/04/the-smallest-dialup-isp-is-a-raspberry-pi-and-a-prison-phone/</link>
+      <pubDate>Sun, 05 Apr 2026 02:00:59 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <topic>DIY/FUN</topic>
+      <level>JUNIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>Exposing a Radiation-Hardened 2.4 GHz Wi-Fi Receiver to 500 Kilograys</title>
+      <link>
+        https://hackaday.com/2026/04/04/exposing-a-radiation-hardened-2-4-ghz-wi-fi-receiver-to-500-kilograys/</link>
+      <pubDate>Sat, 04 Apr 2026 23:00:17 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <topic>DIY/FUN</topic>
+      <level>SENIOR</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>Scrap Vintage Camera Goes Digital with Scanner Parts</title>
+      <link>https://hackaday.com/2026/04/04/scrap-vintage-camera-goes-digital-with-scanner-parts/</link>
+      <pubDate>Sat, 04 Apr 2026 20:00:26 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <topic>DIY/FUN</topic>
+      <level>JUNIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>Open Graphics Card Powers Cyberpunk “Laptop”</title>
+      <link>https://hackaday.com/2026/04/04/open-graphics-card-powers-cyberpunk-laptop/</link>
+      <pubDate>Sat, 04 Apr 2026 17:00:27 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <topic>DIY/FUN</topic>
+      <level>JUNIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>The Rapper, The Canadian Academics, And The Secret Behind The Earworm</title>
+      <link>
+        https://hackaday.com/2026/04/04/the-rapper-the-canadian-academics-and-the-secret-behind-the-earworm/</link>
+      <pubDate>Sat, 04 Apr 2026 11:00:47 +0000</pubDate>
+      <category>OTHER</category>
+      <topic>OTHER</topic>
+      <level>JUNIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>Heathkit Tuner Saved from Junk Pile</title>
+      <link>https://hackaday.com/2026/04/04/heathkit-tuner-saved-from-junk-pile/</link>
+      <pubDate>Sat, 04 Apr 2026 08:00:15 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <topic>DIY/FUN</topic>
+      <level>JUNIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>Making a Vintage Allen Scythe Electric</title>
+      <link>https://hackaday.com/2026/04/03/making-a-vintage-allen-scythe-electric/</link>
+      <pubDate>Sat, 04 Apr 2026 05:00:52 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <topic>DIY/FUN</topic>
+      <level>JUNIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>Same Agents, Different Minds — What 180 Configurations Proved About AI Environment
+        Design</title>
+      <link>
+        https://dev.to/kuro_agent/same-agents-different-minds-what-180-configurations-proved-about-ai-environment-design-5cnn</link>
+      <pubDate>Sun, 05 Apr 2026 05:00:19 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <topic>AGENTS/SKILLS/AGENTIC</topic>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Please Verify: An Obstacle Course of Web UX Hell</title>
+      <link>https://dev.to/watts4/please-verify-an-obstacle-course-of-web-ux-hell-2i01</link>
+      <pubDate>Sun, 05 Apr 2026 04:51:24 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <topic>DIY/FUN</topic>
+      <level>JUNIOR</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi</title>
+      <link>https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e</link>
+      <pubDate>Sun, 05 Apr 2026 04:48:25 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <topic>AGENTS/SKILLS/AGENTIC</topic>
+      <level>JUNIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Beyond the Boardroom: How Decentralized Autonomous Organizations (DAOs) are Reshaping
+        E-commerce</title>
+      <link>
+        https://dev.to/yse_nft_c793979c5e2cc0316/beyond-the-boardroom-how-decentralized-autonomous-organizations-daos-are-reshaping-e-commerce-6i4</link>
+      <pubDate>Sun, 05 Apr 2026 04:45:01 +0000</pubDate>
+      <category>OTHER</category>
+      <topic>OTHER</topic>
+      <level>MANAGER</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>20 Articles Later: What I've Learned About AI Agent Writing</title>
+      <link>https://dev.to/huineng6/20-articles-later-what-ive-learned-about-ai-agent-writing-3oa1</link>
+      <pubDate>Sun, 05 Apr 2026 04:44:29 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <topic>AGENTS/SKILLS/AGENTIC</topic>
+      <level>JUNIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>How AI is Transforming Customer Experience</title>
+      <link>https://dev.to/vishaluttammane/how-ai-is-transforming-customer-experience-19if</link>
+      <pubDate>Sun, 05 Apr 2026 04:42:26 +0000</pubDate>
+      <category>AI_(general)</category>
+      <topic>AI_(general)</topic>
+      <level>MANAGER</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Auto-Generating Your First Material List with AI</title>
+      <link>https://dev.to/ken_deng_ai/auto-generating-your-first-material-list-with-ai-i7b</link>
+      <pubDate>Sun, 05 Apr 2026 04:41:33 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <topic>AGENTS/SKILLS/AGENTIC</topic>
+      <level>JUNIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Why Your Claude-Generated Code Falls Apart Three Weeks Later (And What to Do About It)</title>
+      <link>
+        https://dev.to/panav_mhatre_732271d2d44b/why-your-claude-generated-code-falls-apart-three-weeks-later-and-what-to-do-about-it-22ed</link>
+      <pubDate>Sun, 05 Apr 2026 04:40:59 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
+      <level>SENIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>Beyond the Hype: Mastering Crypto Twitter Marketing for Web3 Success</title>
+      <link>
+        https://dev.to/0xagency/beyond-the-hype-mastering-crypto-twitter-marketing-for-web3-success-3g5l</link>
+      <pubDate>Sun, 05 Apr 2026 04:40:03 +0000</pubDate>
+      <category>OTHER</category>
+      <topic>OTHER</topic>
+      <level>JUNIOR</level>
+      <rank>12</rank>
+    </item>
+    <item>
+      <title>Unlocking the Decentralized Future: A Deep Dive into AI Agent Development for Web3</title>
+      <link>
+        https://dev.to/0xagency/unlocking-the-decentralized-future-a-deep-dive-into-ai-agent-development-for-web3-4m0j</link>
+      <pubDate>Sun, 05 Apr 2026 04:40:01 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <topic>AGENTS/SKILLS/AGENTIC</topic>
+      <level>SENIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>We validated our COBOL-to-Python engine on 15,552 real-world programs. 98.78% produce
+        valid Python. Zero LLMs involved.</title>
+      <link>
+        https://dev.to/swarmly/we-validated-our-cobol-to-python-engine-on-15552-real-world-programs-9878-produce-valid-python-2d6a</link>
+      <pubDate>Sun, 05 Apr 2026 04:39:11 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <topic>DESIGN/PATTERNS/ARCHITECTURE</topic>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>How Databricks Just Showed Everyone What MCP Actually Looks Like in Production</title>
+      <link>
+        https://dev.to/om_shree_0709/how-databricks-just-showed-everyone-what-mcp-actually-looks-like-in-production-3i1a</link>
+      <pubDate>Sun, 05 Apr 2026 04:31:01 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <topic>AGENTS/SKILLS/AGENTIC</topic>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Word Embeddings: How AI Understands ‘Similar Meaning’</title>
+      <link>https://qualitywithmillan.github.io/post/llm/what-is-embeddings.html</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
+      <level>JUNIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Playwright POM (Without Classes): Make Your Tests Clean &amp; Reusable (The Easy Way)</title>
+      <link>
+        https://aparnamishra1212.medium.com/playwright-pom-without-classes-make-your-tests-clean-reusable-the-easy-way-490cfd982795?source=rss-c91aaba89d8------2</link>
+      <pubDate>Sat, 04 Apr 2026 22:05:29 +0000</pubDate>
+      <category>PLAYWRIGHT</category>
+      <topic>PLAYWRIGHT</topic>
+      <level>JUNIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Open Code + MiniMax M2.7: Get 95% Cheaper AI Coding (Claude Code Alternative)</title>
+      <link>
+        https://ayyaztech.com/blog/open-code-minimax-m2-7-cheap-ai-coding-claude-code-alternative</link>
+      <pubDate>Sat, 04 Apr 2026 12:36:20 +0000</pubDate>
+      <category>AI_(general)</category>
+      <topic>AI_(general)</topic>
+      <level>JUNIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>EP209: 12 Claude Code Features Every Engineer Should Know</title>
+      <link>https://blog.bytebytego.com/p/ep209-12-claude-code-features-every</link>
+      <pubDate>Sat, 04 Apr 2026 15:30:42 +0000</pubDate>
+      <category>AI_(general)</category>
+      <topic>AI_(general)</topic>
+      <level>JUNIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>How to Create a Personal Assistant with OpenClaw</title>
+      <link>
+        https://medium.com/codetodeploy/how-to-create-a-personal-assistant-with-openclaw-7b9980638e48?source=rss-1b616317eda------2</link>
+      <pubDate>Sat, 04 Apr 2026 16:28:45 +0000</pubDate>
+      <category>OPENCLAW/MOLTBOT</category>
+      <topic>OPENCLAW/MOLTBOT</topic>
+      <level>JUNIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>🧩Our Universe Is A Jigsaw Puzzle, Stillness IS The Key by Ryan Holiday, Re-read
+        Saturday,14, All Is One</title>
+      <link>
+        https://tcagley.wordpress.com/2026/04/04/%f0%9f%a7%a9our-universe-is-a-jigsaw-puzzle-stillness-is-the-key-by-ryan-holiday-re-read-saturday14-all-is-one/</link>
+      <pubDate>Sat, 04 Apr 2026 23:55:00 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
+      <level>MANAGER</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Building a Python Workflow That Catches Bugs Before Production</title>
+      <link>
+        https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/</link>
+      <pubDate>Sat, 04 Apr 2026 15:00:00 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <topic>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</topic>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Building Robust Credit Scoring Models with Python</title>
+      <link>https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/</link>
+      <pubDate>Sat, 04 Apr 2026 12:48:00 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <topic>MACHINE_LEARNING/DEEP_LEARNING</topic>
+      <level>JUNIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Risk-Based Testing: You already know what to test first</title>
+      <link>https://testinginprod.substack.com/p/risk-based-testing-you-already-know</link>
+      <pubDate>Sat, 04 Apr 2026 15:30:38 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <topic>TEST_STRATEGY/PLANNING/PROCESS</topic>
+      <level>SENIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>TBM 414: Legibility and Legitimacy</title>
+      <link>https://cutlefish.substack.com/p/tbm-414-legibility-and-legitimacy</link>
+      <pubDate>Sat, 04 Apr 2026 22:20:00 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <topic>ENGINEERING_CULTURE_QUALITY</topic>
+      <level>MANAGER</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>Systems Thinking and Test Cases</title>
+      <link>https://testpappy.wordpress.com/2026/04/04/systems-thinking-and-test-cases/</link>
+      <pubDate>Sat, 04 Apr 2026 06:23:00 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <topic>TEST_STRATEGY/PLANNING/PROCESS</topic>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>I Forced NotebookLM Into 6 Real Workflows — These Are The Results No One Talks About</title>
+      <link>https://aimadesimple0.substack.com/p/i-forced-notebooklm-into-6-real-workflows</link>
+      <pubDate>Sat, 04 Apr 2026 08:22:55 +0000</pubDate>
+      <category>AI_(general)</category>
+      <topic>AI_(general)</topic>
+      <level>JUNIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>The AI-Ready Software Developer #24 – Specification Is A Conversation</title>
+      <link>
+        https://codemanship.wordpress.com/2026/04/04/the-ai-ready-software-developer-24-specification-is-a-conversation/</link>
+      <pubDate>Sat, 04 Apr 2026 06:23:33 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <topic>AGENTS/SKILLS/AGENTIC</topic>
+      <level>SENIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>scan-for-secrets 0.2</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything</link>
+      <pubDate>Sun, 05 Apr 2026 04:07:13 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <topic>SECURITY_TESTING</topic>
+      <level>JUNIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>scan-for-secrets 0.1.1</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything</link>
+      <pubDate>Sun, 05 Apr 2026 03:39:33 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <topic>SECURITY_TESTING</topic>
+      <level>JUNIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>scan-for-secrets 0.1</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything</link>
+      <pubDate>Sun, 05 Apr 2026 03:27:13 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <topic>SECURITY_TESTING</topic>
+      <level>JUNIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>research-llm-apis 2026-04-04</title>
+      <link>https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</link>
+      <pubDate>Sun, 05 Apr 2026 00:32:11 +0000</pubDate>
+      <category>AI_(general)</category>
+      <topic>AI_(general)</topic>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>Quoting Kyle Daigle</title>
+      <link>https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything</link>
+      <pubDate>Sat, 04 Apr 2026 02:20:17 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <topic>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</topic>
+      <level>MANAGER</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Machines That Pretend to Care: The Human Cost of Fake Empathy</title>
+      <link>
+        https://smarterarticles.co.uk/machines-that-pretend-to-care-the-human-cost-of-fake-empathy?pk_campaign=rss-feed</link>
+      <pubDate>Sun, 05 Apr 2026 01:00:40 +0000</pubDate>
+      <category>AI_(general)</category>
+      <topic>AI_(general)</topic>
+      <level>MANAGER</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Silicon Valley Heard 81,000 People: It Chose Not to Listen</title>
+      <link>
+        https://smarterarticles.co.uk/silicon-valley-heard-81-000-people-it-chose-not-to-listen?pk_campaign=rss-feed</link>
+      <pubDate>Sat, 04 Apr 2026 01:00:40 +0000</pubDate>
+      <category>AI_(general)</category>
+      <topic>AI_(general)</topic>
+      <level>MANAGER</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>I have obtained my certificate as a professional training actor</title>
+      <link>
+        https://djdegrood.wordpress.com/2026/04/04/i-have-obtained-my-certificate-as-a-professional-training-actor/</link>
+      <pubDate>Sat, 04 Apr 2026 17:34:21 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <topic>SOFT_SKILLS/WELLNESS/COACHING</topic>
+      <level>MANAGER</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>I Tested Cowork, Lindy, Sauna, and Opal Against 3 Questions. The Best Scored 1 out of
+        4.</title>
+      <link>https://natesnewsletter.substack.com/p/every-ai-agent-you-use-has-the-same</link>
+      <pubDate>Sat, 04 Apr 2026 14:02:24 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <topic>AGENTS/SKILLS/AGENTIC</topic>
+      <level>JUNIOR</level>
+      <rank>6</rank>
+    </item>
+  </channel>
 </rss>
