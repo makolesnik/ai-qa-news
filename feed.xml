@@ -9,412 +9,276 @@
     <managingEditor>MK</managingEditor>
     <generator>AI QA Feed Generator</generator>
     <item>
-      <title>Pruning Machine Learning Training Data Using an RBF Kernel with C#</title>
+      <title>Why Your Test Automation Framework Feels Like a Mess (And How to Fix the Folder
+        Structure Once and…</title>
       <link>
-        https://jamesmccaffreyblog.com/2026/07/27/pruning-machine-learning-training-data-using-an-rbf-kernel-with-c/</link>
-      <pubDate>Mon, 27 Jul 2026 10:30:41 +0000</pubDate>
-      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+        https://medium.com/@pritamkundu.pk5/why-your-test-automation-framework-feels-like-a-mess-and-how-to-fix-the-folder-structure-once-and-642e6c3f2d95?source=rss-57dfa8c63439------2</link>
+      <pubDate>Wed, 29 Jul 2026 04:01:25 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
       <level>SENIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>The Twelve-Factor App: 12 Rules Your App Is Probably Breaking Right Now</title>
-      <link>
-        https://pub.towardsai.net/the-twelve-factor-app-12-rules-your-app-is-probably-breaking-right-now-975cf9128609?source=rss-2ac2a73e28f5------2</link>
-      <pubDate>Mon, 27 Jul 2026 05:10:39 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>The Cloud Tester’s Playbook</title>
-      <link>
-        https://aws.plainenglish.io/the-cloud-testers-playbook-1abc779b970f?source=rss-5e58aa88bcbb------2</link>
-      <pubDate>Mon, 27 Jul 2026 10:04:17 +0000</pubDate>
-      <category>PERFORMANCE_TESTING</category>
-      <level>SENIOR</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>The AI Adoption Bottleneck Keeps Moving</title>
-      <link>https://generativeprogrammer.com/p/the-ai-adoption-bottleneck-keeps</link>
-      <pubDate>Mon, 27 Jul 2026 23:13:34 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>AI can be a deadly trap for Internal Audit</title>
-      <link>https://normanmarks.wordpress.com/2026/07/27/ai-can-be-a-deadly-trap-for-internal-audit/</link>
-      <pubDate>Mon, 27 Jul 2026 13:45:40 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>MANAGER</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Untrusted advice for AI control: Short, strong advice significantly uplifts weak LLMs</title>
-      <link>https://blog.redwoodresearch.org/p/untrusted-advice-for-ai-control-short</link>
-      <pubDate>Mon, 27 Jul 2026 23:59:30 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>16</rank>
-    </item>
-    <item>
-      <title>SRE Weekly Issue #527</title>
-      <link>https://sreweekly.com/sre-weekly-issue-527/</link>
-      <pubDate>Mon, 27 Jul 2026 01:15:44 +0000</pubDate>
-      <category>SRE (Site Reliability Engineering)</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Managing Billing Complexity: adesso’s Expertise </title>
-      <link>https://www.adesso.de/en/news/blog/managing-billing-complexity-adessos-expertise.jsp</link>
-      <pubDate>Mon, 27 Jul 2026 06:55:51 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>MANAGER</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>Pruning Machine Learning Training Data Using an RBF Kernel with C#</title>
-      <link>
-        https://jamesmccaffreyblog.com/2026/07/27/pruning-machine-learning-training-data-using-an-rbf-kernel-with-c/</link>
-      <pubDate>Mon, 27 Jul 2026 10:30:41 +0000</pubDate>
-      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
-      <level>SENIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Vibe Engineering, Season 2: Judgement Engineering</title>
-      <link>
-        https://medium.com/@andreworobator/vibe-engineering-season-2-judgement-engineering-806c1d62f2ac?source=rss-a02caf2ee8f4------2</link>
-      <pubDate>Mon, 27 Jul 2026 14:20:54 +0000</pubDate>
-      <category>VIBIUM</category>
-      <level>SENIOR</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>Stop guessing whether a cheaper model can do the job. Grab the bakeoff guide: the
-        validator, the manifest, the score sheet, and the fixtures.</title>
-      <link>https://natesnewsletter.substack.com/p/chinese-ai-models-test</link>
-      <pubDate>Mon, 27 Jul 2026 13:00:56 +0000</pubDate>
-      <category>PERFORMANCE_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>moonshotai/Kimi-K3</title>
-      <link>https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</link>
-      <pubDate>Mon, 27 Jul 2026 23:39:04 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>An opinionated guide to which AI to use to do stuff</title>
-      <link>
-        https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</link>
-      <pubDate>Mon, 27 Jul 2026 21:55:53 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>Outsmarting Cyber Threats: SMBs Need Multi-Layered Security</title>
-      <link>
-        https://greenido.dev/2026/07/27/your-antivirus-isnt-enough-anymore-what-ai-powered-attacks-mean-for-small-business-owners/</link>
-      <pubDate>Mon, 27 Jul 2026 14:07:00 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Don’t forget to look up [1]</title>
-      <link>https://www.rosiesherry.com/dont-forget-to-look-up-1/</link>
-      <pubDate>Mon, 27 Jul 2026 16:39:55 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
       <rank>3</rank>
     </item>
     <item>
-      <title>Transitions are Hard</title>
-      <link>https://angryweasel.substack.com/p/transitions-are-hard</link>
-      <pubDate>Mon, 27 Jul 2026 15:31:36 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>SENIOR</level>
-      <rank>26</rank>
-    </item>
-    <item>
-      <title>How to Do Spec-Driven Development</title>
-      <link>https://newsletter.eng-leadership.com/p/how-to-do-spec-driven-development</link>
-      <pubDate>Mon, 27 Jul 2026 14:39:24 +0000</pubDate>
-      <category>AGILE/SCRUM</category>
-      <level>SENIOR</level>
-      <rank>25</rank>
-    </item>
-    <item>
-      <title>I Tried Anthropic (New) Claude Code Security Plugin (One Scan Cost Me 754k Tokens)</title>
+      <title>Own Your AI: The Complete Guide to Running LLMs Locally with Ollama — Privacy, Zero API
+        Costs, and…</title>
       <link>
-        https://medium.com/@joe.njenga/i-tried-anthropic-new-claude-code-security-plugin-one-scan-cost-me-754k-tokens-223ffdc454aa?source=rss-15bfc6bce2c9------2</link>
-      <pubDate>Mon, 27 Jul 2026 21:53:36 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Everyone Analyzed the Graph Engineering Debate. Nobody Read the Documentation.</title>
-      <link>
-        https://medium.com/ai-all-in/everyone-analyzed-the-graph-engineering-debate-nobody-read-the-documentation-bcc962762b3f?source=rss-4656cac95152------2</link>
-      <pubDate>Mon, 27 Jul 2026 11:57:59 +0000</pubDate>
-      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
-      <level>SENIOR</level>
-      <rank>11</rank>
-    </item>
-    <item>
-      <title>How the EU can punish Google (despite Trump)</title>
-      <link>
-        https://doctorow.medium.com/https-pluralistic-net-2026-07-27-eucd-6-and-the-wisdom-to-know-the-difference-5592ba4a06a6?source=rss-eba9888d741b------2</link>
-      <pubDate>Mon, 27 Jul 2026 10:52:42 +0000</pubDate>
-      <category>REGULATORY_COMPLIANCE</category>
-      <level>MANAGER</level>
-      <rank>13</rank>
-    </item>
-    <item>
-      <title>Object permanence</title>
-      <link>
-        https://doctorow.medium.com/object-permanence-2deda802a225?source=rss-eba9888d741b------2</link>
-      <pubDate>Mon, 27 Jul 2026 10:52:38 +0000</pubDate>
-      <category>PHILOSOPHY/PSYCHOLOGY (related to cognitive development)</category>
-      <level>SENIOR</level>
-      <rank>23</rank>
-    </item>
-    <item>
-      <title>AI roulette: A quick win and a time sink</title>
-      <link>https://www.kenst.com/ai-roulette-a-quick-win-and-a-time-sink/</link>
-      <pubDate>Mon, 27 Jul 2026 19:21:11 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>You’re Probably Doing More Than “Manual Testing”</title>
-      <link>https://insitepeek.net/blog/youre-probably-doing-more-than-manual-testing/</link>
-      <pubDate>Mon, 27 Jul 2026 16:03:31 +0000</pubDate>
-      <category>MANUAL_TESTING</category>
-      <level>SENIOR</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>How NVIDIA Builds Open Models for the Age of AI</title>
-      <link>https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for</link>
-      <pubDate>Mon, 27 Jul 2026 15:01:46 +0000</pubDate>
-      <category>OPENCLAW/MOLTBOT</category>
-      <level>MANAGER</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>End-to-End Testing Strategies for Customer Lifecycle Workflows</title>
-      <link>
-        https://www.softwaretestingmagazine.com/knowledge/end-to-end-testing-strategies-for-customer-lifecycle-workflows/</link>
-      <pubDate>Mon, 27 Jul 2026 14:32:27 +0000</pubDate>
-      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
-      <level>MANAGER</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Your Test Strategy Was Built for Human Developers. AI Changed the Rules.</title>
-      <link>
-        https://manishsaini74.medium.com/your-test-strategy-was-built-for-human-developers-ai-changed-the-rules-9b1e0f6bcbed?source=rss-2afcb904d789------2</link>
-      <pubDate>Tue, 28 Jul 2026 03:46:01 +0000</pubDate>
-      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
-      <level>MANAGER</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>HTTP Message Signatures with curl</title>
-      <link>https://daniel.haxx.se/blog/2026/07/27/http-message-signatures-with-curl/</link>
-      <pubDate>Mon, 27 Jul 2026 06:55:03 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Good relationships, automation, and weekly readings 💡</title>
-      <link>https://refactoring.fm/p/good-relationships-automation-and</link>
-      <pubDate>Mon, 27 Jul 2026 07:00:37 +0000</pubDate>
-      <category>AGILE/SCRUM</category>
-      <level>SENIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>Sometimes Efficiency Is Just Turning the Suitcase the Other Way</title>
-      <link>
-        https://carloarg02.medium.com/sometimes-efficiency-is-just-turning-the-suitcase-the-other-way-833e229e4479?source=rss-9c868705830b------2</link>
-      <pubDate>Mon, 27 Jul 2026 16:52:06 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>AI in QA - Issue #20</title>
-      <link>https://aiinqa.com/ai-in-qa-issue-20/</link>
-      <pubDate>Mon, 27 Jul 2026 09:56:33 +0000</pubDate>
+        https://medium.com/@himanshuai/own-your-ai-the-complete-guide-to-running-llms-locally-with-ollama-privacy-zero-api-costs-and-8a2269404ddc?source=rss-5e58aa88bcbb------2</link>
+      <pubDate>Tue, 28 Jul 2026 13:33:29 +0000</pubDate>
       <category>AI_(general)</category>
       <level>SENIOR</level>
       <rank>9</rank>
     </item>
     <item>
-      <title>You've (Just) Had an Incident. What Next? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incidents-and-recovery</link>
-      <pubDate>Mon, 27 Jul 2026 16:40:14 +0000</pubDate>
+      <title>Selenium with Python: The Ultimate Guide to Web Automation Testing</title>
+      <link>
+        https://dev.to/guru_prasad_06091982/selenium-with-python-the-ultimate-guide-to-web-automation-testing-5723</link>
+      <pubDate>Wed, 29 Jul 2026 06:02:45 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Building a Secure Local AI Agent on Open-Source Infrastructure: Lessons from SGLang,
+        Olares, and Real-World Audits</title>
+      <link>
+        https://dev.to/tamizuddin/building-a-secure-local-ai-agent-on-open-source-infrastructure-lessons-from-sglang-olares-and-3f8</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:58 +0000</pubDate>
+      <category>Security considerations for deploying local AI agents using SGLang and Olares,
+        including context window leaks, tool hallucination, model inversion attacks, and recommended
+        security practices.</category>
+      <level>High</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>How to Set Up a Professional Python Development Environment</title>
+      <link>https://dev.to/qingluan/how-to-set-up-a-professional-python-development-environment-10c0</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:54 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>MANAGER</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Build a Finance Tracker App with Python and SQLite</title>
+      <link>https://dev.to/qingluan/build-a-finance-tracker-app-with-python-and-sqlite-576i</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:49 +0000</pubDate>
+      <category>finance tracker app</category>
+      <level>beginner</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Smart Traffic Systems: Configuring Flow for a Smarter City</title>
+      <link>
+        https://dev.to/mike_clarke_50a95013f5c59/smart-traffic-systems-configuring-flow-for-a-smarter-city-odd</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:20 +0000</pubDate>
       <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
       <level>SENIOR</level>
-      <rank>3</rank>
+      <rank>1</rank>
     </item>
     <item>
-      <title>LLM Model Portfolio and Exit Plan: Capability Tiers, Routing, and Eval-Gated Rotation</title>
-      <link>
-        https://medium.com/@wasowski.jarek/llm-model-portfolio-and-exit-plan-capability-tiers-routing-and-eval-gated-rotation-3fd3554404e9?source=rss-7ca2d2558598------2</link>
-      <pubDate>Mon, 27 Jul 2026 19:24:38 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>4</rank>
+      <title>Python Abstract Base Classes: Design Patterns</title>
+      <link>https://dev.to/qingluan/python-abstract-base-classes-design-patterns-2hpc</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:09 +0000</pubDate>
+      <category>Abstract Base Classes (ABCs) in Python</category>
+      <level>Intermediate</level>
+      <rank>1</rank>
     </item>
     <item>
-      <title>SDD Factory Readiness Assessment: Maturity Diagnosis, Scorecard, and Business Case</title>
-      <link>
-        https://medium.com/@wasowski.jarek/sdd-factory-readiness-assessment-maturity-diagnosis-scorecard-and-business-case-b62f6ad2fce5?source=rss-7ca2d2558598------2</link>
-      <pubDate>Mon, 27 Jul 2026 10:08:40 +0000</pubDate>
-      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
-      <level>MANAGER</level>
-      <rank>3</rank>
+      <title>Build a Browser Automation Tool with Selenium</title>
+      <link>https://dev.to/qingluan/build-a-browser-automation-tool-with-selenium-36ck</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:04 +0000</pubDate>
+      <category>Selenium Browser Automation</category>
+      <level>advanced</level>
+      <rank>1</rank>
     </item>
     <item>
-      <title>“Los Movimientos”: The Routing Problem That Nearly Broke My Spirit</title>
-      <link>
-        https://towardsdatascience.com/los-movimientos-the-routing-problem-that-nearly-broke-my-spirit-2/</link>
-      <pubDate>Mon, 27 Jul 2026 16:30:00 +0000</pubDate>
+      <title>Unified Social Media API vs Native Platform APIs</title>
+      <link>https://dev.to/calebrhodes/unified-social-media-api-vs-native-platform-apis-db9</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:01 +0000</pubDate>
       <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
+      <level>MANAGER</level>
+      <rank>5</rank>
     </item>
     <item>
-      <title>Reducing Human Annotation with ML Active Learning</title>
-      <link>https://towardsdatascience.com/reducing-human-annotation-with-ml-active-learning/</link>
-      <pubDate>Mon, 27 Jul 2026 15:00:00 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>The Most Beautiful Statistic: The History and the Science of the Humble Mean</title>
+      <title>Implementing JWT Refresh Token Rotation for Video API Clients</title>
       <link>
-        https://towardsdatascience.com/the-most-beautiful-statistic-the-history-and-the-science-of-the-humble-mean/</link>
-      <pubDate>Mon, 27 Jul 2026 13:30:00 +0000</pubDate>
-      <category>STATISTICS</category>
-      <level>SENIOR</level>
-      <rank>20</rank>
-    </item>
-    <item>
-      <title>How I Reproduced BM25, Dense Retrieval, and SPLADE on a 16GB MacBook</title>
-      <link>
-        https://towardsdatascience.com/how-i-reproduced-bm25-dense-retrieval-and-splade-on-a-16gb-macbook/</link>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
-      <category>PERFORMANCE_TESTING</category>
-      <level>SENIOR</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>What Alex Karp really meant in that viral CNBC interview</title>
-      <link>
-        https://ai.gopubby.com/what-alex-karp-really-meant-in-that-viral-cnbc-interview-777cfef91903?source=rss-1c1c6d2b089------2</link>
-      <pubDate>Mon, 27 Jul 2026 09:48:16 +0000</pubDate>
-      <category>REQUIREMENTS_ANALYSIS</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Fraud-as-a-Service: Why Blaming Victims Protects the Enablers</title>
-      <link>
-        https://smarterarticles.co.uk/fraud-as-a-service-why-blaming-victims-protects-the-enablers?pk_campaign=rss-feed</link>
-      <pubDate>Tue, 28 Jul 2026 01:00:30 +0000</pubDate>
-      <category>Fraud as a Service (FaaS) and the responsibility of infrastructure providers to
-        address cybercrime, particularly concerning AI-driven fraud.</category>
+        https://dev.to/ahmet_gedik778845/implementing-jwt-refresh-token-rotation-for-video-api-clients-342h</link>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0000</pubDate>
+      <category>JWT Refresh Token Rotation for Video API Clients</category>
       <level>high</level>
       <rank>1</rank>
     </item>
     <item>
-      <title>Opt-Out Is Not Consent: What Music AI Licensing Must Require</title>
+      <title>Building a Public Backlog of AI Agent Failures: What's the Worst Thing Your Tests
+        Didn't Catch?</title>
       <link>
-        https://smarterarticles.co.uk/opt-out-is-not-consent-what-music-ai-licensing-must-require?pk_campaign=rss-feed</link>
-      <pubDate>Mon, 27 Jul 2026 01:00:30 +0000</pubDate>
-      <category>Music AI licensing and copyright</category>
-      <level>B2</level>
-      <rank>1</rank>
+        https://dev.to/humanbound_ai/building-a-public-backlog-of-ai-agent-failures-whats-the-worst-thing-your-tests-didnt-catch-1l14</link>
+      <pubDate>Wed, 29 Jul 2026 05:57:32 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>MANAGER</level>
+      <rank>2</rank>
     </item>
     <item>
-      <title>AI agents are not subsystem maintainers</title>
-      <link>https://lalitm.com/post/ai-subsystem-maintainer/</link>
-      <pubDate>Mon, 27 Jul 2026 09:43:00 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <title>PDF Engine — Rust/WASM PDF Processing in Your Browser</title>
+      <link>
+        https://dev.to/jack_green_7b74cb2cdf9e23/pdf-engine-rustwasm-pdf-processing-in-your-browser-2499</link>
+      <pubDate>Wed, 29 Jul 2026 05:55:16 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
       <level>SENIOR</level>
       <rank>13</rank>
     </item>
     <item>
-      <title>The Difference Between a Senior Engineer and a Toxic Reviewer</title>
+      <title>React Compiler in Production: Adoption, Measurement &amp; Safe Rollout</title>
       <link>
-        https://medium.com/@kanishks772/the-difference-between-a-senior-engineer-and-a-toxic-reviewer-99d2989ccdc5?source=rss-28bc612dd382------2</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:28 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
+        https://dev.to/endurance-softwares/react-compiler-in-production-adoption-measurement-safe-rollout-14pf</link>
+      <pubDate>Wed, 29 Jul 2026 05:54:46 +0000</pubDate>
+      <category>PERFORMANCE_TESTING</category>
       <level>MANAGER</level>
-      <rank>10</rank>
+      <rank>2</rank>
     </item>
     <item>
-      <title>For the First Time Ever, Google’s AI Bet Is Costing More Than It Makes</title>
+      <title>Object permanence</title>
       <link>
-        https://medium.com/@kanishks772/for-the-first-time-ever-googles-ai-bet-is-costing-more-than-it-makes-2c2e5f2f5a77?source=rss-28bc612dd382------2</link>
-      <pubDate>Mon, 27 Jul 2026 04:28:09 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
+        https://doctorow.medium.com/object-permanence-c73f9b9ac986?source=rss-eba9888d741b------2</link>
+      <pubDate>Tue, 28 Jul 2026 10:45:48 +0000</pubDate>
+      <category>PHILOSOPHY/PSYCHOLOGY (related to cognitive development)</category>
+      <level>SENIOR</level>
+      <rank>20</rank>
+    </item>
+    <item>
+      <title>Discernment</title>
+      <link>https://doctorow.medium.com/discernment-087ffc751793?source=rss-eba9888d741b------2</link>
+      <pubDate>Tue, 28 Jul 2026 10:45:47 +0000</pubDate>
+      <category>AI_(general)</category>
       <level>SENIOR</level>
       <rank>14</rank>
     </item>
     <item>
-      <title>One Writer · Our tools assume one writer, and assume that writer is a human. Nothing
-        computes what a change reads and writes at runtime, so the only known fix is brute force
-        priced for organizations.</title>
+      <title>How to Build Frontier-Lab Quality Evals with Daniel McKinnon, ex-PM at Meta, Google</title>
+      <link>https://www.news.aakashg.com/p/how-to-build-your-first-eval</link>
+      <pubDate>Tue, 28 Jul 2026 21:49:23 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Website QA Testing Before an International Product Launch</title>
       <link>
-        https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/testing/ci/distributed/2026/07/27/one-writer.html</link>
-      <pubDate>Mon, 27 Jul 2026 02:00:00 +0000</pubDate>
-      <category>The challenges and potential solutions for concurrent software development,
-        particularly regarding conflict resolution and schema evolution, using techniques like CRDTs
-        and advocating for structural representations over text-based diffs.</category>
-      <level>Advanced</level>
+        https://www.softwaretestingmagazine.com/knowledge/website-qa-testing-before-an-international-product-launch/</link>
+      <pubDate>Tue, 28 Jul 2026 15:38:00 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <level>MANAGER</level>
       <rank>1</rank>
     </item>
     <item>
-      <title>Making RAG 32x Cheaper with This Simple Trick(That Most Teams Miss)</title>
+      <title>Graph Engineering Explained: The Hidden System Behind Reliable AI Agents</title>
       <link>
-        https://medium.com/ai-engineering-simplified/making-rag-32x-cheaper-with-this-simple-trick-that-most-teams-miss-a5b6a70028d5?source=rss-8cf8d1ee55e0------2</link>
-      <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
+        https://medium.com/ai-engineering-simplified/graph-engineering-explained-the-hidden-system-behind-reliable-ai-agents-3ba781213376?source=rss-8cf8d1ee55e0------2</link>
+      <pubDate>Tue, 28 Jul 2026 08:51:26 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>Know your feedback loop</title>
+      <link>https://unstack.io/know-your-feedback-loop</link>
+      <pubDate>Tue, 28 Jul 2026 17:00:43 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>JUNIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>The Orchestrator's Tax</title>
+      <link>https://martinfowler.com/articles/orchestrator-tax.html</link>
+      <pubDate>Tue, 28 Jul 2026 13:10:00 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Why I’m Writing Rachel’s Ramblings</title>
+      <link>https://martinfowler.com/rachels-ramblings/intro.html</link>
+      <pubDate>Tue, 28 Jul 2026 12:32:00 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>I Use AI to Improve My Decision Tree Regression Using C#</title>
+      <link>
+        https://jamesmccaffreyblog.com/2026/07/28/i-use-ai-to-improve-my-decision-tree-regression-using-csharp/</link>
+      <pubDate>Tue, 28 Jul 2026 10:30:36 +0000</pubDate>
       <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>Stop Asking AI for Test Cases: Building a Gate-Controlled SDET Prompt</title>
+      <link>https://ujjwalkumarsingh.substack.com/p/stop-asking-ai-for-test-cases-building</link>
+      <pubDate>Tue, 28 Jul 2026 06:14:51 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Irregular Time Series Data: Solving for Item Response Theory in R</title>
+      <link>
+        https://zimanaanalytics.medium.com/irregular-time-series-data-solving-for-item-response-theory-in-r-9957f6a166f0?source=rss-a25f63b8e7b6------2</link>
+      <pubDate>Tue, 28 Jul 2026 14:40:15 +0000</pubDate>
+      <category>REQUIREMENTS_ANALYSIS</category>
       <level>SENIOR</level>
       <rank>7</rank>
     </item>
     <item>
-      <title>3 things top 1% teams do differently</title>
-      <link>https://managerdotdev.beehiiv.com/p/3-things-top-1-teams-do-differently</link>
-      <pubDate>Tue, 28 Jul 2026 06:01:00 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>MANAGER</level>
-      <rank>11</rank>
+      <title>Before OpenAI, Sam Altman Built a Startup That Failed. Here’s Why It Matters.</title>
+      <link>
+        https://medium.com/@kanishks772/before-openai-sam-altman-built-a-startup-that-failed-heres-why-it-matters-2c4cabbd067d?source=rss-28bc612dd382------2</link>
+      <pubDate>Tue, 28 Jul 2026 17:56:48 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>14</rank>
     </item>
     <item>
-      <title>My ISTQB Odyssey: Nine Years from Foundation to Automation</title>
+      <title>While OpenAI Charged for AI, This Company Just Gave Away a 2.8 Trillion Parameter Model</title>
       <link>
-        https://medium.com/@dneprokos/my-istqb-odyssey-nine-years-from-foundation-to-automation-219598e26943?source=rss-ed663f95fcb3------2</link>
-      <pubDate>Mon, 27 Jul 2026 08:18:51 +0000</pubDate>
-      <category>TEST_MANAGEMENT</category>
+        https://medium.com/@kanishks772/while-openai-charged-for-ai-this-company-just-gave-away-a-2-8-trillion-parameter-model-e73d7deb52ee?source=rss-28bc612dd382------2</link>
+      <pubDate>Tue, 28 Jul 2026 06:59:48 +0000</pubDate>
+      <category>AI_(general)</category>
       <level>SENIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>How can our employees find information faster?</title>
+      <link>https://visible-quality.blogspot.com/2026/07/how-can-our-employees-find-information.html</link>
+      <pubDate>Tue, 28 Jul 2026 07:51:29 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>The Book That Taught Me More Than I Expected</title>
+      <link>
+        https://medium.com/@srinib100/the-book-that-taught-me-more-than-i-expected-1b8de919718a?source=rss-6772d0c8dba1------2</link>
+      <pubDate>Tue, 28 Jul 2026 16:27:26 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <level>JUNIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>We Broke the Customer Support Agent in 20 Minutes</title>
+      <link>
+        https://medium.com/@srinib100/we-broke-the-customer-support-agent-in-20-minutes-03783cbfb520?source=rss-6772d0c8dba1------2</link>
+      <pubDate>Tue, 28 Jul 2026 02:51:03 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>What Is the AI Work You’re Sending Colleagues Actually Telling Them About You?</title>
+      <link>
+        https://pramodaiml.medium.com/what-does-the-ai-generated-work-youre-sending-colleagues-say-about-you-the-f9d71765467a?source=rss-770fc3e11a47------2</link>
+      <pubDate>Wed, 29 Jul 2026 05:37:15 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>MANAGER</level>
       <rank>4</rank>
     </item>
     <item>
@@ -427,313 +291,21 @@
       <rank>9</rank>
     </item>
     <item>
-      <title>Everyone Is Asking Who Is Winning
-        the US-China AI Race. That Is the Wrong Question.</title>
-      <link>
-        https://medium.com/predict/everyone-is-asking-who-is-winning-the-us-china-ai-race-that-is-the-wrong-question-da54fdb56950?source=rss-770fc3e11a47------2</link>
-      <pubDate>Mon, 27 Jul 2026 16:53:56 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>De-Aging Human Tissue Using Special Enzyme to Remove AGEs</title>
-      <link>
-        https://hackaday.com/2026/07/27/de-aging-human-tissue-using-special-enzyme-to-remove-ages/</link>
-      <pubDate>Tue, 28 Jul 2026 05:00:50 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>21</rank>
-    </item>
-    <item>
-      <title>A Labour Of Love Brings A Kids Book To The Spectrum</title>
-      <link>https://hackaday.com/2026/07/27/a-labour-of-love-brings-a-kids-book-to-the-spectrum/</link>
-      <pubDate>Tue, 28 Jul 2026 02:00:22 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>SENIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>Re-Testing an Apollo Guidance Computer Module that Failed Certification Testing</title>
-      <link>
-        https://hackaday.com/2026/07/27/re-testing-an-apollo-guidance-computer-module-that-failed-certification-testing/</link>
-      <pubDate>Mon, 27 Jul 2026 23:00:08 +0000</pubDate>
-      <category>TEST_AUTOMATION</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Reviving a Retro Mouse with BlueTooth low Energy support</title>
-      <link>
-        https://hackaday.com/2026/07/27/reviving-a-retro-mouse-with-bluetooth-low-energy-support/</link>
-      <pubDate>Mon, 27 Jul 2026 20:00:38 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>SENIOR</level>
-      <rank>27</rank>
-    </item>
-    <item>
-      <title>Regain Some Trust in Unknown USB Drives</title>
-      <link>https://hackaday.com/2026/07/27/regain-some-trust-in-unknown-usb-drives/</link>
-      <pubDate>Mon, 27 Jul 2026 18:30:00 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>Flexible PCBs: Not Only For The Few</title>
-      <link>https://hackaday.com/2026/07/27/flexible-pcbs-not-only-for-the-few/</link>
-      <pubDate>Mon, 27 Jul 2026 17:00:00 +0000</pubDate>
-      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
-      <level>SENIOR</level>
-      <rank>11</rank>
-    </item>
-    <item>
-      <title>M.A.S.K.-Inspired Cyberdeck for all your Portable Computing needs</title>
-      <link>
-        https://hackaday.com/2026/07/27/m-a-s-k-inspired-cyberdeck-for-all-your-portable-computing-needs/</link>
-      <pubDate>Mon, 27 Jul 2026 15:30:00 +0000</pubDate>
-      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
-      <level>SENIOR</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>Shifting readiness left: What AI can (and can't) do for organisational readiness by Nel
-        Mathams</title>
-      <link>
-        https://blog.scottlogic.com/2026/07/27/shifting-readiness-left-what-ai-can-and-cant-do-for-organisational-readiness.html</link>
-      <pubDate>Mon, 27 Jul 2026 14:48:00 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>MANAGER</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>A Startup Asked Me To “Shred Their Investor Pitch Deck” So…</title>
-      <link>
-        https://ehandbook.com/a-startup-asked-me-to-shred-their-investor-pitch-deck-so-ef212c895c8a?source=rss-af39049f1499------2</link>
-      <pubDate>Mon, 27 Jul 2026 09:01:02 +0000</pubDate>
-      <category>REQUIREMENTS_ANALYSIS</category>
-      <level>SENIOR</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>The Misplaced Pride of the Scrum Master</title>
-      <link>
-        https://flowchainsensei.wordpress.com/2026/07/27/the-misplaced-pride-of-the-scrum-master/</link>
-      <pubDate>Mon, 27 Jul 2026 06:41:21 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>13</rank>
-    </item>
-    <item>
       <title>Qwen Code vs Claude Code vs Antigravity CLI: A Spring Boot Developer’s Take</title>
       <link>
         https://qainsights.com/qwen-code-vs-claude-code-vs-antigravity-cli-a-spring-boot-developers-take/</link>
       <pubDate>Tue, 28 Jul 2026 02:58:05 +0000</pubDate>
       <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
       <level>MANAGER</level>
-      <rank>2</rank>
+      <rank>3</rank>
     </item>
     <item>
-      <title>Only 5 Seats Left — Hands-On Loop Engineering with Claude</title>
-      <link>
-        https://medium.com/to-data-beyond/only-5-seats-left-hands-on-loop-engineering-with-claude-6123e8448126?source=rss-859af34925b7------2</link>
-      <pubDate>Tue, 28 Jul 2026 03:01:03 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>Чи ще один курс тебе не врятує?</title>
-      <link>https://linarecruiting.substack.com/p/a45</link>
-      <pubDate>Mon, 27 Jul 2026 11:27:20 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Questions to ask when examining or designing software product development workflows</title>
-      <link>
-        https://jchyip.medium.com/questions-to-ask-when-examining-or-designing-software-product-development-workflows-03585cf42282?source=rss-c9e1e21ba2b9------2</link>
-      <pubDate>Mon, 27 Jul 2026 12:01:02 +0000</pubDate>
-      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>What’s New in gt: Multi-Column Stubs, Row-Wise Summaries, and Functions Since Version
-        0.11</title>
-      <link>
-        https://zimanaanalytics.medium.com/whats-new-in-gt-multi-column-stubs-row-wise-summaries-and-functions-since-version-0-11-e7b4823fb21a?source=rss-a25f63b8e7b6------2</link>
-      <pubDate>Mon, 27 Jul 2026 15:28:58 +0000</pubDate>
-      <category>DATA_ANALYSIS</category>
-      <level>SENIOR</level>
-      <rank>20</rank>
-    </item>
-    <item>
-      <title>If AI Writes All the Code, What Do the Programmers Do?</title>
-      <link>
-        https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/</link>
-      <pubDate>Tue, 28 Jul 2026 01:36:49 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>We Broke the Customer Support Agent in 20 Minutes</title>
-      <link>
-        https://medium.com/@srinib100/we-broke-the-customer-support-agent-in-20-minutes-03783cbfb520?source=rss-6772d0c8dba1------2</link>
-      <pubDate>Tue, 28 Jul 2026 02:51:03 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>What Do You Actually Federate? Notes from the 4th NFCS AI Container Registry Workshop</title>
-      <link>
-        https://medium.com/@huishi1885/what-do-you-actually-federate-notes-from-the-4th-nfcs-ai-container-registry-workshop-ce21bd215b2e?source=rss-8d361e217002------2</link>
-      <pubDate>Mon, 27 Jul 2026 15:57:05 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>Performance Testing in CI Without Burning Time</title>
-      <link>
-        https://scrolltest.medium.com/performance-testing-in-ci-without-burning-time-ff7c8ce0354b?source=rss-83bf28a851bb------2</link>
-      <pubDate>Tue, 28 Jul 2026 03:31:01 +0000</pubDate>
-      <category>PERFORMANCE_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>k6 Thresholds That Match User Risk</title>
-      <link>
-        https://scrolltest.medium.com/k6-thresholds-that-match-user-risk-ea048decb7dd?source=rss-83bf28a851bb------2</link>
-      <pubDate>Mon, 27 Jul 2026 12:31:01 +0000</pubDate>
-      <category>PERFORMANCE_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Core Web Vitals Smoke Checks</title>
-      <link>
-        https://scrolltest.medium.com/core-web-vitals-smoke-checks-7137b964db9d?source=rss-83bf28a851bb------2</link>
-      <pubDate>Mon, 27 Jul 2026 03:31:01 +0000</pubDate>
-      <category>PERFORMANCE_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>The Motivation</title>
-      <link>https://randsinrepose.com/archives/the-motivation/</link>
-      <pubDate>Mon, 27 Jul 2026 18:02:26 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>JUNIOR</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>Зарплати QA зростають | OpenAI зламав Hugging Face | 5G вже в Києві — DOU News #260</title>
-      <link>https://dou.ua/lenta/articles/dou-news-260/</link>
-      <pubDate>Mon, 27 Jul 2026 10:00:05 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>16</rank>
-    </item>
-    <item>
-      <title>Використання досконалої диз'юнктивної нормальної форми (ДДНФ) для створення умови
-        предикату WHERE</title>
-      <link>https://dou.ua/forums/topic/61018/</link>
-      <pubDate>Tue, 28 Jul 2026 06:05:06 +0000</pubDate>
-      <category>"Tours Database Query Optimization"</category>
-      <level>MANAGER</level>
-      <rank>14</rank>
-    </item>
-    <item>
-      <title>Front-end Digest № 162: Базові принципи мікрофронтендів, витоки пам'яті в Next.js та
-        адаптивне ASCII-мистецтво в CSS</title>
-      <link>https://dou.ua/forums/topic/61006/</link>
-      <pubDate>Mon, 27 Jul 2026 12:00:06 +0000</pubDate>
-      <category>JavaScript State Management and React</category>
-      <level>Expert</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Однаковий success rate — протилежний досвід (де насправді ламається система під
-        навантаженням)</title>
-      <link>https://dou.ua/forums/topic/60921/</link>
-      <pubDate>Mon, 27 Jul 2026 09:00:06 +0000</pubDate>
-      <category>Sweep, twotakt, SimPy, Erlang</category>
-      <level>Technical/Engineering</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>AI roulette: A quick win and a time sink</title>
-      <link>https://www.kenst.com/ai-roulette-a-quick-win-and-a-time-sink/</link>
-      <pubDate>Mon, 27 Jul 2026 19:21:11 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>Stateful Prompt Injections, Specialized Security Models, Token Optimization, and
-        Adaptive LLM Benchmarking</title>
-      <link>https://daily.testingeducation.org/podcast/2026-07-27/</link>
-      <pubDate>Mon, 27 Jul 2026 08:32:54 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>The Age of Casual AI Is Ending</title>
-      <link>https://aydinstone.wordpress.com/2026/07/27/the-age-of-casual-ai-is-ending/</link>
-      <pubDate>Mon, 27 Jul 2026 07:03:07 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>Developer Experience as a Measurable Outcome</title>
-      <link>
-        https://levelup.gitconnected.com/developer-experience-as-a-measurable-outcome-6a0aa9ddb6f5?source=rss-7c74e8297288------2</link>
-      <pubDate>Mon, 27 Jul 2026 16:35:01 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Two-way doors sometimes lock behind you</title>
-      <link>https://fffej.substack.com/p/two-way-doors-sometimes-lock-behind</link>
-      <pubDate>Mon, 27 Jul 2026 06:05:08 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Your useMemo Probably Isn't Doing Anything</title>
-      <link>
-        https://thetshaped.dev/p/react-rendering-demystified-your-usememo-probably-isnt-doing-anything</link>
-      <pubDate>Tue, 28 Jul 2026 06:10:09 +0000</pubDate>
-      <category>TEST_AUTOMATION</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>GPT has just released a feature that could transform the entire web economy.</title>
-      <link>
-        https://medium.com/codex/gpt-has-just-released-a-feature-that-could-transform-the-entire-web-economy-ad41c5c3bcf8?source=rss-28703a37ca3b------2</link>
-      <pubDate>Mon, 27 Jul 2026 19:30:10 +0000</pubDate>
+      <title>The real AI risk is inside the labs</title>
+      <link>http://antirez.com/news/172</link>
+      <pubDate>Tue, 28 Jul 2026 09:00:11 +0000</pubDate>
       <category>AI_(general)</category>
       <level>MANAGER</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>The Behavioral Interview: A Structured Guide covering 12 competencies</title>
-      <link>
-        https://medium.com/womenintechnology/the-behavioral-interview-a-structured-guide-covering-12-competencies-b6fa1917efd8?source=rss-b2b4c0725476------2</link>
-      <pubDate>Mon, 27 Jul 2026 19:47:36 +0000</pubDate>
-      <category>CAREER</category>
-      <level>MANAGER</level>
-      <rank>15</rank>
+      <rank>6</rank>
     </item>
     <item>
       <title>Can AI Agents Change Each Other’s Minds?</title>
@@ -742,7 +314,7 @@
       <pubDate>Tue, 28 Jul 2026 03:46:10 +0000</pubDate>
       <category>AGENTS/SKILLS/AGENTIC</category>
       <level>SENIOR</level>
-      <rank>7</rank>
+      <rank>8</rank>
     </item>
     <item>
       <title>How Distributed Systems Fail: A Field Guide to the Bugs You Cannot Test For</title>
@@ -751,7 +323,7 @@
       <pubDate>Tue, 28 Jul 2026 03:45:59 +0000</pubDate>
       <category>DISTRIBUTED SYSTEMS</category>
       <level>SENIOR</level>
-      <rank>20</rank>
+      <rank>19</rank>
     </item>
     <item>
       <title>Orchestrating a multi-agent solution with the Microsoft Agent Framework</title>
@@ -779,7 +351,7 @@
       <pubDate>Tue, 28 Jul 2026 03:45:10 +0000</pubDate>
       <category>Rust Strings</category>
       <level>SENIOR</level>
-      <rank>20</rank>
+      <rank>19</rank>
     </item>
     <item>
       <title>Speculative Decoding Algorithms: DSpark, DFlash, MTP</title>
@@ -798,7 +370,7 @@
       <pubDate>Tue, 28 Jul 2026 01:55:53 +0000</pubDate>
       <category>AGENTS/SKILLS/AGENTIC</category>
       <level>SENIOR</level>
-      <rank>7</rank>
+      <rank>8</rank>
     </item>
     <item>
       <title>The Day I Stopped Arguing About Choreography vs Orchestration</title>
@@ -807,7 +379,7 @@
       <pubDate>Tue, 28 Jul 2026 01:55:40 +0000</pubDate>
       <category>DESIGN/PATTERNS/ARCHITECTURE</category>
       <level>SENIOR</level>
-      <rank>17</rank>
+      <rank>15</rank>
     </item>
     <item>
       <title>How We Built an MCP Server in Kotlin — Keeping Stdio Clean for JSON-RPC</title>
@@ -816,7 +388,7 @@
       <pubDate>Tue, 28 Jul 2026 01:55:31 +0000</pubDate>
       <category>SOFTWARE_ARCHITECTURE</category>
       <level>SENIOR</level>
-      <rank>23</rank>
+      <rank>20</rank>
     </item>
     <item>
       <title>Idempotency in Payment Systems: How Revolut Prevents Double Charges</title>
@@ -825,15 +397,462 @@
       <pubDate>Tue, 28 Jul 2026 01:55:20 +0000</pubDate>
       <category>PAYMENT_PROCESSING</category>
       <level>SENIOR</level>
-      <rank>20</rank>
+      <rank>19</rank>
     </item>
     <item>
-      <title>Ultimate Guide: ChatGPT Work For PMs</title>
-      <link>https://www.news.aakashg.com/p/chatgpt-work-pm</link>
-      <pubDate>Mon, 27 Jul 2026 20:04:39 +0000</pubDate>
+      <title>Andrej Karpathy’s Fix for LLM Memory Works on Code Too</title>
+      <link>
+        https://medium.com/ai-all-in/andrej-karpathys-fix-for-llm-memory-works-on-code-too-9a9e38b18b4e?source=rss-f80094072ee0------2</link>
+      <pubDate>Tue, 28 Jul 2026 12:33:17 +0000</pubDate>
       <category>AI_(general)</category>
       <level>SENIOR</level>
       <rank>9</rank>
+    </item>
+    <item>
+      <title>Only 5 Seats Left — Hands-On Loop Engineering with Claude</title>
+      <link>
+        https://medium.com/to-data-beyond/only-5-seats-left-hands-on-loop-engineering-with-claude-6123e8448126?source=rss-859af34925b7------2</link>
+      <pubDate>Tue, 28 Jul 2026 03:01:03 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>Компанії готові шукати їх роками і платити $8000 — хто такі радіофізики і чому
+        їх бракує в оборонці</title>
+      <link>https://dou.ua/lenta/articles/rf-engineers-in-deftech/</link>
+      <pubDate>Tue, 28 Jul 2026 07:00:06 +0000</pubDate>
+      <category>RF Engineers in Deftech</category>
+      <level>Expert</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>10 Ways to Defeat Distraction</title>
+      <link>https://leadershipfreak.blog/2026/07/28/10-ways-to-defeat-distraction/</link>
+      <pubDate>Tue, 28 Jul 2026 10:31:00 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Discovering cryptographic weaknesses with Claude</title>
+      <link>
+        https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</link>
+      <pubDate>Tue, 28 Jul 2026 22:45:37 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Quoting Akshat Bubna</title>
+      <link>https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything</link>
+      <pubDate>Tue, 28 Jul 2026 22:05:55 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>uv 0.12.0</title>
+      <link>https://simonwillison.net/2026/Jul/28/uv/#atom-everything</link>
+      <pubDate>Tue, 28 Jul 2026 21:51:38 +0000</pubDate>
+      <category>PACKAGE_MANAGEMENT</category>
+      <level>SENIOR</level>
+      <rank>19</rank>
+    </item>
+    <item>
+      <title>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026
+        Incident</title>
+      <link>
+        https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</link>
+      <pubDate>Tue, 28 Jul 2026 21:28:54 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>AI in Testing #13: What Google’s AI Tools Are Actually Worth to QA Right Now</title>
+      <link>
+        https://medium.com/@cheparsky/ai-in-testing-13-what-googles-ai-tools-are-actually-worth-to-qa-right-now-2ee0a1b248ed?source=rss-a5c4dd2ec120------2</link>
+      <pubDate>Tue, 28 Jul 2026 14:12:06 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Najpreperskejšie MeshCore hodinky nielen pre zombie apokalypsu</title>
+      <link>
+        https://wilderko.medium.com/najpreperskej%C5%A1ie-meshcore-hodinky-nielen-pre-zombie-apokalypsu-c551b0d2e786?source=rss-7234c21bbeb6------2</link>
+      <pubDate>Tue, 28 Jul 2026 08:54:14 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>AI Requirements Elicitation: Clarification, Negative Requirements, and Requirement
+        Mining — SDD</title>
+      <link>
+        https://levelup.gitconnected.com/ai-requirements-elicitation-clarification-negative-requirements-and-requirement-mining-sdd-45b09173e796?source=rss-7ca2d2558598------2</link>
+      <pubDate>Tue, 28 Jul 2026 19:33:50 +0000</pubDate>
+      <category>REQUIREMENTS_ANALYSIS</category>
+      <level>SENIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>The Canonical Spec-Driven Development Workflow: Eight Phases, Phase Gates, and Feedback
+        Loops</title>
+      <link>
+        https://levelup.gitconnected.com/the-canonical-spec-driven-development-workflow-eight-phases-phase-gates-and-feedback-loops-fd44ce937a05?source=rss-7ca2d2558598------2</link>
+      <pubDate>Tue, 28 Jul 2026 10:27:51 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Transitioning to Harness Engineering and Semantic Test Pruning</title>
+      <link>https://daily.testingeducation.org/podcast/2026-07-28/</link>
+      <pubDate>Tue, 28 Jul 2026 09:33:43 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Stop Detecting Deepfakes: Make the Fraud Irrelevant by Design</title>
+      <link>
+        https://smarterarticles.co.uk/stop-detecting-deepfakes-make-the-fraud-irrelevant-by-design?pk_campaign=rss-feed</link>
+      <pubDate>Wed, 29 Jul 2026 01:00:30 +0000</pubDate>
+      <category>Security and Fraud Prevention - Designing Systems to Resist Deepfakes</category>
+      <level>Level 2</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Fraud-as-a-Service: Why Blaming Victims Protects the Enablers</title>
+      <link>
+        https://smarterarticles.co.uk/fraud-as-a-service-why-blaming-victims-protects-the-enablers?pk_campaign=rss-feed</link>
+      <pubDate>Tue, 28 Jul 2026 01:00:30 +0000</pubDate>
+      <category>Fraud as a Service (FaaS) and the responsibility of infrastructure providers to
+        address cybercrime, particularly concerning AI-driven fraud.</category>
+      <level>high</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Access and Refresh Tokens: What They Solve, and What Every Backend Developer Should
+        Understand</title>
+      <link>
+        https://medium.com/womenintechnology/access-and-refresh-tokens-what-they-solve-and-what-every-backend-developer-should-get-right-d702b989cd2b?source=rss-b2b4c0725476------2</link>
+      <pubDate>Tue, 28 Jul 2026 15:33:14 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>TestGuild Test Automation Podcast</title>
+      <link>
+        https://qualityremarks.com/testguild-test-automation-podcast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=testguild-test-automation-podcast</link>
+      <pubDate>Wed, 29 Jul 2026 06:02:21 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>DOOM Using Regular Expressions</title>
+      <link>https://hackaday.com/2026/07/28/doom-using-regular-expressions/</link>
+      <pubDate>Wed, 29 Jul 2026 05:00:06 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>How the Vagus Nerve Promotes Healthy Cognition via Acetylcholine Signaling</title>
+      <link>
+        https://hackaday.com/2026/07/28/how-the-vagus-nerve-promotes-healthy-cognition-via-acetylcholine-signaling/</link>
+      <pubDate>Wed, 29 Jul 2026 02:00:26 +0000</pubDate>
+      <category>REQUIREMENTS_ANALYSIS</category>
+      <level>SENIOR</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>Improving the Microcontroller Gaming Performance with PicoGame</title>
+      <link>
+        https://hackaday.com/2026/07/28/improving-the-microcontroller-gaming-performance-with-picogame/</link>
+      <pubDate>Tue, 28 Jul 2026 23:00:00 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>Why Is Textile Work Not Taught To Engineers?</title>
+      <link>https://hackaday.com/2026/07/28/why-is-textile-work-not-taught-to-engineers/</link>
+      <pubDate>Tue, 28 Jul 2026 20:00:00 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>Samsung’s SmartThings API Terminates Free Access</title>
+      <link>https://hackaday.com/2026/07/28/samsungs-smartthings-api-terminates-free-access/</link>
+      <pubDate>Tue, 28 Jul 2026 17:00:21 +0000</pubDate>
+      <category>OPENCLAW/MOLTBOT</category>
+      <level>MANAGER</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>Sharkfin Bites Attack Shark</title>
+      <link>https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/</link>
+      <pubDate>Tue, 28 Jul 2026 15:30:39 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Breaking the Parental Lock on an XBox 360 is Very Much an Inconvenience</title>
+      <link>
+        https://hackaday.com/2026/07/28/breaking-the-parental-lock-on-an-xbox-360-is-very-much-an-inconvenience/</link>
+      <pubDate>Tue, 28 Jul 2026 14:00:00 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>0%, 50%, or 200%</title>
+      <link>https://www.danshapiro.com/blog/2026/07/0-50-or-200/</link>
+      <pubDate>Tue, 28 Jul 2026 15:30:08 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>Why it is effectively impossible to work without a Governance, Risk &amp;amp;
+        Compliance tool</title>
+      <link>
+        https://www.adesso.de/en/news/blog/why-it-is-effectively-impossible-to-work-without-a-governance-risk-compliance-tool.jsp</link>
+      <pubDate>Tue, 28 Jul 2026 05:30:29 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <level>MANAGER</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>From a player to a coach - 5 ideas from the Quality Coach`s Handbook</title>
+      <link>https://testengineeringnotes.com/posts/2026-07-28-quality-coach-review/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <category>TEST_MANAGEMENT</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways</title>
+      <link>https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats</link>
+      <pubDate>Tue, 28 Jul 2026 15:30:42 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>Mobile Testing Strategy: Appium, Espresso, XCTest</title>
+      <link>
+        https://scrolltest.medium.com/mobile-testing-strategy-appium-espresso-xctest-9c0c7f4068ba?source=rss-83bf28a851bb------2</link>
+      <pubDate>Wed, 29 Jul 2026 03:31:01 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Load Testing APIs With Realistic Data</title>
+      <link>
+        https://scrolltest.medium.com/load-testing-apis-with-realistic-data-6e51f5a23a9d?source=rss-83bf28a851bb------2</link>
+      <pubDate>Tue, 28 Jul 2026 12:31:02 +0000</pubDate>
+      <category>PERFORMANCE_TESTING</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Performance Testing in CI Without Burning Time</title>
+      <link>
+        https://scrolltest.medium.com/performance-testing-in-ci-without-burning-time-ff7c8ce0354b?source=rss-83bf28a851bb------2</link>
+      <pubDate>Tue, 28 Jul 2026 03:31:01 +0000</pubDate>
+      <category>PERFORMANCE_TESTING</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Playwright Chronicles: Crafting Elegant Automation in JS/TS from Scratch — Part 38:
+        Flaky Test…</title>
+      <link>
+        https://medium.com/ai-qa-nexus/playwright-chronicles-crafting-elegant-automation-in-js-ts-from-scratch-part-38-flaky-test-224f66dd08f9?source=rss-660a24018c28------2</link>
+      <pubDate>Wed, 29 Jul 2026 05:02:30 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Типи баз знань для експертних систем: чому правила, фрейми, онтології та випадки дають
+        різні висновки</title>
+      <link>https://dou.ua/forums/topic/60963/</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:06 +0000</pubDate>
+      <category>This document provides an overview of several related technologies including RDF,
+        OWL, SHACL, CBR, and probabilistic reasoning, referencing W3C specifications and research
+        papers. It discusses their applications in areas like knowledge representation, constraint
+        solving, and case-based reasoning. Specifically, it covers RDF 1.1 concepts, OWL 2 overview,
+        SHACL for data validation, Aamodt's work on CBR, Pearl's work on probabilistic reasoning,
+        and Zadeh's contributions to fuzzy sets.</category>
+      <level>Advanced</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Використання досконалої диз'юнктивної нормальної форми (ДДНФ) для створення умови
+        предикату WHERE</title>
+      <link>https://dou.ua/forums/topic/61018/</link>
+      <pubDate>Tue, 28 Jul 2026 06:05:06 +0000</pubDate>
+      <category>"Tours Database Query Optimization"</category>
+      <level>UNKNOWN</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>How to Stop an AI Agent from Running Dangerous Commands</title>
+      <link>
+        https://medium.com/@tojosphine/how-to-stop-an-ai-agent-from-running-dangerous-commands-194f2762c60e?source=rss-88a51e3159a5------2</link>
+      <pubDate>Tue, 28 Jul 2026 21:18:11 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>How to Use AI for Writing Without Stealing from Others, Yourself, or Cheating Your
+        Readers</title>
+      <link>
+        https://www.jrothman.com/mpd/2026/07/how-to-use-ai-for-writing-without-stealing-from-others-yourself-or-cheating-your-readers/</link>
+      <pubDate>Tue, 28 Jul 2026 15:48:58 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>How Much Does a Local LLM Actually Cost to Run? I Measured Every Watt on Apple Silicon</title>
+      <link>
+        https://towardsdatascience.com/how-much-does-a-local-llm-actually-cost-to-run-i-measured-every-watt-on-apple-silicon/</link>
+      <pubDate>Tue, 28 Jul 2026 16:30:00 +0000</pubDate>
+      <category>PERFORMANCE_TESTING</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>MCP Explained: How Modern AI Agents Connect to the Real World</title>
+      <link>
+        https://towardsdatascience.com/mcp-explained-how-modern-ai-agents-connect-to-the-real-world/</link>
+      <pubDate>Tue, 28 Jul 2026 15:00:00 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Don’t Just “Throw Adam at It”: Misunderstanding Adam Will Cost You</title>
+      <link>
+        https://towardsdatascience.com/dont-just-throw-adam-at-it-misunderstanding-adam-will-cost-you/</link>
+      <pubDate>Tue, 28 Jul 2026 13:30:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Backpropagation Explained for Beginners (Part 2): There Has to Be a Better Way</title>
+      <link>
+        https://towardsdatascience.com/backpropagation-explained-for-beginners-part-2-there-has-to-be-a-better-way/</link>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>JUNIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Because You Can</title>
+      <link>https://share.transistor.fm/s/db28a546</link>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>If AI Writes All the Code, What Do the Programmers Do?</title>
+      <link>
+        https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/</link>
+      <pubDate>Tue, 28 Jul 2026 01:36:49 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>You Can’t Fix A Bug With A Prompt</title>
+      <link>https://testingil.com/2026/07/testing-ai-generated-code-prompt-not-a-fix.html</link>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>When Agents Talk (Part 3): Where Nobody Asked Back</title>
+      <link>
+        https://medium.com/@betty.lin.twn/when-agents-talk-part-3-where-nobody-asked-back-749334d48393?source=rss-5643590266fc------2</link>
+      <pubDate>Wed, 29 Jul 2026 00:57:23 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>Your useMemo Probably Isn't Doing Anything</title>
+      <link>
+        https://thetshaped.dev/p/react-rendering-demystified-your-usememo-probably-isnt-doing-anything</link>
+      <pubDate>Tue, 28 Jul 2026 06:10:09 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Let’s NOT Improve</title>
+      <link>https://flowchainsensei.wordpress.com/2026/07/28/lets-not-improve/</link>
+      <pubDate>Tue, 28 Jul 2026 09:12:52 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>SENIOR</level>
+      <rank>13</rank>
+    </item>
+    <item>
+      <title>How building software is changing at Anthropic</title>
+      <link>https://newsletter.pragmaticengineer.com/p/inside-anthropic</link>
+      <pubDate>Tue, 28 Jul 2026 15:49:30 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>I Thought Vibe Coding Wasn’t For Me. Then I Built Something</title>
+      <link>https://insitepeek.net/blog/i-thought-vibe-coding-wasnt-for-me-then-i-built-something/</link>
+      <pubDate>Tue, 28 Jul 2026 15:42:43 +0000</pubDate>
+      <category>VIBIUM</category>
+      <level>SENIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>You don't have to be smart if you can think clearly</title>
+      <link>https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>Your Test Strategy Was Built for Human Developers. AI Changed the Rules.</title>
+      <link>
+        https://manishsaini74.medium.com/your-test-strategy-was-built-for-human-developers-ai-changed-the-rules-9b1e0f6bcbed?source=rss-2afcb904d789------2</link>
+      <pubDate>Tue, 28 Jul 2026 03:46:01 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <level>MANAGER</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Four Frontier Models Shipped in July. I Stopped Caring Which One Was Best.</title>
+      <link>
+        https://bhavyansh001.medium.com/four-frontier-models-shipped-in-july-i-stopped-caring-which-one-was-best-695c69ac3bf3?source=rss-6dce2699d5fe------2</link>
+      <pubDate>Tue, 28 Jul 2026 16:01:02 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
     </item>
     <item>
       <title>The Practical Python Guide to Concurrency</title>
@@ -845,193 +864,105 @@
       <rank>3</rank>
     </item>
     <item>
-      <title>A Passing Test Doesn’t Always Mean Your Application Is Healthy</title>
+      <title>Understand exploratory testing, and unlock its true value</title>
       <link>
-        https://kennethnebolisa.medium.com/a-passing-test-doesnt-always-mean-your-application-is-healthy-9ac464c4c679?source=rss-912c937ecb10------2</link>
-      <pubDate>Mon, 27 Jul 2026 08:46:20 +0000</pubDate>
-      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+        https://www.thequalityduck.co.uk/understand-exploratory-testing-and-unlock-its-true-value/</link>
+      <pubDate>Tue, 28 Jul 2026 08:51:20 +0000</pubDate>
+      <category>MANUAL_TESTING</category>
       <level>SENIOR</level>
-      <rank>5</rank>
+      <rank>2</rank>
     </item>
     <item>
-      <title>Stop Asking AI for Test Cases: Building a Gate-Controlled SDET Prompt</title>
-      <link>https://ujjwalkumarsingh.substack.com/p/stop-asking-ai-for-test-cases-building</link>
-      <pubDate>Tue, 28 Jul 2026 06:14:51 +0000</pubDate>
+      <title>“How Can Manual QA Engineers Transition Into Test Automation Roles?” Part-10</title>
+      <link>
+        https://zhiminzhan.medium.com/how-can-manual-qa-engineers-transition-into-test-automation-roles-7344a0e043f0?source=rss-b8dd31700725------2</link>
+      <pubDate>Tue, 28 Jul 2026 20:42:50 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>I Use AI to Improve My Decision Tree Regression Using C#</title>
+      <link>
+        https://jamesmccaffreyblog.com/2026/07/28/i-use-ai-to-improve-my-decision-tree-regression-using-csharp/</link>
+      <pubDate>Tue, 28 Jul 2026 10:30:36 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>3 things top 1% teams do differently</title>
+      <link>https://managerdotdev.beehiiv.com/p/3-things-top-1-teams-do-differently</link>
+      <pubDate>Tue, 28 Jul 2026 06:01:00 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>What Needs To Retry</title>
+      <link>https://glebbahmutov.com/blog/what-needs-to-retry/</link>
+      <pubDate>Tue, 28 Jul 2026 04:00:00 +0000</pubDate>
       <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
       <level>SENIOR</level>
       <rank>5</rank>
     </item>
     <item>
-      <title>Get a Unicode character name from a Rune in .NET</title>
-      <link>
-        https://www.meziantou.net/get-a-unicode-character-name-from-a-rune-in-dotnet.htm?utm_medium=social&amp;utm_source=syndication</link>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
-      <category>SOFTWARE DEVELOPMENT</category>
-      <level>SENIOR</level>
-      <rank>20</rank>
-    </item>
-    <item>
-      <title>The Unasked Question</title>
-      <link>https://leadershipfreak.blog/2026/07/27/the-unasked-question/</link>
-      <pubDate>Mon, 27 Jul 2026 10:31:00 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <title>Why npm Dependency Trees Are So Big</title>
+      <link>https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html</link>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
+      <category>SOFTWARE_ARCHITECTURE</category>
       <level>SENIOR</level>
       <rank>18</rank>
     </item>
     <item>
-      <title>My emergency flashlight circuit</title>
-      <link>https://dev.to/codebunny20/my-emergency-flashlight-circuit-39hj</link>
-      <pubDate>Tue, 28 Jul 2026 06:06:23 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Monitor Your Server Health with Python and Telegram</title>
-      <link>https://dev.to/qingluan/monitor-your-server-health-with-python-and-telegram-14ne</link>
-      <pubDate>Tue, 28 Jul 2026 06:01:00 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <title>TBM 433: The Border Collie Faustian Bargain</title>
+      <link>https://cutlefish.substack.com/p/tbm-433-the-border-collie-faustian</link>
+      <pubDate>Wed, 29 Jul 2026 04:49:55 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
       <level>SENIOR</level>
-      <rank>3</rank>
+      <rank>16</rank>
     </item>
     <item>
-      <title>Stop Testing New AI Models in Production</title>
-      <link>https://dev.to/ye_allen_/stop-testing-new-ai-models-in-production-2bfi</link>
-      <pubDate>Tue, 28 Jul 2026 06:00:15 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Facade: The Hotel Reception Pattern</title>
-      <link>https://dev.to/vicky_acedia/facade-the-hotel-reception-pattern-3f90</link>
-      <pubDate>Tue, 28 Jul 2026 06:00:04 +0000</pubDate>
-      <category>FACADE</category>
-      <level>MANAGER</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>There was no EU GitHub for private code. So I built one.</title>
-      <link>https://dev.to/stenn/there-was-no-eu-github-for-private-code-so-i-built-one-2i3</link>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>CrewAI: Orchestrate a Team of AI Agents Like a Pro</title>
-      <link>https://dev.to/mzunain/crewai-orchestrate-a-team-of-ai-agents-like-a-pro-18ba</link>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>🚀 From Transformers to AI Agents: The Complete Engineering Guide to Modern AI
-        Architecture (LLMs, RAG, Vector Databases &amp; Agentic Systems)</title>
-      <link>
-        https://dev.to/himanshudevgupta/from-transformers-to-ai-agents-the-complete-engineering-guide-to-modern-ai-architecture-llms-1ch2</link>
-      <pubDate>Tue, 28 Jul 2026 05:50:16 +0000</pubDate>
-      <category>Modern AI Architecture and Production AI Systems</category>
+      <title>Trowser - Rikard Edgren | Show 032</title>
+      <link>https://www.eviltester.com/show/032-trowser-rikard-edgren/</link>
+      <pubDate>Tue, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <category>The future of software testing, particularly in light of AI and the importance of
+        understanding software fundamentals.</category>
       <level>Expert</level>
       <rank>2</rank>
     </item>
     <item>
-      <title>AI-generated changes are easy to create and hard to review.</title>
-      <link>
-        https://dev.to/themassiveone/ai-generated-changes-are-easy-to-create-and-hard-to-review-1bg5</link>
-      <pubDate>Tue, 28 Jul 2026 05:50:02 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Yelp and OpenAI Data Licensing Deal Could Reshape AI-Powered Local Discovery</title>
-      <link>
-        https://dev.to/alifar/yelp-and-openai-data-licensing-deal-could-reshape-ai-powered-local-discovery-1hm9</link>
-      <pubDate>Tue, 28 Jul 2026 05:49:57 +0000</pubDate>
-      <category>AI_(general)</category>
+      <title>15 Ways to Make a Meaningful Impact</title>
+      <link>https://www.franksonnenbergonline.com/posters/15-ways-to-make-a-meaningful-impact/</link>
+      <pubDate>Tue, 28 Jul 2026 09:03:30 +0000</pubDate>
+      <category>CAREER</category>
       <level>MANAGER</level>
-      <rank>7</rank>
+      <rank>9</rank>
     </item>
     <item>
-      <title>AI Search Authority Is Moving Beyond Backlink Volume Toward Brand Signals</title>
+      <title>Fish Audio launches S2.1 Pro with support for 83 languages</title>
       <link>
-        https://dev.to/alifar/ai-search-authority-is-moving-beyond-backlink-volume-toward-brand-signals-597</link>
-      <pubDate>Tue, 28 Jul 2026 05:49:52 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>AI Local Recommendations Are Much Harder to Win Than Google Maps Rankings, Report Finds</title>
-      <link>
-        https://dev.to/alifar/ai-local-recommendations-are-much-harder-to-win-than-google-maps-rankings-report-finds-2226</link>
-      <pubDate>Tue, 28 Jul 2026 05:49:33 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>ElevenLabs Bengaluru Event Listings Point to Cypher, Not an October 6 Summit</title>
-      <link>
-        https://dev.to/alifar/elevenlabs-bengaluru-event-listings-point-to-cypher-not-an-october-6-summit-2c7</link>
-      <pubDate>Tue, 28 Jul 2026 05:46:48 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Your Requirements Document Is an Attack Surface</title>
-      <link>
-        https://medium.com/@daniel.dahlin/your-requirements-document-is-an-attack-surface-ec7145920638?source=rss-efc0706f2dba------2</link>
-      <pubDate>Mon, 27 Jul 2026 13:39:44 +0000</pubDate>
-      <category>REQUIREMENTS_ANALYSIS</category>
-      <level>SENIOR</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>Run Your Local AI as Copilot in VS Code Using Gemma4</title>
-      <link>
-        https://medium.com/syntest/run-your-local-ai-as-copilot-in-vs-code-using-gemma4-b0edeef13696?source=rss-83a3482f034e------2</link>
-      <pubDate>Mon, 27 Jul 2026 16:51:48 +0000</pubDate>
+        https://www.testingcatalog.com/fish-audio-launches-s2-1-pro-with-support-for-83-languages/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 -0000</pubDate>
       <category>TEST_AUTOMATION</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>Jenkins vs GitHub Actions for Test Automation: An Honest Comparison</title>
-      <link>
-        https://medium.com/@pritamkundu.pk5/jenkins-vs-github-actions-for-test-automation-an-honest-comparison-f9e6aff96f13?source=rss-57dfa8c63439------2</link>
-      <pubDate>Mon, 27 Jul 2026 04:01:55 +0000</pubDate>
-      <category>TEST_AUTOMATION</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>Launch Your First Vibium CLI Session with Claude Code: A Step-by-Step Guide</title>
-      <link>
-        https://medium.com/womenintechnology/launch-your-first-vibium-cli-session-with-claude-code-a-step-by-step-guide-f8bd6f364705?source=rss-91841af0e559------2</link>
-      <pubDate>Mon, 27 Jul 2026 23:14:39 +0000</pubDate>
-      <category>VIBIUM</category>
       <level>JUNIOR</level>
       <rank>1</rank>
     </item>
     <item>
-      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
-      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/</link>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 -0000</pubDate>
-      <category>AI_(general)</category>
+      <title>Your Setup Script Should Support Git Worktrees</title>
+      <link>https://piechowski.io/post/setup-script-git-worktrees/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 -0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
       <level>SENIOR</level>
-      <rank>9</rank>
+      <rank>3</rank>
     </item>
     <item>
-      <title>You Could Have Come Up With Kimi Delta Attention</title>
-      <link>https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention</link>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 -0000</pubDate>
+      <title>QA Is the Control Layer for AI-Assisted Development</title>
+      <link>https://juliapottinger.com/qa-control-layer-for-ai-assisted-development/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 -0000</pubDate>
       <category>AI_(general)</category>
       <level>SENIOR</level>
-      <rank>16</rank>
+      <rank>14</rank>
     </item>
   </channel>
 </rss>
