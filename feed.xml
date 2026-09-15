@@ -9,433 +9,356 @@
     <managingEditor>MK</managingEditor>
     <generator>AI QA Feed Generator</generator>
     <item>
-      <title>Weeknotes #7</title>
-      <link>https://bstn.info/posts/weeknotes-7</link>
-      <pubDate>Sun, 13 Sep 2026 10:51:00 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>My first ‘project’ in Figma</title>
-      <link>https://bstn.info/posts/my-first-project-in-figma</link>
-      <pubDate>Sun, 13 Sep 2026 10:37:00 +0000</pubDate>
-      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
-      <level>JUNIOR</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>Designing for feedback</title>
-      <link>https://qualityeng.substack.com/p/designing-for-feedback</link>
-      <pubDate>Sun, 13 Sep 2026 17:19:39 +0000</pubDate>
-      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
-      <level>SENIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>August 2026 AI News</title>
-      <link>
-        https://cbarkinozer.medium.com/august-2026-ai-news-47cf6682b47c?source=rss-d7f462e94b64------2</link>
-      <pubDate>Sun, 13 Sep 2026 11:16:15 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Are we just Sharpening Pencils?</title>
-      <link>https://sundaylettersfromsam.substack.com/p/are-we-just-sharpening-pencils</link>
-      <pubDate>Sun, 13 Sep 2026 23:01:04 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>11</rank>
-    </item>
-    <item>
-      <title>Your Model Isn't Done Until Someone Else Can Call It</title>
-      <link>https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/</link>
-      <pubDate>Sun, 13 Sep 2026 15:00:01 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>MANAGER</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>Your AI Adoption Lift Is a Selection Effect</title>
-      <link>https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/</link>
-      <pubDate>Sun, 13 Sep 2026 12:00:02 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Understanding Computer Use</title>
-      <link>https://www.awesome-testing.com/2026/09/computer-use</link>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
-      <level>SENIOR</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>The Doors of Perception and Heaven and Hell</title>
-      <link>https://adiamond.me/2026/09/aldous-huxley-doors-of-perception/</link>
-      <pubDate>Sun, 13 Sep 2026 19:33:01 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Turning YouTube Videos Into Obsidian Notes — and What Shipping the Plugin Taught Me</title>
-      <link>
-        https://dev.to/_94be737e156beb4d74df2/turning-youtube-videos-into-obsidian-notes-and-what-shipping-the-plugin-taught-me-6m2</link>
-      <pubDate>Mon, 14 Sep 2026 05:02:17 +0000</pubDate>
-      <category>TEST_AUTOMATION</category>
-      <level>MANAGER</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>From AWS Security Hub to Client-Ready HTML: A Private AI Reporting Pipeline</title>
-      <link>
-        https://dev.to/mike_anderson_d01f52129fb/from-aws-security-hub-to-client-ready-html-a-private-ai-reporting-pipeline-4l0n</link>
-      <pubDate>Mon, 14 Sep 2026 05:01:44 +0000</pubDate>
-      <category>Cloud Report AI Pipeline Documentation</category>
-      <level>3</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>The Unexpected Truth AI Reveals about Coding</title>
-      <link>https://dev.to/canro91/the-unexpected-truth-ai-reveals-about-coding-3nma</link>
-      <pubDate>Mon, 14 Sep 2026 05:00:00 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>Mission-Critical Mobile IAP: Handling Apple App Store &amp; Google Play Notifications
-        with Zero Data Loss</title>
-      <link>
-        https://dev.to/instawebhook/mission-critical-mobile-iap-handling-apple-app-store-google-play-notifications-with-zero-data-1ok6</link>
-      <pubDate>Mon, 14 Sep 2026 04:48:09 +0000</pubDate>
-      <category>Mobile IAP (In-App Purchase) Handling with Apple and Google Notifications</category>
-      <level>Advanced</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>SQL Is Surviving, Franklin: When One Query Isn't Enough</title>
-      <link>https://dev.to/ms_njenga/sql-is-surviving-franklin-when-one-query-isnt-enough-20ld</link>
-      <pubDate>Mon, 14 Sep 2026 04:47:42 +0000</pubDate>
-      <category>Common Subquery Mistakes and Their Resolution</category>
-      <level>intermediate</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Built a Repository for Student Offers</title>
-      <link>https://dev.to/nk2552003/built-a-repository-for-student-offers-58b2</link>
-      <pubDate>Mon, 14 Sep 2026 04:45:44 +0000</pubDate>
-      <category>OPENCLAW/MOLTBOT</category>
-      <level>MANAGER</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>How are you handling AI exhaustion?</title>
-      <link>https://dev.to/wolf2016/how-are-you-handling-ai-exhaustion-2d10</link>
-      <pubDate>Mon, 14 Sep 2026 04:42:34 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>Device Preparation Policy for Windows 365 CloudPC in Intune</title>
-      <link>
-        https://dev.to/kojiyamada3095/device-preparation-policy-for-windows-365-cloudpc-in-intune-34kd</link>
-      <pubDate>Mon, 14 Sep 2026 04:38:12 +0000</pubDate>
-      <category>DEVICE_PREPARATION_POLICY/AUTOPILOT</category>
-      <level>SENIOR</level>
-      <rank>16</rank>
-    </item>
-    <item>
-      <title>Your AI Demo Works. Here's What Can Break in Production</title>
-      <link>
-        https://dev.to/chizurumchidimma/your-ai-demo-works-heres-what-can-break-in-production-4p9l</link>
-      <pubDate>Mon, 14 Sep 2026 04:36:23 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>MANAGER</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>The browser-training speedup was a curve, not one headline number</title>
-      <link>
-        https://dev.to/sarthakagrawal927/the-browser-training-speedup-was-a-curve-not-one-headline-number-5a8a</link>
-      <pubDate>Mon, 14 Sep 2026 04:30:00 +0000</pubDate>
-      <category>PERFORMANCE_TESTING</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>A SaaS Landing Page Checklist for Your First Launch</title>
-      <link>https://dev.to/urielbitton/a-saas-landing-page-checklist-for-your-first-launch-12b8</link>
-      <pubDate>Mon, 14 Sep 2026 04:29:54 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>MANAGER</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Endpoint management and virtual desktop admins who are considering Azure NetApp Files
-        (ANF) as the profile storage location for AVD</title>
-      <link>
-        https://dev.to/kojiyamada3095/endpoint-management-and-virtual-desktop-admins-who-are-considering-azure-netapp-files-anf-as-the-1j0o</link>
-      <pubDate>Mon, 14 Sep 2026 04:25:09 +0000</pubDate>
-      <category>FSLogix Configuration and Verification</category>
-      <level>Advanced</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Anecdotally, programmers dislike "reduce"</title>
-      <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
       <title>SRE Weekly Issue #534</title>
       <link>https://sreweekly.com/sre-weekly-issue-534/</link>
       <pubDate>Mon, 14 Sep 2026 01:53:26 +0000</pubDate>
       <category>SRE (Site Reliability Engineering)</category>
       <level>SENIOR</level>
-      <rank>12</rank>
+      <rank>16</rank>
     </item>
     <item>
-      <title>commit-rewriter 0.1</title>
-      <link>https://simonwillison.net/2026/Sep/14/commit-rewriter/</link>
-      <pubDate>Mon, 14 Sep 2026 00:28:10 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>13</rank>
-    </item>
-    <item>
-      <title>shot-scraper 1.12</title>
-      <link>https://simonwillison.net/2026/Sep/13/shot-scraper/</link>
-      <pubDate>Sun, 13 Sep 2026 23:58:14 +0000</pubDate>
-      <category>PLAYWRIGHT</category>
-      <level>SENIOR</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>Notes on migrating large prompts away from Anthropic/OpenAI to Self hosted LLMs</title>
+      <title>XPath for custom types in .NET</title>
       <link>
-        https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</link>
-      <pubDate>Sun, 13 Sep 2026 20:24:47 +0000</pubDate>
-      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
-      <level>SENIOR</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>Your Agent Is Stuck in Fractal Reasoning Basin</title>
-      <link>
-        https://agentnativedev.medium.com/your-agent-is-stuck-in-fractal-reasoning-basin-7845ab3738f1?source=rss-3dea44a5d468------2</link>
-      <pubDate>Sun, 13 Sep 2026 00:41:01 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>13</rank>
-    </item>
-    <item>
-      <title>Чому в Україні майже немає банків з публічним API курсу валют (і як я з цим жив)</title>
-      <link>https://dou.ua/forums/topic/61936/</link>
-      <pubDate>Sun, 13 Sep 2026 10:00:05 +0000</pubDate>
-      <category>This document provides a code snippet for a Node.js function that parses commercial
-        currency rates from an HTML string, likely obtained from a financial API. The function uses
-        regular expressions to extract the buy and sell rates for USD/UAH. It also includes
-        explanations and considerations for using this function in a real-world scenario, such as
-        handling CORS, graceful fallback, rate limiting, and user-agent detection. The document also
-        references a financial data aggregator called financity.pro.</category>
-      <level>expert</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Як ми тестували відновлення файлів, зашифрованих fscrypt на EXT4: видалення файлів і
-        розділу</title>
-      <link>https://dou.ua/forums/topic/61907/</link>
-      <pubDate>Sun, 13 Sep 2026 09:30:05 +0000</pubDate>
-      <category>This text discusses the use of file systems EXT4 and fscrypt in Linux, specifically
-        focusing on data recovery and the discard/TRIM mechanism. It highlights the importance of
-        these features for data integrity and performance. The text also mentions the Hetman
-        Partition Recovery tool and its potential use in recovering data from damaged EXT4
-        partitions using fscrypt.</category>
-      <level>Advanced</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Sunday Tool Scrutiny</title>
-      <link>https://randsinrepose.com/archives/sunday-tool-scrutiny/</link>
-      <pubDate>Sun, 13 Sep 2026 18:44:47 +0000</pubDate>
+        https://www.meziantou.net/xpath-for-custom-types-in-dotnet.htm?utm_medium=social&amp;utm_source=syndication</link>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
       <category>DESIGN/PATTERNS/ARCHITECTURE</category>
       <level>SENIOR</level>
       <rank>9</rank>
     </item>
     <item>
-      <title>Day 16: Playwright Page Object Model, Fixtures, and Course Projects</title>
-      <link>
-        https://scrolltest.com/js-playwright-framework-day-16-page-object-model-fixtures-projects/</link>
-      <pubDate>Mon, 14 Sep 2026 03:30:00 +0000</pubDate>
-      <category>TEST_AUTOMATION</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Mutation Testing: Are Your Tests Actually Catching Bugs? (Stryker Guide)</title>
-      <link>https://scrolltest.com/mutation-testing-tests-catching-bugs-stryker-guide/</link>
-      <pubDate>Sun, 13 Sep 2026 22:00:00 +0000</pubDate>
-      <category>TEST_AUTOMATION</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Day 15: Playwright Assertions, Hooks, and Data-Driven Tests (CSV, JSON, Faker)</title>
-      <link>
-        https://scrolltest.com/js-playwright-framework-day-15-assertions-hooks-data-driven-tests/</link>
-      <pubDate>Sun, 13 Sep 2026 03:30:00 +0000</pubDate>
-      <category>TEST_AUTOMATION</category>
-      <level>SENIOR</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Kambodžský účet, ktorý sa vás nepýta, kde platíte dane</title>
-      <link>
-        https://wilderko.medium.com/kambod%C5%BEsk%C3%BD-%C3%BA%C4%8Det-ktor%C3%BD-sa-v%C3%A1s-nep%C3%BDta-kde-plat%C3%ADte-dane-6b12c2c8b261?source=rss-7234c21bbeb6------2</link>
-      <pubDate>Sun, 13 Sep 2026 16:02:27 +0000</pubDate>
-      <category>AI_(general)</category>
+      <title>AI Engineering Buildcamp Starts Next Week</title>
+      <link>https://aishippingblog.com/p/ai-engineering-buildcamp-starts-next</link>
+      <pubDate>Mon, 14 Sep 2026 17:21:42 +0000</pubDate>
+      <category>AGILE/SCRUM</category>
       <level>JUNIOR</level>
-      <rank>1</rank>
+      <rank>2</rank>
     </item>
     <item>
-      <title>Multitouch UI, remote microcontroller flashing, LLM task workflow</title>
-      <link>https://kevinlynagh.com/newsletter/2026_09_task_workflow/</link>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <title>What’s Next in Software Testing? 10 Predictions for 2026</title>
+      <link>
+        https://medium.com/@zubairkhansh/whats-next-in-software-testing-10-predictions-for-2026-2cd914372936?source=rss-8e3f9de210de------2</link>
+      <pubDate>Mon, 14 Sep 2026 18:41:01 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
       <level>SENIOR</level>
-      <rank>5</rank>
+      <rank>3</rank>
     </item>
     <item>
-      <title>Slow developer experience will bottleneck fast models</title>
-      <link>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>AI is breaking our proxies for expertise</title>
-      <link>https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</link>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>13</rank>
-    </item>
-    <item>
-      <title>AI Reasoning Models Course on LinkedIn Learning</title>
-      <link>https://sebastianraschka.com/blog/2026/ai-reasoning-models-course.html</link>
-      <pubDate>Sun, 13 Sep 2026 13:11:39 +0000</pubDate>
-      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <title>Emotioneering Revisited</title>
+      <link>https://flowchainsensei.wordpress.com/2026/09/15/emotioneering-revisited/</link>
+      <pubDate>Tue, 15 Sep 2026 03:09:31 +0000</pubDate>
+      <category>REQUIREMENTS_ANALYSIS</category>
       <level>SENIOR</level>
       <rank>7</rank>
     </item>
     <item>
-      <title>Executive Briefing: A Thousand Students Show What Happens When You Take the AI Away</title>
-      <link>https://natesnewsletter.substack.com/p/us-china-ai-human-flourishing</link>
-      <pubDate>Sun, 13 Sep 2026 15:03:46 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>@adlrocha - Fat agents vs. Narrow agents</title>
-      <link>https://adlrocha.substack.com/p/adlrocha-fat-agents-vs-narrow-agents</link>
-      <pubDate>Sun, 13 Sep 2026 08:02:42 +0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
+      <title>I Know What You Think of Me - The New York Times</title>
+      <link>http://roytang.net/links/2026/#12aee78f0153c2adf90e636157aa757a</link>
+      <pubDate>Mon, 14 Sep 2026 15:48:04 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
       <level>SENIOR</level>
-      <rank>4</rank>
+      <rank>25</rank>
     </item>
     <item>
-      <title>Re-creating NASA’s Heat Shield Problem</title>
-      <link>https://hackaday.com/2026/09/13/re-creating-nasas-heat-shield-problem/</link>
-      <pubDate>Mon, 14 Sep 2026 02:00:14 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <title>How Musk, Thiel, and Altman Misread Science Fiction - The Atlantic</title>
+      <link>http://roytang.net/links/2026/#792ffa760ee5a99ef0c0be5ada69efb4</link>
+      <pubDate>Mon, 14 Sep 2026 14:41:30 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>Creepy crawlies — Konstantin Ryabitsev</title>
+      <link>http://roytang.net/links/2026/#4086ded751a84943440e181f91c2ede0</link>
+      <pubDate>Mon, 14 Sep 2026 14:24:33 +0000</pubDate>
+      <category>AI_(general)</category>
       <level>SENIOR</level>
       <rank>11</rank>
     </item>
     <item>
-      <title>Hackaday Links: September 13, 2026</title>
-      <link>https://hackaday.com/2026/09/13/hackaday-links-september-13-2026/</link>
-      <pubDate>Sun, 13 Sep 2026 23:00:05 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>7</rank>
+      <title>The quiet grief of adult friendship</title>
+      <link>http://roytang.net/links/2026/#73f3bbfa11773d8884f1c32230a41527</link>
+      <pubDate>Mon, 14 Sep 2026 14:09:44 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>SENIOR</level>
+      <rank>24</rank>
     </item>
     <item>
-      <title>Rusting an E-scooter (In a Good Way)</title>
-      <link>https://hackaday.com/2026/09/13/rusting-an-e-scooter-in-a-good-way/</link>
-      <pubDate>Sun, 13 Sep 2026 20:00:03 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>6</rank>
+      <title>Why Is Everyone In Tech So Sad?</title>
+      <link>http://roytang.net/links/2026/#0f0e1161266ba8101db34d9580a71b65</link>
+      <pubDate>Mon, 14 Sep 2026 14:06:58 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
+      <rank>8</rank>
     </item>
     <item>
-      <title>A 386 PC For Your RP2350</title>
-      <link>https://hackaday.com/2026/09/13/a-386-pc-for-your-rp2350/</link>
-      <pubDate>Sun, 13 Sep 2026 17:00:57 +0000</pubDate>
-      <category>AI_(general)</category>
+      <title>Too Many Meetings? But Are They The "Broccoli of Work?"</title>
+      <link>
+        https://michael-roberto.blogspot.com/2026/09/too-many-meetings-but-are-they-broccoli.html</link>
+      <pubDate>Mon, 14 Sep 2026 11:54:45 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
       <level>SENIOR</level>
       <rank>13</rank>
     </item>
     <item>
-      <title>Analyzing the FScale Instruction in Intel’s 8087 FPU</title>
-      <link>https://hackaday.com/2026/09/13/analyzing-the-fscale-instruction-in-intels-8087-fpu/</link>
-      <pubDate>Sun, 13 Sep 2026 14:00:33 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <title>Claude атакує Україну і як шукати роботу в ІТ після 40 років — DOU News #267</title>
+      <link>https://dou.ua/lenta/articles/dou-news-267/</link>
+      <pubDate>Mon, 14 Sep 2026 10:00:06 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>40% айтівців в Україні хочуть емігрувати. Що змінилося за рік</title>
+      <link>https://dou.ua/lenta/articles/emigration-plans-2026/</link>
+      <pubDate>Mon, 14 Sep 2026 07:00:05 +0000</pubDate>
+      <category>Migration Plans 2026 - Ukraine</category>
+      <level>high</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>LLMs as a Judge: How to Know if Your LLM is Healthy</title>
+      <link>https://blog.bytebytego.com/p/llms-as-a-judge-how-to-know-if-your</link>
+      <pubDate>Mon, 14 Sep 2026 15:31:02 +0000</pubDate>
+      <category>AI_(general)</category>
       <level>SENIOR</level>
-      <rank>15</rank>
+      <rank>17</rank>
     </item>
     <item>
-      <title>Keeping Time on Tumbling Icosahedra</title>
-      <link>https://hackaday.com/2026/09/13/keeping-time-on-tumbling-icosahedra/</link>
-      <pubDate>Sun, 13 Sep 2026 11:00:46 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>Whip-Cracking Machine Reliably Breaks the Sound Barrier</title>
-      <link>https://hackaday.com/2026/09/13/whip-cracking-machine-reliably-breaks-the-sound-barrier/</link>
-      <pubDate>Sun, 13 Sep 2026 08:00:15 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
+      <title>How to Deal With Company Politics as an Engineering Leader</title>
+      <link>https://newsletter.eng-leadership.com/p/how-to-deal-with-company-politics</link>
+      <pubDate>Mon, 14 Sep 2026 09:16:00 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
       <rank>7</rank>
     </item>
     <item>
-      <title>Scripting Language Comparison in E2E Test Automation: Ruby vs.Python Part 1 — Syntax</title>
+      <title>Implementing a Coefficient of Determination (R2) Function Using C#</title>
       <link>
-        https://courtneyzhan.medium.com/scripting-language-comparison-in-e2e-test-automation-ruby-vs-python-part-1-syntax-8b2590af2762?source=rss-c55af017bb81------2</link>
-      <pubDate>Sun, 13 Sep 2026 00:01:02 +0000</pubDate>
-      <category>TEST_AUTOMATION</category>
+        https://jamesmccaffreyblog.com/2026/09/14/implementing-a-coefficient-of-determination-r2-function-using-c/</link>
+      <pubDate>Mon, 14 Sep 2026 10:30:25 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
       <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Anthropic’s CEO Just Agreed on Live TV That AI Could End Humanity. Here Is What Comes
-        Next.</title>
-      <link>
-        https://medium.com/predict/anthropics-ceo-was-asked-live-on-cnn-if-ai-could-kill-everyone-f3d165fe4448?source=rss-770fc3e11a47------2</link>
-      <pubDate>Sun, 13 Sep 2026 14:18:11 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
       <rank>5</rank>
     </item>
     <item>
-      <title>Thoughts on the July 8th Telstra outage report</title>
+      <title>You Bought a Probability Engine and Asked It for Certainty</title>
+      <link>https://reframequality.com/you-bought-a-probability-engine-and-asked-it-for-certainty/</link>
+      <pubDate>Mon, 14 Sep 2026 14:03:28 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>The People Building AI Are the Ones Most Scared of It</title>
       <link>
-        https://surfingcomplexity.blog/2026/09/12/thoughts-on-the-july-8th-telestra-outage-report/</link>
-      <pubDate>Sun, 13 Sep 2026 04:26:55 +0000</pubDate>
+        https://bhavyansh001.medium.com/the-people-building-ai-are-the-ones-most-scared-of-it-2fcbbc82beee?source=rss-6dce2699d5fe------2</link>
+      <pubDate>Mon, 14 Sep 2026 14:16:01 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>Loop Engineering in Practice: Build Three Loops, Then Design Your Own</title>
+      <link>
+        https://alirezarezvani.medium.com/loop-engineering-in-practice-build-three-loops-then-design-your-own-340db36b5054?source=rss-b66488794c91------2</link>
+      <pubDate>Mon, 14 Sep 2026 11:15:03 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Death by a Thousand Prompts</title>
+      <link>
+        https://qualityremarks.com/death-by-a-thousand-prompts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=death-by-a-thousand-prompts</link>
+      <pubDate>Mon, 14 Sep 2026 05:23:44 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>One Question, Many Minds: What I Learned Building a Multi-LLM Application</title>
+      <link>
+        https://greenido.dev/2026/09/14/one-question-four-minds-what-i-learned-building-a-multi-llm-workbench/</link>
+      <pubDate>Mon, 14 Sep 2026 12:55:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>What would you do if you had a computer of your own?</title>
+      <link>https://blog.alexewerlof.com/p/what-would-you-do-if-you-had-a-computer</link>
+      <pubDate>Mon, 14 Sep 2026 09:09:42 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>An Open Heart Rate Monitor</title>
+      <link>https://hackaday.com/2026/09/14/an-open-heart-rate-monitor/</link>
+      <pubDate>Tue, 15 Sep 2026 05:00:00 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Writing an ESP32 Bluetooth Printer Driver In Two Acts</title>
+      <link>https://hackaday.com/2026/09/14/writing-an-esp32-bluetooth-printer-driver-in-two-acts/</link>
+      <pubDate>Tue, 15 Sep 2026 02:00:57 +0000</pubDate>
+      <category>SRE (Site Reliability Engineering)</category>
+      <level>SENIOR</level>
+      <rank>19</rank>
+    </item>
+    <item>
+      <title>How High-Voltage Current Transformers Monitor the Grid</title>
+      <link>https://hackaday.com/2026/09/14/how-high-voltage-current-transformers-monitor-the-grid/</link>
+      <pubDate>Mon, 14 Sep 2026 23:00:03 +0000</pubDate>
+      <category>PERFORMANCE_TESTING</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>A UPS For Your Pi That’s a Little Different</title>
+      <link>https://hackaday.com/2026/09/14/a-ups-for-your-pi-thats-a-little-different/</link>
+      <pubDate>Mon, 14 Sep 2026 20:00:58 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>SENIOR</level>
+      <rank>26</rank>
+    </item>
+    <item>
+      <title>Pulse: a New VHDL Simulator</title>
+      <link>https://hackaday.com/2026/09/14/pulse-a-new-vhdl-simulator/</link>
+      <pubDate>Mon, 14 Sep 2026 18:00:00 +0000</pubDate>
+      <category>VHDL</category>
+      <level>SENIOR</level>
+      <rank>22</rank>
+    </item>
+    <item>
+      <title>Hackaday Europe 2026: Space Oddities</title>
+      <link>https://hackaday.com/2026/09/14/hackaday-europe-2026-space-oddities/</link>
+      <pubDate>Mon, 14 Sep 2026 17:05:29 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Fly Brain Connectome Used to Trade Stocks and Play Games</title>
+      <link>
+        https://hackaday.com/2026/09/14/fly-brain-connectome-used-to-trade-stocks-and-play-games/</link>
+      <pubDate>Mon, 14 Sep 2026 15:30:23 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>20</rank>
+    </item>
+    <item>
+      <title>3 Ways To Trick Claude Into Doing Your Evil Bidding</title>
+      <link>
+        https://ehandbook.com/3-ways-to-trick-claude-into-doing-your-evil-bidding-37d0d0cb280d?source=rss-af39049f1499------2</link>
+      <pubDate>Mon, 14 Sep 2026 09:01:03 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>Your AI Doesn’t Know What Is “Correct”</title>
+      <link>https://www.softwaretestingmagazine.com/knowledge/your-ai-doesnt-know-what-is-correct/</link>
+      <pubDate>Mon, 14 Sep 2026 16:50:01 +0000</pubDate>
+      <category>REQUIREMENTS_ANALYSIS</category>
+      <level>SENIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>Qyrus Rebrands Itself to QyrusAI</title>
+      <link>https://www.softwaretestingmagazine.com/news/qyrus-rebrands-itself-to-qyrusai/</link>
+      <pubDate>Mon, 14 Sep 2026 13:30:40 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>12 Essentials for QA Work While Abroad</title>
+      <link>
+        https://www.softwaretestingmagazine.com/knowledge/12-essentials-for-qa-work-while-abroad/</link>
+      <pubDate>Mon, 14 Sep 2026 13:13:37 +0000</pubDate>
       <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
       <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Pacing != pacing development</title>
+      <link>https://sebastianraschka.com/blog/2026/pacing-development.html</link>
+      <pubDate>Mon, 14 Sep 2026 13:27:41 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>You’re Probably Using Claude Code Wrong</title>
+      <link>https://newsletter.systemdesign.one/p/claude-code-mcp-vs-cli</link>
+      <pubDate>Mon, 14 Sep 2026 10:37:32 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>Anthropic's Misuse Report, Condensed to 117 Findings</title>
+      <link>
+        https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <pubDate>Mon, 14 Sep 2026 23:45:00 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Чому мене не підвищують?</title>
+      <link>https://linarecruiting.substack.com/p/1f3</link>
+      <pubDate>Mon, 14 Sep 2026 10:00:52 +0000</pubDate>
+      <category>CAREER</category>
+      <level>MANAGER</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>Scaling Verification in the Age of High-Throughput AI Development</title>
+      <link>https://daily.testingeducation.org/podcast/2026-09-14/</link>
+      <pubDate>Mon, 14 Sep 2026 06:30:00 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <level>SENIOR</level>
       <rank>3</rank>
+    </item>
+    <item>
+      <title>Death by a Thousand Prompts</title>
+      <link>
+        https://qualityremarks.com/death-by-a-thousand-prompts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=death-by-a-thousand-prompts</link>
+      <pubDate>Mon, 14 Sep 2026 05:23:44 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>AI Doesn’t Test Your Product. It Tests Your PRD. Here’s the Difference.</title>
+      <link>
+        https://medium.com/@amrutalohabare/ai-doesnt-test-your-product-it-tests-your-prd-here-s-the-difference-c6f284ef2aef?source=rss-29a3b922fddc------2</link>
+      <pubDate>Tue, 15 Sep 2026 05:20:51 +0000</pubDate>
+      <category>REQUIREMENTS_ANALYSIS</category>
+      <level>SENIOR</level>
+      <rank>12</rank>
+    </item>
+    <item>
+      <title>Anti-Tampering: When Your Code Runs on Hardware You Don’t Control</title>
+      <link>
+        https://levelup.gitconnected.com/anti-tampering-when-your-code-runs-on-hardware-you-dont-control-4a7bd3fbc476?source=rss-7c74e8297288------2</link>
+      <pubDate>Mon, 14 Sep 2026 12:10:11 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>Dolly Parton and the Tribute Flood: How Fakes Rewrite Memory</title>
+      <link>
+        https://smarterarticles.co.uk/dolly-parton-and-the-tribute-flood-how-fakes-rewrite-memory?pk_campaign=rss-feed</link>
+      <pubDate>Tue, 15 Sep 2026 01:00:30 +0000</pubDate>
+      <category>AI, deepfakes, copyright, Dolly Parton, tribute songs, memory, regulation</category>
+      <level>high</level>
+      <rank>1</rank>
     </item>
     <item>
       <title>Social Junk Food: Why AI Companions Deepen the Loneliness They Soothe</title>
@@ -448,30 +371,410 @@
       <rank>1</rank>
     </item>
     <item>
-      <title>Fruit Love Island and Dickens: How Serial Fiction Always Worked</title>
-      <link>
-        https://smarterarticles.co.uk/fruit-love-island-and-dickens-how-serial-fiction-always-worked?pk_campaign=rss-feed</link>
-      <pubDate>Sun, 13 Sep 2026 01:00:30 +0000</pubDate>
-      <category>AI, Content, Transparency, Narrative, Monetization, Culture, Algorithms, Deepfakes,
-        TikTok, YouTube, Serial Fiction, Slop</category>
-      <level>high</level>
-      <rank>1</rank>
+      <title>Brownfield Agentic Engineering</title>
+      <link>https://addyo.substack.com/p/brownfield-agentic-engineering</link>
+      <pubDate>Mon, 14 Sep 2026 14:32:06 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
     </item>
     <item>
-      <title>I Ran One Draft Through Four Anti-Slop Skills</title>
-      <link>https://generativeprogrammer.com/p/i-ran-one-draft-through-four-anti</link>
-      <pubDate>Sun, 13 Sep 2026 15:43:04 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <title>Inside the AI Stack of an $8.3B AI Company’s Product Team | Together AI</title>
+      <link>https://www.news.aakashg.com/p/together-ai-product-team</link>
+      <pubDate>Mon, 14 Sep 2026 23:05:28 +0000</pubDate>
+      <category>AI_(general)</category>
       <level>SENIOR</level>
       <rank>17</rank>
     </item>
     <item>
-      <title>Cool Things - September 13, 2026</title>
-      <link>https://pfbonkers.com/clever/2026/09/13/cool-things-september-13-2026</link>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 -0000</pubDate>
+      <title>The Trust Ledger</title>
+      <link>https://angryweasel.substack.com/p/the-trust-ledger</link>
+      <pubDate>Mon, 14 Sep 2026 17:19:51 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <level>SENIOR</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>The contagion of fear</title>
+      <link>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</link>
+      <pubDate>Mon, 14 Sep 2026 21:18:13 +0000</pubDate>
       <category>AI_(general)</category>
       <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>What blog posts influenced your thinking the most?</title>
+      <link>https://simonwillison.net/2026/Sep/14/influences/</link>
+      <pubDate>Mon, 14 Sep 2026 20:21:48 +0000</pubDate>
+      <category>SOFTWARE_ENGINEERING</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>Quoting Laurie Voss</title>
+      <link>https://simonwillison.net/2026/Sep/14/laurie-voss/</link>
+      <pubDate>Mon, 14 Sep 2026 14:34:29 +0000</pubDate>
+      <category>PRODUCT_QUALITY_ECONOMICS</category>
+      <level>SENIOR</level>
+      <rank>15</rank>
+    </item>
+    <item>
+      <title>commit-rewriter 0.1</title>
+      <link>https://simonwillison.net/2026/Sep/14/commit-rewriter/</link>
+      <pubDate>Mon, 14 Sep 2026 00:28:10 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>Day 17: Advanced Playwright Framework Layers — Config, Pages, Fixtures, and Reporters</title>
+      <link>https://scrolltest.com/js-playwright-framework-day-17-advanced-framework-layers/</link>
+      <pubDate>Tue, 15 Sep 2026 03:30:00 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Chaos Testing for QA Engineers: Break Your System Before Users Do</title>
+      <link>https://scrolltest.com/chaos-testing-qa-engineers-break-system-before-users/</link>
+      <pubDate>Mon, 14 Sep 2026 22:00:00 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Day 16: Playwright Page Object Model, Fixtures, and Course Projects</title>
+      <link>
+        https://scrolltest.com/js-playwright-framework-day-16-page-object-model-fixtures-projects/</link>
+      <pubDate>Mon, 14 Sep 2026 03:30:00 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>My Experience at ‘Unmute’ – A Retreat for Women Ready to Lead with Confidence &amp;
+        Presence</title>
+      <link>
+        https://testwithnishi.com/2026/09/15/my-experience-at-unmute-a-retreat-for-women-ready-to-lead-with-confidence-presence/</link>
+      <pubDate>Mon, 14 Sep 2026 18:53:53 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>SENIOR</level>
+      <rank>24</rank>
+    </item>
+    <item>
+      <title>Keeping secrets from Alice</title>
+      <link>https://fffej.substack.com/p/keeping-secrets-from-alice</link>
+      <pubDate>Mon, 14 Sep 2026 05:14:31 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>In 1997 nobody could tell you why you'd want a gigabit connection. AI is in 1997.</title>
+      <link>https://natesnewsletter.substack.com/p/apple-openai-good-enough-ai</link>
+      <pubDate>Mon, 14 Sep 2026 13:03:21 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>Заставки замість новин: тестую відкриті генеративні моделі на Kaggle</title>
+      <link>https://dou.ua/forums/topic/61937/</link>
+      <pubDate>Mon, 14 Sep 2026 13:00:05 +0000</pubDate>
+      <category>DreamShaper, SDXL 1.0, FLUX models comparison for image generation</category>
+      <level>high</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Front-end Digest № 169: Tailwind приєднується до Shopify, математика для стилів
+        заголовків та реліз React 19.3</title>
+      <link>https://dou.ua/forums/topic/61951/</link>
+      <pubDate>Mon, 14 Sep 2026 12:00:05 +0000</pubDate>
+      <category>REACT</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>Out-Of-Distribution Errors – What Might Be Lurking In The Long Tail?</title>
+      <link>
+        https://codemanship.wordpress.com/2026/09/14/out-of-distribution-errors-what-might-be-lurking-in-the-long-tail/</link>
+      <pubDate>Mon, 14 Sep 2026 06:34:33 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>Episode 236 – Molly Sheets</title>
+      <link>https://testingpodcast.com/episode-236-molly-sheets/</link>
+      <pubDate>Mon, 14 Sep 2026 17:00:00 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Leaders, Don’t Let Your Jokes Fall Flat</title>
+      <link>/2026/09/leaders-dont-let-your-jokes-fall-flat</link>
+      <pubDate>Mon, 14 Sep 2026 12:25:43 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>JUNIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Stop Automating Old Processes. Design New Ones Instead.</title>
+      <link>/2026/09/stop-automating-old-processes-design-new-ones-instead</link>
+      <pubDate>Mon, 14 Sep 2026 12:15:57 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>When Persuasion Is (and Isn’t) Manipulation</title>
+      <link>/2026/09/when-persuasion-is-and-isnt-manipulation</link>
+      <pubDate>Mon, 14 Sep 2026 12:05:55 +0000</pubDate>
+      <category>ETHICAL_CONSIDERATIONS/PRODUCT_QUALITY_ECONOMICS</category>
+      <level>SENIOR</level>
+      <rank>23</rank>
+    </item>
+    <item>
+      <title>Slow developer experience will bottleneck fast models</title>
+      <link>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>6 Ways to Make Adversity Useful</title>
+      <link>https://leadershipfreak.blog/2026/09/14/6-ways-to-make-adversity-useful/</link>
+      <pubDate>Mon, 14 Sep 2026 10:31:00 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>SENIOR</level>
+      <rank>18</rank>
+    </item>
+    <item>
+      <title>The Anatomy of a Plausible Catastrophe: How Frontier AI Actually Breaks the World</title>
+      <link>
+        https://medium.com/predict/the-anatomy-of-a-plausible-catastrophe-how-frontier-ai-actually-breaks-the-world-cea28ec60052?source=rss-770fc3e11a47------2</link>
+      <pubDate>Mon, 14 Sep 2026 17:59:32 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>AI Deskilling in Medicine: What Did The Lancet Study Reveal?</title>
+      <link>
+        https://medium.com/predict/ai-deskilling-in-medicine-what-did-the-lancet-study-reveal-1ae5faaaaed2?source=rss-770fc3e11a47------2</link>
+      <pubDate>Mon, 14 Sep 2026 08:43:25 +0000</pubDate>
+      <category>REQUIREMENTS_ANALYSIS</category>
+      <level>SENIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>Implementing a Coefficient of Determination (R2) Function Using C#</title>
+      <link>
+        https://jamesmccaffreyblog.com/2026/09/14/implementing-a-coefficient-of-determination-r2-function-using-c/</link>
+      <pubDate>Mon, 14 Sep 2026 10:30:25 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>What happens to engineers when AI writes all the code?</title>
+      <link>https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left</link>
+      <pubDate>Mon, 14 Sep 2026 18:08:17 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Limit the errors your AI assistant makes</title>
+      <link>https://normanmarks.wordpress.com/2026/09/14/limit-the-errors-your-ai-assistant-makes/</link>
+      <pubDate>Mon, 14 Sep 2026 14:39:51 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>I Asked AI to Review 100 Test Cases. Here’s What It Actually Found</title>
+      <link>
+        https://medium.com/@rothyyorn99/i-asked-ai-to-review-100-test-cases-heres-what-it-actually-found-0508aba3a3bb?source=rss-ccae847c786------2</link>
+      <pubDate>Mon, 14 Sep 2026 14:20:10 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>The Shortcut Became the System · A pipe disappeared. The rectangle around the door
+        remained.</title>
+      <link>
+        https://christophermeiklejohn.com/ai/agents/reliability/development/games/2026/09/14/the-shortcut-became-the-system.html</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
+      <level>MANAGER</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Your Model’s MSE Is Lying to You</title>
+      <link>https://towardsdatascience.com/your-models-mse-is-lying-to-you/</link>
+      <pubDate>Mon, 14 Sep 2026 19:30:01 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>SENIOR</level>
       <rank>14</rank>
+    </item>
+    <item>
+      <title>When to Use One Model and When to Use a Team of Agents</title>
+      <link>https://towardsdatascience.com/when-to-use-one-model-and-when-to-use-a-team-of-agents/</link>
+      <pubDate>Mon, 14 Sep 2026 17:52:20 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>MANAGER</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>Graph Engineering for AI Agents: From Prompts and Loops to Workflows</title>
+      <link>
+        https://towardsdatascience.com/graph-engineering-for-ai-agents-from-prompts-and-loops-to-workflows/</link>
+      <pubDate>Mon, 14 Sep 2026 12:30:01 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>From Static to Dynamic Skills: A Different Model for Agent Knowledge</title>
+      <link>
+        https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/</link>
+      <pubDate>Mon, 14 Sep 2026 11:00:01 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>Yes, you still need to know how to code</title>
+      <link>https://dev.to/basteez/yes-you-still-need-to-know-how-to-code-3lm9</link>
+      <pubDate>Tue, 15 Sep 2026 06:03:27 +0000</pubDate>
+      <category>SOFTWARE_ENGINEERING</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>12 questions to ask before you buy a text-to-SQL tool</title>
+      <link>
+        https://dev.to/giaa_a5d787a32b92a/12-questions-to-ask-before-you-buy-a-text-to-sql-tool-59dd</link>
+      <pubDate>Tue, 15 Sep 2026 06:01:29 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <level>SENIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>I Let AI Review Its Own Code for 30 Days — A Human Still Found the Bug in 5 Minutes</title>
+      <link>
+        https://dev.to/tamizuddin/i-let-ai-review-its-own-code-for-30-days-a-human-still-found-the-bug-in-5-minutes-1p0h</link>
+      <pubDate>Tue, 15 Sep 2026 06:00:40 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>I Built a Dataflow Engine Where the Graph Is the Program</title>
+      <link>https://dev.to/mac172/i-built-a-dataflow-engine-where-the-graph-is-the-program-4fdc</link>
+      <pubDate>Tue, 15 Sep 2026 06:00:12 +0000</pubDate>
+      <category>DATAFLOW_SYSTEMS</category>
+      <level>SENIOR</level>
+      <rank>22</rank>
+    </item>
+    <item>
+      <title>Fine-Tuning vs RAG vs Prompting: What Each Costs</title>
+      <link>https://dev.to/mecanik-dev/fine-tuning-vs-rag-vs-prompting-what-each-costs-ae0</link>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Kubernetes Scheduling 101: What Really Happens Before Your Pod Runs</title>
+      <link>
+        https://dev.to/siddharthajmore/kubernetes-scheduling-101-what-really-happens-before-your-pod-runs-3khk</link>
+      <pubDate>Tue, 15 Sep 2026 05:59:06 +0000</pubDate>
+      <category>KUBERNETES</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>Smart Contract Vulnerability Surface Analysis: Grove Finance</title>
+      <link>
+        https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-grove-finance-39nl</link>
+      <pubDate>Tue, 15 Sep 2026 05:57:47 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>Proyecto LifeOps (Parte 3): Módulos Interactivos: Deporte, Biblioteca, Cine y Tablero
+        Kanban Profesional</title>
+      <link>
+        https://dev.to/datalaria/proyecto-lifeops-parte-3-modulos-interactivos-deporte-biblioteca-cine-y-tablero-kanban-58ga</link>
+      <pubDate>Tue, 15 Sep 2026 05:56:58 +0000</pubDate>
+      <category>Backend Development - LifeOps Project (Part 3)</category>
+      <level>Gold</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>The Agent Said It Worked. I Asked the Kernel.</title>
+      <link>https://dev.to/copyleftdev/the-agent-said-it-worked-i-asked-the-kernel-5gb7</link>
+      <pubDate>Tue, 15 Sep 2026 05:53:53 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>MANAGER</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>The hostname you visit over HTTPS is sent in plain text</title>
+      <link>https://dev.to/remdore/the-hostname-you-visit-over-https-is-sent-in-plain-text-563g</link>
+      <pubDate>Tue, 15 Sep 2026 05:50:49 +0000</pubDate>
+      <category>HTTPS</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>Building a URL Shortener: My First Real Dive into Backend Fundamentals</title>
+      <link>
+        https://dev.to/angojay/building-a-url-shortener-my-first-real-dive-into-backend-fundamentals-26bo</link>
+      <pubDate>Tue, 15 Sep 2026 05:49:56 +0000</pubDate>
+      <category>URL_SHORTENER</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>How can I prevent my AI coding assistant from repeating fixed mistakes across sessions?</title>
+      <link>
+        https://dev.to/izgorodin/how-can-i-prevent-my-ai-coding-assistant-from-repeating-fixed-mistakes-across-sessions-2kf7</link>
+      <pubDate>Tue, 15 Sep 2026 05:48:00 +0000</pubDate>
+      <category>MEMORY</category>
+      <level>SENIOR</level>
+      <rank>22</rank>
+    </item>
+    <item>
+      <title>AI in QA - Issue #27</title>
+      <link>https://aiinqa.com/ai-in-qa-issue-27/</link>
+      <pubDate>Mon, 14 Sep 2026 10:30:37 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>Too Many Meetings? But Are They The Broccoli of Work?</title>
+      <link>
+        https://michael-roberto.blogspot.com/2026/09/too-many-meetings-but-are-they-broccoli.html</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 -0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>ElevenLabs MCP can now generate voice, music, images &amp; video</title>
+      <link>https://www.testingcatalog.com/elevenlabs-mcp-can-now-generate-voice-music-images-video/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 -0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
     </item>
     <item>
       <title>I Built My Personal Portfolio with Gemini 3.8 Flash High In A Weekend</title>
@@ -480,7 +783,7 @@
       <pubDate>Mon, 14 Sep 2026 00:00:00 -0000</pubDate>
       <category>AI_(general)</category>
       <level>JUNIOR</level>
-      <rank>3</rank>
+      <rank>1</rank>
     </item>
   </channel>
 </rss>
