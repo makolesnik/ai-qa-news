@@ -9,811 +9,12 @@
     <managingEditor>MK</managingEditor>
     <generator>AI QA Feed Generator</generator>
     <item>
-      <title>One Rule, One Throwaway Skill</title>
-      <link>https://justin.poehnelt.com/posts/one-rule-one-throwaway-skill/</link>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>34</rank>
-    </item>
-    <item>
-      <title>Software correctness &amp; supply chain security, with Sean Allen</title>
-      <link>https://newsletter.pragmaticengineer.com/p/software-correctness</link>
-      <pubDate>Tue, 10 Nov 2026 15:00:21 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>21</rank>
-    </item>
-    <item>
-      <title>The Incident Hero Trap | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/the-incident-hero-trap</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>21</rank>
-    </item>
-    <item>
-      <title>Why Teamwork Makes (Or Breaks) Your Incident Response | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/teamwork-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>Surprise Surprise: When Reality Doesn’t Read the Runbook | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/surprise-surprise-when-reality-doesnt-read-the-runbook</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>35</rank>
-    </item>
-    <item>
-      <title>Use It Or Lose It? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/use-it-or-lose-it</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>OTHER</category>
-      <level>MANAGER</level>
-      <rank>36</rank>
-    </item>
-    <item>
-      <title>Is Fewer Incidents Always Good? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/is-fewer-incidents-always-good</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>Resilience vs. Robustness: Cultivating Resilience in Incident Response | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/resilience-vs-robustness</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Jet Engine on a Tractor: AI’s Big Productivity Trap | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/jet-engine-on-a-tractor-ais-big-productivity-trap</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>Navigating Incidents with Clarity Through Grounding | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/navigating-incidents-with-clarity-through-grounding</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>SENIOR</level>
-      <rank>43</rank>
-    </item>
-    <item>
-      <title>The Biggest Time Sinks During Outages | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/time-outages</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>What Makes Incidents Different to Routine Work? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incidents-vs-routine-work</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Baptism Of Fire - The Story of Every On-Call Engineer | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/the-story-of-every-on-call-engineer</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>JUNIOR</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>Why So Mean About MTTR? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/why-so-mean-about-mttr</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Navigating Chaos: The National Air Traffic Services Outage | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/navigating-chaos-the-national-air-traffic-services-outage</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>29</rank>
-    </item>
-    <item>
-      <title>The Power of Grounding | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/the-power-of-grounding</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>38</rank>
-    </item>
-    <item>
-      <title>5 Incident Response Principles for CTOs | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-response-cto</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>Why Security Incidents Feel Different from Outages | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/why-security-incidents-feel-different-from-outages</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>25</rank>
-    </item>
-    <item>
-      <title>You've (Just) Had an Incident. What Next? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incidents-and-recovery</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>33</rank>
-    </item>
-    <item>
-      <title>Monitoring Tools Alone Have Never And Will Never Be Enough in Incident Response |
-        Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/monitoring-tools-in-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:45 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>5 Foundational Incident Response Skills, Demonstrated Live | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-response-skills-live</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>JUNIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Unpacking the ‘People Side’ of Incident Response | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-response-human</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>What Makes Difficult Incidents So Difficult? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/what-makes-difficult-incidents-so-difficult</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>13</rank>
-    </item>
-    <item>
-      <title>Tech Without Humans: The Hidden Work of Resilience | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/tech-without-us-why-there-wasnt-an-outage-today</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>When Uptime Met Downtime | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/when-uptime-met-downtime</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>37</rank>
-    </item>
-    <item>
-      <title>Mental Models: All the Way Down | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/mental-models-all-the-way-down</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>OTHER</category>
-      <level>SENIOR</level>
-      <rank>45</rank>
-    </item>
-    <item>
-      <title>The Technical Foundations of Incident Response | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/technical-resilience-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>Measure the Learning, Not Just the Downtime | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/measure-incident-learning-not-downtime</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Incident Management Trading Cards and Resources | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-management-trading-cards-and-resources</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>JUNIOR</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>What Experts See That the Rest of Us Miss During Incidents | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/what-experts-see-that-the-rest-of-us-miss-during-incidents</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:44 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>'My Boss Wants Me to Pick an AI SRE Tool': Q&amp;A at Incident Fest (Adaptive Capacity
-        Labs) | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-response-ai-qa</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>Supporting Your Team's New Responders | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/supporting-new-responders</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>Who's in Charge? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-management-leadership</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>11</rank>
-    </item>
-    <item>
-      <title>Is There A Purpose In Assigning Incident Severity? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/is-there-a-purpose-in-assigning-incident-severity</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>Turning Non-Prod Incidents into Resilience-Building Opportunities | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/turning-non-prod-incidents-into-resilience-building-opportunities</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
-      <level>SENIOR</level>
-      <rank>14</rank>
-    </item>
-    <item>
-      <title>‘Runbooks Won’t Save You’: Insights From Our November Webinar | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/runbooks-wont-save-you-insights-from-our-november-webinar</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Insights from a Decade of Incident Management | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-management-insights</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>Too Soon or Too Late: The Incident Escalation Dilemma | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/too-soon-or-too-late-the-incident-escalation-dilemma</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>An Outsider’s Perspective on Incident Response | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/perspective-on-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>30</rank>
-    </item>
-    <item>
-      <title>How to Implement SRE In Your Organization | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/how-to-implement-sre-in-your-organization</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>Human Error Strikes Again… or Does It? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/human-error-strikes-again</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
-      <level>SENIOR</level>
-      <rank>23</rank>
-    </item>
-    <item>
-      <title>Tooling? Necessary but not sufficient... | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/tooling-necessary-but-not-sufficient</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
-      <level>MANAGER</level>
-      <rank>26</rank>
-    </item>
-    <item>
-      <title>Incidents *Will* Happen. Are You (Actually) Prepared? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incidents-will-happen-are-you-actually-prepared</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Your Brain on Incidents | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/your-brain-on-incidents</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>33</rank>
-    </item>
-    <item>
-      <title>Incident Crashes, Culture and Cocktails (Incident Fest) | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-crashes-culture-cocktails</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>31</rank>
-    </item>
-    <item>
-      <title>You Vibe It You Run It? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/you-vibe-it-you-run-it</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>29</rank>
-    </item>
-    <item>
-      <title>What Happens When Incident Response Doesn't Scale With Engineering? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/scaling-incident-response-with-engineering</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>What Makes a Great Incident Simulation Scenario (and What Doesn’t) | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/great-incident-simulation-scenarios</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Mario Saved the EU but Broke My System | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/hamed-2012-outage-reflections</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
+      <title>Podcast Episode 157 – All the World’s an Agile Stage</title>
+      <link>https://testingpeers.com/?p=9778</link>
+      <pubDate>Wed, 11 Nov 2026 13:48:16 +0000</pubDate>
+      <category>AGILE/SCRUM</category>
       <level>SENIOR</level>
       <rank>20</rank>
-    </item>
-    <item>
-      <title>How We Learn: The Value of Simulation in Incident Response | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/how-we-learn-the-value-of-simulation-in-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:43 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>Why Best Practices Fail Without Context in Incident Management | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/best-practice-without-context-is-like</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>When AWS Sneezes: Reflections on Resilience and Reality | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/aws-outage-resilience-and-reality</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>Uptime Labs secures Best New Business at Greater Newry Business Awards | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/uptime-labs-secures-best-new-business-at-greater-newry-business-awards</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>OTHER</category>
-      <level>MANAGER</level>
-      <rank>38</rank>
-    </item>
-    <item>
-      <title>Clearer, Not Louder: Simona Ursan on Leading Incidents | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/simona-ursan-on-leading-incidents</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Incident Response in the Age of AI (Incident Fest) | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-response-ai</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>Building an organisational culture that supports effective incident response is about
-        more than just measuring MTTR | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/building-an-organisational-culture-that-supports-effective-incident-response-is-about-more-than-just-measuring-mttr</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>5 Field Notes for First-Time Incident Responders | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/first-time-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>JUNIOR</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>What Nobody Tells You When You Start in SRE | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/first-time-sre</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>JUNIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Top 10 Incident Management Problems | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/top-10-incident-management-problems</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>Looking beyond MTTR | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/looking-beyond-mttr</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Translating Failures into Service-Level Objectives | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/translating-failures-into-service-level-ovjectives</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Irish News: High Flyers interview with Joe McKevitt | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/irish-news-high-flyers-interview-with-joe-mckevitt</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>JUNIOR</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>What AI Incident Response Leaves Behind | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/ai-incident-response-leftover</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>33</rank>
-    </item>
-    <item>
-      <title>Jersey's Recent Gas Outage: Understanding the Impact and Causes | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/jersey-gas-outage</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>30</rank>
-    </item>
-    <item>
-      <title>Discover the ONE Thing You Can Do to Avoid Future Incidents | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/swiss-cheese-method</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
-      <level>SENIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Anchoring Your Incident Response with Grounding | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/anchoring-your-incident-response-with-grounding</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>30</rank>
-    </item>
-    <item>
-      <title>Hot Take: I Want Execs Closer to Incidents, Not Farther | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/hot-take-i-want-execs-closer-to-incidents-not-farther</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>Two Essential (Non-Technical) Skills for Effective Incident Response | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/insights-and-best-practices-for-effective-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>Can Automation Solve All Incidents? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/can-automation-solve-all-incidents</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>29</rank>
-    </item>
-    <item>
-      <title>How Can AI Eliminate Redundant Work in Major Incident Management? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/ai-in-major-incident-management</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:42 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>Beyond "5 Whys": A Better Way to Learn from Incidents | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/beyond-5-whys-a-better-way-to-learn-from-incidents</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:41 +0000</pubDate>
-      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Incident Groundhog Day | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-groundhog-day</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:41 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>29</rank>
-    </item>
-    <item>
-      <title>AI in Incident Management: Balancing Automation &amp; Expertise | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/ai-in-incident-management-balancing-automation-expertise</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:41 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Sometimes the Hardest Incident Is in Our Own Minds | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incident-management-psychology-gandhi-kumar</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:41 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>SENIOR</level>
-      <rank>42</rank>
-    </item>
-    <item>
-      <title>What I Really Mean When I Say "Good Communication" in Incident Response | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/good-communication-in-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:41 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Years of Incidents in 90 Minutes: An Interview with Karan Nagarajagowda | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/years-of-incidents-in-90-minutes-an-interview-with-karan-nagarajagowda</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:40 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>How Crisis Reveals the Truth About Complex Systems | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/how-crisis-reveals-the-truth-about-complex-systems</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:40 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>29</rank>
-    </item>
-    <item>
-      <title>My Journey from Engineer to Executive (A Retrospective) | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/when-uptime-met-downtime-my-journey-from-engineer-to-executive-a-retrospective-commentary</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:40 +0000</pubDate>
-      <category>CAREER</category>
-      <level>MANAGER</level>
-      <rank>33</rank>
-    </item>
-    <item>
-      <title>10 Things We Learned About Training and Scaling Incident Teams This Month | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/training-and-scaling-incident-teams</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:40 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>14</rank>
-    </item>
-    <item>
-      <title>Mission Impossible? - Consistently Dealing With Surprise Inconsistencies | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/mission-impossible-consistently-dealing-with-surprise-inconsistencies</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:40 +0000</pubDate>
-      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
-      <level>SENIOR</level>
-      <rank>32</rank>
-    </item>
-    <item>
-      <title>Our 10 Most-Read Articles of 2025 | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/10-most-read-incident-response-articles</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:40 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>JUNIOR</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>How Good Is Your Incident Response, Really? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/how-good-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>What Other Industries Can Teach Tech About Crisis Simulation | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/crisis-simulation</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>29</rank>
-    </item>
-    <item>
-      <title>Incidents are Leadership Moments | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/incidents-leadership</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>A Brief Walkthrough of the History of Incident Response (and the Need to Adapt) |
-        Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/a-brief-walkthrough-of-the-history-of-incident-response-and-the-need-to-adapt</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Climbing the Communication Ladder During Incidents | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/climbing-the-communication-ladder-during-incidents</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>When Fast Flow Delivers A Real Blow: A PIR | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/when-fast-flow-delivers-a-real-blow-a-pir</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
-      <level>SENIOR</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>Beyond Reliability: London Tech Leaders Summit '25 Highlights | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/beyond-reliability</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>MANAGER</level>
-      <rank>28</rank>
-    </item>
-    <item>
-      <title>Advice for First-Time Staff SREs | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/advice-first-time-staff-sres</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>Can You Smell the Next Sev 1? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/can-you-smell-the-next-sev-1</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>31</rank>
-    </item>
-    <item>
-      <title>Being on the Same Page During an Incident: Not Actually Telepathy | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/being-on-the-same-page-during-an-incident-not-actually-telepathy</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>How the Department of Education uses Slack to respond to service incidents | Uptime
-        Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/how-the-department-of-education-use-slack-to-respond-to-service-incidents</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>14</rank>
-    </item>
-    <item>
-      <title>Navigating Regulatory Incident Response in Finance | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/regulatory-incident-response</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
-      <level>MANAGER</level>
-      <rank>23</rank>
-    </item>
-    <item>
-      <title>5 Ways That Resilience Can’t Be Automated | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/5-ways-that-resilience-cant-be-automated</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>What I'm Learning from Aviation About Incident Preparedness | Uptime Labs</title>
-      <link>
-        https://www.uptimelabs.io/articles/what-im-learning-from-aviation-about-incident-preparedness</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>number of incidents and your resilience | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/number-of-incidents-and-your-resilience</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>What Does it Cost to Declare an Incident? | Uptime Labs</title>
-      <link>https://www.uptimelabs.io/articles/what-does-it-cost-to-declare-an-incident</link>
-      <pubDate>Tue, 10 Nov 2026 14:40:39 +0000</pubDate>
-      <category>SRE</category>
-      <level>MANAGER</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>Zone Compression: The Secret to Running/Cycling Faster Without Burning Out?</title>
-      <link>
-        https://greenido.dev/2026/11/10/zone-compression-the-secret-to-running-cycling-faster-without-burning-out/</link>
-      <pubDate>Tue, 10 Nov 2026 16:22:53 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>33</rank>
     </item>
     <item>
       <title>Цікавість, упередження і трохи рекрутингу в Threads</title>
@@ -821,659 +22,42 @@
       <pubDate>Wed, 11 Nov 2026 09:03:21 +0000</pubDate>
       <category>CAREER</category>
       <level>JUNIOR</level>
-      <rank>20</rank>
-    </item>
-    <item>
-      <title>The Walled Garden Escape</title>
-      <link>https://randsinrepose.com/archives/the-walled-garden-escape/</link>
-      <pubDate>Tue, 10 Nov 2026 00:42:20 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>23</rank>
-    </item>
-    <item>
-      <title>From Full to Hybrid Attention in LLMs</title>
-      <link>https://sebastianraschka.com/blog/2026/full-to-hybrid-attention.html</link>
-      <pubDate>Tue, 10 Nov 2026 16:31:49 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>Glue work is still harmful in the age of AI</title>
-      <link>https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>MANAGER</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>Scikit-Learn Matched or Beat Jev's Calibration on BANKING77</title>
-      <link>
-        https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/</link>
-      <pubDate>Tue, 10 Nov 2026 16:30:00 +0000</pubDate>
-      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
-      <level>SENIOR</level>
-      <rank>11</rank>
-    </item>
-    <item>
-      <title>A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%</title>
-      <link>
-        https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/</link>
-      <pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>How to Validate LLM Output in a DuckDB and dbt Pipeline</title>
-      <link>https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/</link>
-      <pubDate>Tue, 10 Nov 2026 13:30:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>26</rank>
-    </item>
-    <item>
-      <title>Copilot Caught 8 of 8 Diff Bugs With Rules, 0 of 2 Outside the Diff</title>
-      <link>
-        https://towardsdatascience.com/copilot-caught-8-of-8-diff-bugs-with-rules-0-of-2-outside-the-diff/</link>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>This Coffee Machine is DOOMed</title>
-      <link>https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/</link>
-      <pubDate>Wed, 11 Nov 2026 06:00:18 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>34</rank>
-    </item>
-    <item>
-      <title>Print &amp; Place: Add Embedded Electronics While FDM Printing</title>
-      <link>https://hackaday.com/2026/11/10/print-place-add-embedded-electronics-while-fdm-printing/</link>
-      <pubDate>Wed, 11 Nov 2026 03:00:32 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>35</rank>
-    </item>
-    <item>
-      <title>Watching the Watchers</title>
-      <link>https://hackaday.com/2026/11/10/watching-the-watchers/</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:28 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>Gesture Controls With Only a Camera</title>
-      <link>https://hackaday.com/2026/11/10/gesture-controls-with-only-a-camera/</link>
-      <pubDate>Tue, 10 Nov 2026 21:00:32 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>32</rank>
-    </item>
-    <item>
-      <title>How CRISPR Could Mark Mutated Cancer Cells for Termination</title>
-      <link>
-        https://hackaday.com/2026/11/10/how-crispr-could-mark-mutated-cancer-cells-for-termination/</link>
-      <pubDate>Tue, 10 Nov 2026 18:00:26 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>31</rank>
-    </item>
-    <item>
-      <title>Simulating and Visualising the Central Limit Theorem</title>
-      <link>https://hackaday.com/2026/11/10/simulating-and-visualising-the-central-limit-theorem/</link>
-      <pubDate>Tue, 10 Nov 2026 16:30:21 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>28</rank>
-    </item>
-    <item>
-      <title>DeviceTree For Hackers: Intro</title>
-      <link>https://hackaday.com/2026/11/10/devicetree-for-hackers-intro/</link>
-      <pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>Attended the PMI Netherlands Summit 2026</title>
-      <link>https://testwithnishi.com/2026/11/11/attended-the-pmi-netherlands-summit-2026/</link>
-      <pubDate>Wed, 11 Nov 2026 09:21:39 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>MANAGER</level>
-      <rank>25</rank>
-    </item>
-    <item>
-      <title>Invisible engineering teams</title>
-      <link>https://www.manager.dev/newsletter/invisible-engineering-teams</link>
-      <pubDate>Tue, 10 Nov 2026 07:01:00 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>MANAGER</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>How to Make a Tough Decision</title>
-      <link>https://www.franksonnenbergonline.com/blog/how-to-make-a-tough-decision/</link>
-      <pubDate>Tue, 10 Nov 2026 10:03:21 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>MANAGER</level>
-      <rank>34</rank>
-    </item>
-    <item>
-      <title>The Jensen Huang Scandal Explained: Who Gets Nvidia's AI Chips</title>
-      <link>https://natesnewsletter.substack.com/p/jensen-huang-scandal-nvidia-chips</link>
-      <pubDate>Tue, 10 Nov 2026 16:34:09 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>The HBR Guide to Killing Projects</title>
-      <link>https://hbr.org/2026/11/the-hbr-guide-to-killing-projects</link>
-      <pubDate>Tue, 10 Nov 2026 18:05:30 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>MANAGER</level>
-      <rank>21</rank>
-    </item>
-    <item>
-      <title>Can Nvidia’s Jensen Huang Rebuild Trust?</title>
-      <link>https://hbr.org/2026/11/can-nvidias-jensen-huang-rebuild-trust</link>
-      <pubDate>Tue, 10 Nov 2026 17:50:12 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>MANAGER</level>
       <rank>18</rank>
     </item>
     <item>
-      <title>From Pilot to Production: The Intelligence Powering Agentic AI in Capital Markets</title>
-      <link>
-        https://hbr.org/sponsored/2026/11/from-pilot-to-production-the-intelligence-powering-agentic-ai-in-capital-markets</link>
-      <pubDate>Tue, 10 Nov 2026 15:45:26 +0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
-      <level>MANAGER</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Why AI-Powered Tiny Teams Need a New Operating Model</title>
-      <link>https://hbr.org/sponsored/2026/11/why-ai-powered-tiny-teams-need-a-new-operating-model</link>
-      <pubDate>Tue, 10 Nov 2026 16:00:48 +0000</pubDate>
+      <title>Вас оцінює алгоритм: як українські IT-компанії використовують ШІ на співбесідах</title>
+      <link>https://dou.ua/lenta/articles/ai-in-job-interviews/</link>
+      <pubDate>Thu, 12 Nov 2026 08:00:06 +0000</pubDate>
       <category>AI_(general)</category>
       <level>MANAGER</level>
-      <rank>16</rank>
+      <rank>5</rank>
     </item>
     <item>
-      <title>What the Midterms Mean for Business</title>
-      <link>https://hbr.org/2026/11/what-the-midterms-mean-for-business</link>
-      <pubDate>Tue, 10 Nov 2026 13:25:47 +0000</pubDate>
-      <category>OTHER</category>
-      <level>MANAGER</level>
-      <rank>37</rank>
-    </item>
-    <item>
-      <title>Capital Is More Expensive for Companies Outside the AI Boom</title>
-      <link>https://hbr.org/2026/11/capital-is-more-expensive-for-companies-outside-the-ai-boom</link>
-      <pubDate>Tue, 10 Nov 2026 15:45:58 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>MANAGER</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>As Your Company Evolves, Hold On to What Makes It Unique</title>
-      <link>https://hbr.org/2026/11/as-your-company-evolves-hold-on-to-what-makes-it-unique</link>
-      <pubDate>Tue, 10 Nov 2026 13:05:21 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>MANAGER</level>
-      <rank>21</rank>
-    </item>
-    <item>
-      <title>When a Short Seller Came for Samsonite Over Accounting Flaws</title>
-      <link>
-        https://hbr.org/podcast/2026/11/when-a-short-seller-came-for-samsonite-over-accounting-flaws</link>
-      <pubDate>Tue, 10 Nov 2026 12:03:04 +0000</pubDate>
-      <category>QUALITY_GOVERNANCE</category>
-      <level>MANAGER</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>What Customers Really Value—and Why Leaders Keep Getting It Wrong</title>
-      <link>
-        https://hbr.org/podcast/2026/11/what-customers-really-value-and-why-leaders-keep-getting-it-wrong</link>
-      <pubDate>Tue, 10 Nov 2026 11:04:20 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>MANAGER</level>
-      <rank>21</rank>
-    </item>
-    <item>
-      <title>Maestro Cloud, Part 2: Test Across OS Versions, Devices and Languages</title>
-      <link>https://www.mobile-automation.io/maestro-cloud-devices-os-versions-locales/</link>
-      <pubDate>Tue, 10 Nov 2026 20:46:18 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>30</rank>
-    </item>
-    <item>
-      <title>💎 Why Is Today's AI Test Automation Fundamentally Flawed? Part-3: AI-Generated Test
-        Cases Are Mostly Useless, actually Worse Off</title>
-      <link>https://agileway.substack.com/p/why-is-todays-ai-test-automation-2c3</link>
-      <pubDate>Tue, 10 Nov 2026 19:29:37 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>5 LLM Output Failures That Still Get Past Structured Outputs</title>
-      <link>https://thetshaped.dev/p/llm-structured-outputs-always-parse</link>
-      <pubDate>Tue, 10 Nov 2026 11:28:54 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>21</rank>
-    </item>
-    <item>
-      <title>Stop Learning Languages, Start Solving Problems</title>
-      <link>https://newsletter.optimistengineer.com/p/stop-learning-languages-start-solving</link>
-      <pubDate>Tue, 10 Nov 2026 17:08:30 +0000</pubDate>
-      <category>CAREER</category>
-      <level>JUNIOR</level>
-      <rank>13</rank>
-    </item>
-    <item>
-      <title>Experiment: Simple Encoding vs. Sophisticated Encoding for Gradient Boosting
-        (Tree-Based) Regression</title>
-      <link>
-        https://jamesmccaffreyblog.com/2026/11/10/experiment-simple-encoding-vs-sophisticated-encoding-for-gradient-boosting-tree-based-regression/</link>
-      <pubDate>Tue, 10 Nov 2026 11:30:01 +0000</pubDate>
-      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
-      <level>SENIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>What a Basic Income Cannot Buy: Work, Meaning and the AI Shock</title>
-      <link>
-        https://smarterarticles.co.uk/what-a-basic-income-cannot-buy-work-meaning-and-the-ai-shock?pk_campaign=rss-feed</link>
-      <pubDate>Wed, 11 Nov 2026 02:00:30 +0000</pubDate>
-      <category>OTHER</category>
-      <level>MANAGER</level>
-      <rank>39</rank>
-    </item>
-    <item>
-      <title>When Nobody Asks the Basic Question: Where Future Experts Come From</title>
-      <link>
-        https://smarterarticles.co.uk/when-nobody-asks-the-basic-question-where-future-experts-come-from?pk_campaign=rss-feed</link>
-      <pubDate>Tue, 10 Nov 2026 02:00:30 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>MANAGER</level>
-      <rank>32</rank>
-    </item>
-    <item>
-      <title>Two Wings </title>
-      <link>https://angryweasel.substack.com/p/two-wings</link>
-      <pubDate>Tue, 10 Nov 2026 01:21:40 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>JUNIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Fragments: November 10</title>
-      <link>https://martinfowler.com/fragments/2026-11-10.html</link>
-      <pubDate>Tue, 10 Nov 2026 14:30:00 +0000</pubDate>
-      <category>OTHER</category>
-      <level>SENIOR</level>
-      <rank>44</rank>
-    </item>
-    <item>
-      <title>Long-horizon agents and durable execution</title>
-      <link>https://martinfowler.com/articles/durable-execution-agents.html</link>
-      <pubDate>Tue, 10 Nov 2026 14:10:00 +0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Oredev Conference 2026 Part I</title>
-      <link>https://nicolalindgren.com/oredev-conference-2026-part-i/</link>
-      <pubDate>Tue, 10 Nov 2026 08:28:18 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>SENIOR</level>
-      <rank>36</rank>
-    </item>
-    <item>
-      <title>30 years of Internet transfers with curl</title>
-      <link>https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/</link>
-      <pubDate>Tue, 10 Nov 2026 23:05:57 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>SENIOR</level>
-      <rank>40</rank>
-    </item>
-    <item>
-      <title>Telling your number parser what to expect</title>
-      <link>https://lemire.me/blog/2026/11/10/telling-your-number-parser-what-to-expect/</link>
-      <pubDate>Tue, 10 Nov 2026 12:44:09 +0000</pubDate>
-      <category>OTHER</category>
-      <level>SENIOR</level>
-      <rank>48</rank>
-    </item>
-    <item>
-      <title>llm-gemini 0.36</title>
-      <link>https://simonwillison.net/2026/Nov/10/llm-gemini/</link>
-      <pubDate>Tue, 10 Nov 2026 20:09:44 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
-      <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
-      <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>Quoting Prompting Claude Fable 5.2</title>
-      <link>https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</link>
-      <pubDate>Tue, 10 Nov 2026 05:34:14 +0000</pubDate>
+      <title>Шторм і блискавки на власному ноутбуці. Що може локальна генерація відео з ШІ</title>
+      <link>https://dou.ua/lenta/articles/nvidia-local-ai/</link>
+      <pubDate>Wed, 11 Nov 2026 11:00:17 +0000</pubDate>
       <category>AI_(general)</category>
       <level>JUNIOR</level>
       <rank>5</rank>
     </item>
     <item>
-      <title>Yonkers Rises</title>
-      <link>https://simonwillison.net/2026/Nov/10/yonkers-rises/</link>
-      <pubDate>Tue, 10 Nov 2026 03:53:04 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>My learning bits for Wednesday of 11th November 2026</title>
-      <link>https://karlosmid.com/2026/11/my-learning-bits-for-wednesday-11th-november-2026/</link>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>JUNIOR</level>
-      <rank>18</rank>
-    </item>
-    <item>
-      <title>My learning bits for Tuesday of 10th November 2026</title>
-      <link>https://karlosmid.com/2026/11/my-learning-bits-for-tuesday-10th-november-2026/</link>
-      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>MANAGER</level>
-      <rank>35</rank>
-    </item>
-    <item>
-      <title>We don’t understand whether GDM intentionally trains on CoT</title>
-      <link>https://blog.redwoodresearch.org/p/we-dont-understand-whether-gdm-intentionally</link>
-      <pubDate>Tue, 10 Nov 2026 20:23:06 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>26</rank>
-    </item>
-    <item>
-      <title>How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time</title>
-      <link>https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot</link>
-      <pubDate>Tue, 10 Nov 2026 16:30:55 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>26</rank>
-    </item>
-    <item>
-      <title>The Eng-Product Gap</title>
-      <link>https://share.transistor.fm/s/578a59b4</link>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>MANAGER</level>
-      <rank>20</rank>
-    </item>
-    <item>
-      <title>How AI Is Changing the Role of QA Engineers</title>
+      <title>How Can You Be Responsible for Code You Don't Understand, Especially When You Can No
+        Longer Program?</title>
       <link>
-        https://www.softwaretestingmagazine.com/knowledge/how-ai-is-changing-the-role-of-qa-engineers/</link>
-      <pubDate>Tue, 10 Nov 2026 18:02:38 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>26</rank>
-    </item>
-    <item>
-      <title>Шеймінг замість культури. Чи готова Україна до кібератак в епоху ШІ</title>
-      <link>https://dou.ua/lenta/articles/cybercecurity-with-ai/</link>
-      <pubDate>Tue, 10 Nov 2026 08:00:06 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>MANAGER</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>Як я зі штучним інтелектом молекули малював</title>
-      <link>https://dou.ua/forums/topic/63239/</link>
-      <pubDate>Wed, 11 Nov 2026 10:00:05 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>11</rank>
-    </item>
-    <item>
-      <title>Віддалене кешування в Java-проєктах</title>
-      <link>https://dou.ua/forums/topic/63206/</link>
-      <pubDate>Tue, 10 Nov 2026 17:00:05 +0000</pubDate>
-      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
-      <level>SENIOR</level>
-      <rank>27</rank>
-    </item>
-    <item>
-      <title>Організація квантово-хімічних обчислень без Slurm: понад тисяча розрахунків ORCA на
-        bash, git і S3</title>
-      <link>https://dou.ua/forums/topic/63199/</link>
-      <pubDate>Tue, 10 Nov 2026 15:00:05 +0000</pubDate>
-      <category>SRE</category>
-      <level>JUNIOR</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>KiviDB — нова Redis-сумісна БД на Rust</title>
-      <link>https://dou.ua/forums/topic/63247/</link>
-      <pubDate>Tue, 10 Nov 2026 12:30:05 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>25</rank>
-    </item>
-    <item>
-      <title>Локальний AI-сервер на Intel Arc Pro B70: від 11 до 54 токенів за секунду, одинадцять
-        граблів і жодної NVIDIA</title>
-      <link>https://dou.ua/forums/topic/63076/</link>
-      <pubDate>Tue, 10 Nov 2026 12:00:05 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Day 43 of 100: Typed Classes — The Real Page Object Shape</title>
-      <link>https://scrolltest.com/100-days-day-43-typescript-classes-page-objects/</link>
-      <pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
-      <category>PLAYWRIGHT</category>
-      <level>JUNIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>SPIFFE workload identity: short-lived identity needs a clear trust boundary</title>
-      <link>
-        https://dev.to/andreagomez/spiffe-workload-identity-short-lived-identity-needs-a-clear-trust-boundary-52af</link>
-      <pubDate>Wed, 11 Nov 2026 10:23:54 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>Why MCP OAuth Discovery Leads to SSRF</title>
-      <link>https://dev.to/securitystefan/why-mcp-oauth-discovery-leads-to-ssrf-3742</link>
-      <pubDate>Wed, 11 Nov 2026 10:23:35 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Ops analytics from an event stream: Kafka into ClickHouse without losing or double
-        counting alerts</title>
-      <link>
-        https://dev.to/awirostech/ops-analytics-from-an-event-stream-kafka-into-clickhouse-without-losing-or-double-counting-alerts-11hl</link>
-      <pubDate>Wed, 11 Nov 2026 10:22:47 +0000</pubDate>
-      <category>OTHER</category>
-      <level>SENIOR</level>
-      <rank>47</rank>
-    </item>
-    <item>
-      <title>I ran a broken Meta Conversions API event through a validator. It caught seven mistakes
-        Meta might never mention.</title>
-      <link>
-        https://dev.to/stack_architect/i-ran-a-broken-meta-conversions-api-event-through-a-validator-it-caught-seven-mistakes-meta-might-461</link>
-      <pubDate>Wed, 11 Nov 2026 10:22:46 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>27</rank>
-    </item>
-    <item>
-      <title>What SAP Change Teams Can Expect From AI in the Next Year</title>
-      <link>
-        https://dev.to/deshanranchhod/what-sap-change-teams-can-expect-from-ai-in-the-next-year-4coj</link>
-      <pubDate>Wed, 11 Nov 2026 10:22:43 +0000</pubDate>
+        https://naildrivin5.com/blog/2026/11/11/how-can-you-be-responsible-for-code-you-don-t-understand.html</link>
+      <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
       <category>AI_(general)</category>
       <level>SENIOR</level>
       <rank>18</rank>
     </item>
     <item>
-      <title>An Electron Preload Script Is a Security Boundary, Not a Convenience Layer</title>
+      <title>AWS Emulator and the engineer's job when agents write the code</title>
       <link>
-        https://dev.to/innerluxes/an-electron-preload-script-is-a-security-boundary-not-a-convenience-layer-3b3p</link>
-      <pubDate>Wed, 11 Nov 2026 10:22:26 +0000</pubDate>
-      <category>SECURITY_TESTING</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>The more UX rules Haiku sees, the better it decides: but simple search is not enough</title>
-      <link>
-        https://dev.to/melolabs_melo_0f8fdb509b9/the-more-ux-rules-haiku-sees-the-better-it-decides-but-simple-search-is-not-enough-89g</link>
-      <pubDate>Wed, 11 Nov 2026 10:22:09 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>28</rank>
-    </item>
-    <item>
-      <title>AI Should Follow the Same Rules as People</title>
-      <link>https://dev.to/deshanranchhod/ai-should-follow-the-same-rules-as-people-2hn3</link>
-      <pubDate>Wed, 11 Nov 2026 10:22:08 +0000</pubDate>
-      <category>QUALITY_GOVERNANCE</category>
-      <level>MANAGER</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Quanto mais regras de UX o Haiku vê, melhor ele decide: mas busca simples não basta</title>
-      <link>
-        https://dev.to/melolabs_melo_0f8fdb509b9/quanto-mais-regras-de-ux-o-haiku-ve-melhor-ele-decide-mas-busca-simples-nao-basta-1g12</link>
-      <pubDate>Wed, 11 Nov 2026 10:21:21 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>SENIOR</level>
-      <rank>28</rank>
-    </item>
-    <item>
-      <title>What Happens in the Two Seconds Before a Live Stream Starts</title>
-      <link>
-        https://dev.to/david_4918271b5e3abdf9d8f/what-happens-in-the-two-seconds-before-a-live-stream-starts-49gh</link>
-      <pubDate>Wed, 11 Nov 2026 10:21:10 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>24</rank>
-    </item>
-    <item>
-      <title>The Humble C Struct That Still Runs Billions of Linux Machines</title>
-      <link>
-        https://dev.to/vadher_nikunj_47e8c86d866/the-humble-c-struct-that-still-runs-billions-of-linux-machines-5bcc</link>
-      <pubDate>Wed, 11 Nov 2026 10:20:48 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>26</rank>
-    </item>
-    <item>
-      <title>We have built our moving and storage CRM. Now we are adapting it for London.</title>
-      <link>
-        https://dev.to/3tf/we-have-built-our-moving-and-storage-crm-now-we-are-adapting-it-for-london-5436</link>
-      <pubDate>Wed, 11 Nov 2026 10:20:38 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>MANAGER</level>
-      <rank>27</rank>
-    </item>
-    <item>
-      <title>How I stay in control while building and delivering software with AI</title>
-      <link>
-        https://timdeschryver.dev/blog/how-i-stay-in-control-while-building-and-delivering-software-with-ai</link>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>16</rank>
-    </item>
-    <item>
-      <title>Note - 11.11.2026</title>
-      <link>https://bstn.info/posts/note-11112026</link>
-      <pubDate>Wed, 11 Nov 2026 05:50:00 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>22</rank>
-    </item>
-    <item>
-      <title>The Other Einstein</title>
-      <link>https://bstn.info/posts/the-other-einstein</link>
-      <pubDate>Tue, 10 Nov 2026 20:46:00 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>JUNIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>Library</title>
-      <link>https://bstn.info/posts/library</link>
-      <pubDate>Tue, 10 Nov 2026 20:43:00 +0000</pubDate>
-      <category>OTHER</category>
-      <level>SENIOR</level>
-      <rank>46</rank>
-    </item>
-    <item>
-      <title>Note - 10.11.2026</title>
-      <link>https://bstn.info/posts/note-10112026</link>
-      <pubDate>Tue, 10 Nov 2026 04:28:00 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>JUNIOR</level>
-      <rank>21</rank>
-    </item>
-    <item>
-      <title>The Reality of Meaning</title>
-      <link>https://leadershipfreak.blog/2026/11/10/the-reality-of-meaning/</link>
-      <pubDate>Tue, 10 Nov 2026 11:31:00 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>SENIOR</level>
-      <rank>39</rank>
-    </item>
-    <item>
-      <title>How to Survive AI as a SaaS Company</title>
-      <link>https://www.news.aakashg.com/p/can-saas-survive-the-ai-era</link>
-      <pubDate>Tue, 10 Nov 2026 23:59:40 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>MANAGER</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>#171 · Cross-Layer Cancellation and Orphaned Execution Fencing in Agentic Testing</title>
-      <link>https://daily.testingeducation.org/podcast/2026-11-10/</link>
-      <pubDate>Tue, 10 Nov 2026 07:21:05 +0000</pubDate>
+        https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html?utm_campaign=inbound&amp;utm_source=rss</link>
+      <pubDate>Wed, 11 Nov 2026 14:30:00 +0000</pubDate>
       <category>AGENTS/SKILLS/AGENTIC</category>
       <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Reading List – 2026-11-10</title>
-      <link>https://allen.hutchison.org/2026/11/10/reading-list-2026-11-10/</link>
-      <pubDate>Tue, 10 Nov 2026 22:43:27 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>JUNIOR</level>
-      <rank>16</rank>
+      <rank>14</rank>
     </item>
     <item>
       <title>SDET Skills: The Technical and Soft Skills Employers Look For</title>
@@ -1482,48 +66,711 @@
       <pubDate>Wed, 11 Nov 2026 05:43:39 +0000</pubDate>
       <category>CAREER</category>
       <level>JUNIOR</level>
-      <rank>15</rank>
+      <rank>13</rank>
     </item>
     <item>
-      <title>Google testing Agent Swarm mode for Antigravity</title>
-      <link>https://www.testingcatalog.com/google-testing-agent-swarm-mode-for-antigravity/</link>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
+      <title>LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems</title>
+      <link>https://blog.bytebytego.com/p/last-call-for-enrollment-build-production</link>
+      <pubDate>Wed, 11 Nov 2026 19:58:17 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
       <level>JUNIOR</level>
-      <rank>1</rank>
+      <rank>12</rank>
     </item>
     <item>
-      <title>Learning Culture Is a Quality Strategy</title>
-      <link>https://juliapottinger.com/learning-culture-is-a-quality-strategy/</link>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <title>The Roundup by ByteByteGo</title>
+      <link>https://blog.bytebytego.com/p/the-roundup-by-bytebytego</link>
+      <pubDate>Wed, 11 Nov 2026 16:30:53 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>23</rank>
+    </item>
+    <item>
+      <title>Hello Baochip!</title>
+      <link>http://ratfactor.com/cards/hello-baochip</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>25</rank>
+    </item>
+    <item>
+      <title>Interstitial Journaling</title>
+      <link>https://read.perspectiveship.com/p/interstitial-journaling</link>
+      <pubDate>Thu, 12 Nov 2026 07:02:25 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>JUNIOR</level>
+      <rank>16</rank>
+    </item>
+    <item>
+      <title>We’re a top test tooling blog (yay!)</title>
+      <link>https://xndev.com/2026/11/were-a-top-test-tooling-blog-yay/</link>
+      <pubDate>Wed, 11 Nov 2026 20:38:10 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
       <level>MANAGER</level>
       <rank>13</rank>
     </item>
     <item>
-      <title>Week 24: 5 Open-Source GitHub Repositories Every Developer Should Know in 2026</title>
+      <title>What If Productivity Isn’t About Delivery? What If It’s About Learning?</title>
       <link>
-        https://vijayasekhar-deepak.beehiiv.com/p/week-24-5-open-source-github-repositories-every-developer-should-know-in-2026</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 -0000</pubDate>
+        https://codemanship.wordpress.com/2026/11/11/what-if-productivity-isnt-about-delivery-what-if-its-about-learning/</link>
+      <pubDate>Wed, 11 Nov 2026 20:29:14 +0000</pubDate>
+      <category>PRODUCT_QUALITY_ECONOMICS</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>How an Experienced Staff Engineer Works and Uses AI</title>
+      <link>https://newsletter.eng-leadership.com/p/how-an-experienced-staff-engineer</link>
+      <pubDate>Wed, 11 Nov 2026 23:07:42 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>18</rank>
+    </item>
+    <item>
+      <title>Herdr and the Meta-harness</title>
+      <link>https://benjamincongdon.me/blog/2026/11/11/Herdr-and-the-Meta-harness/</link>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>Change the plan!</title>
+      <link>https://josvisser.substack.com/p/change-the-plan</link>
+      <pubDate>Wed, 11 Nov 2026 13:15:54 +0000</pubDate>
+      <category>TEST_STRATEGY/PLANNING/PROCESS</category>
+      <level>SENIOR</level>
+      <rank>12</rank>
+    </item>
+    <item>
+      <title>Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for
+        personalized coaching</title>
+      <link>
+        https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/</link>
+      <pubDate>Wed, 11 Nov 2026 19:54:00 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>31</rank>
+    </item>
+    <item>
+      <title>The Tea Tasters</title>
+      <link>https://mikefisher.substack.com/p/the-tea-tasters</link>
+      <pubDate>Wed, 11 Nov 2026 14:01:37 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>The Math Driving Agentic AI Adoption in NetOps</title>
+      <link>https://hbr.org/sponsored/2026/11/the-math-driving-agentic-ai-adoption-in-netops</link>
+      <pubDate>Wed, 11 Nov 2026 15:30:19 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>The Paradox of AI-Designed Green Products</title>
+      <link>https://hbr.org/2026/11/the-paradox-of-ai-designed-green-products</link>
+      <pubDate>Wed, 11 Nov 2026 13:25:55 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>Research: The Risks of Rewarding Top Employees with Better Schedules</title>
+      <link>
+        https://hbr.org/2026/11/research-the-risks-of-rewarding-top-employees-with-better-schedules</link>
+      <pubDate>Wed, 11 Nov 2026 13:15:18 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>The Hidden Costs of Delegating to AI</title>
+      <link>https://hbr.org/2026/11/the-hidden-costs-of-delegating-to-ai</link>
+      <pubDate>Wed, 11 Nov 2026 13:05:50 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>My learning bits for Thursday of 12th November 2026</title>
+      <link>https://karlosmid.com/2026/11/my-learning-bits-for-thursday-12th-november-2026/</link>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>26</rank>
+    </item>
+    <item>
+      <title>My learning bits for Wednesday of 11th November 2026</title>
+      <link>https://karlosmid.com/2026/11/my-learning-bits-for-wednesday-11th-november-2026/</link>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
       <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <level>JUNIOR</level>
+      <rank>15</rank>
+    </item>
+    <item>
+      <title>Attended the PMI Netherlands Summit 2026</title>
+      <link>https://testwithnishi.com/2026/11/11/attended-the-pmi-netherlands-summit-2026/</link>
+      <pubDate>Wed, 11 Nov 2026 09:21:39 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <level>MANAGER</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>How to Test an AI API Integration Before It Reaches Production</title>
+      <link>
+        https://www.softwaretestingmagazine.com/knowledge/how-to-test-an-ai-api-integration-before-it-reaches-production/</link>
+      <pubDate>Wed, 11 Nov 2026 16:26:48 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>18</rank>
+    </item>
+    <item>
+      <title>Glue work is still harmful in the age of AI</title>
+      <link>https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>If We Care About Flow, Why Would We Measure Anyone’s Individual Performance?</title>
+      <link>
+        https://www.jrothman.com/mpd/2026/11/if-we-care-about-flow-why-would-we-measure-anyones-individual-performance/</link>
+      <pubDate>Wed, 11 Nov 2026 18:13:40 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>TBM 451: What We Learn to Notice and Ignore</title>
+      <link>https://cutlefish.substack.com/p/tbm-451-what-we-learn-to-notice-and</link>
+      <pubDate>Thu, 12 Nov 2026 08:04:54 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>SENIOR</level>
+      <rank>22</rank>
+    </item>
+    <item>
+      <title>Copy the Shape </title>
+      <link>https://alifeengineered.substack.com/p/copy-the-shape</link>
+      <pubDate>Wed, 11 Nov 2026 13:05:35 +0000</pubDate>
+      <category>CAREER</category>
+      <level>JUNIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>Tests as data: ensuring AI-generated code does what we want</title>
+      <link>https://martinfowler.com/articles/tests-as-data.html</link>
+      <pubDate>Wed, 11 Nov 2026 15:17:00 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Reading List – 2026-11-11</title>
+      <link>https://allen.hutchison.org/2026/11/11/reading-list-2026-11-11/</link>
+      <pubDate>Thu, 12 Nov 2026 00:52:46 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>25</rank>
+    </item>
+    <item>
+      <title>Bootstrapping CTO Personal Growth</title>
+      <link>https://avivbenyosef.com/bootstrapping-cto-personal-growth/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>MANAGER</level>
+      <rank>15</rank>
+    </item>
+    <item>
+      <title>Gemini Decisions API</title>
+      <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
+      <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>aws-emulator</title>
+      <link>https://simonwillison.net/2026/Nov/11/aws-emulator/</link>
+      <pubDate>Wed, 11 Nov 2026 21:18:30 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>JUNIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>Browse tools.simonwillison.net by tag</title>
+      <link>https://simonwillison.net/2026/Nov/11/tools-tags/</link>
+      <pubDate>Wed, 11 Nov 2026 18:42:50 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>llm 0.37.2</title>
+      <link>https://simonwillison.net/2026/Nov/11/llm/</link>
+      <pubDate>Wed, 11 Nov 2026 17:19:52 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Anthropic's IPO roadshow video</title>
+      <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
+      <pubDate>Wed, 11 Nov 2026 15:11:59 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Claude Pro vs Max vs Ultra: Which Plan Is Worth It, Measured</title>
+      <link>https://jedarden.com/guides/claude-pro-vs-max-vs-ultra/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>PRODUCT_QUALITY_ECONOMICS</category>
+      <level>JUNIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>OpenCode vs Claude Code: Is the Open-Source Agent a Real Alternative?</title>
+      <link>https://jedarden.com/guides/opencode-vs-claude-code/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>Note - 12.11.2026</title>
+      <link>https://bstn.info/posts/note-12112026</link>
+      <pubDate>Thu, 12 Nov 2026 05:42:00 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>19</rank>
+    </item>
+    <item>
+      <title>Note - 11.11.2026</title>
+      <link>https://bstn.info/posts/note-11112026-i-made-a-few</link>
+      <pubDate>Wed, 11 Nov 2026 10:34:00 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>22</rank>
+    </item>
+    <item>
+      <title>Note - 11.11.2026</title>
+      <link>https://bstn.info/posts/note-11112026</link>
+      <pubDate>Wed, 11 Nov 2026 05:50:00 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>20</rank>
+    </item>
+    <item>
+      <title>How to install an app on your Commodore 64</title>
+      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
+      <pubDate>Thu, 12 Nov 2026 04:24:15 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>31</rank>
+    </item>
+    <item>
+      <title>NYC’s venture capitalists need to love themselves</title>
+      <link>https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</link>
+      <pubDate>Thu, 12 Nov 2026 04:24:15 +0000</pubDate>
+      <category>OTHER</category>
+      <level>MANAGER</level>
+      <rank>16</rank>
+    </item>
+    <item>
+      <title>“Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3</title>
+      <link>
+        https://towardsdatascience.com/are-you-sure-flipped-qwen25-15bs-right-answer-2-times-in-3/</link>
+      <pubDate>Wed, 11 Nov 2026 16:30:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>13</rank>
+    </item>
+    <item>
+      <title>AI Assistant vs. Copilot vs. Agent, and When to Use Each</title>
+      <link>https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/</link>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>How to Use Apple's fm CLI to Run On-Device LLMs From Python</title>
+      <link>
+        https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/</link>
+      <pubDate>Wed, 11 Nov 2026 13:30:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch</title>
+      <link>
+        https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/</link>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>SENIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>Trowser Goes Open-Source</title>
+      <link>https://thetesteye.com/blog/2026/11/trowser-goes-open-source/</link>
+      <pubDate>Thu, 12 Nov 2026 06:55:32 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>25</rank>
+    </item>
+    <item>
+      <title>Playwright at Scale: Run 500 Tests in Minutes</title>
+      <link>https://testingpodcast.com/playwright-at-scale-run-500-tests-in-minutes/</link>
+      <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+      <category>PLAYWRIGHT</category>
+      <level>SENIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>Why Am I So Tired If AI Is Doing All the Work?</title>
+      <link>https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</link>
+      <pubDate>Wed, 11 Nov 2026 18:23:50 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>NFL 2026 Week 10 Predictions – Zoltar Likes the Patriots and the Bills</title>
+      <link>
+        https://jamesmccaffreyblog.com/2026/11/11/nfl-2026-week-10-predictions-zoltar-likes-the-patriots-and-the-bills/</link>
+      <pubDate>Wed, 11 Nov 2026 11:30:10 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>24</rank>
+    </item>
+    <item>
+      <title>ACH Return Codes Explained: R01–R85 and How to Handle Them in Production</title>
+      <link>
+        https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-5lm</link>
+      <pubDate>Thu, 12 Nov 2026 08:24:32 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>28</rank>
+    </item>
+    <item>
+      <title>Playwright Email Tests Need a Quarantine Queue</title>
+      <link>https://dev.to/silviutech/playwright-email-tests-need-a-quarantine-queue-3ggb</link>
+      <pubDate>Thu, 12 Nov 2026 08:24:27 +0000</pubDate>
+      <category>PLAYWRIGHT</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>[Computer Chess] How many Elo is a megabyte worth? I built a clock that can measure it</title>
+      <link>
+        https://dev.to/tinyairun/computer-chess-how-many-elo-is-a-megabyte-worth-i-built-a-clock-that-can-measure-it-2jhb</link>
+      <pubDate>Thu, 12 Nov 2026 08:22:58 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>26</rank>
+    </item>
+    <item>
+      <title>How to build a Garmin watch app: our Clay Sniper story and a Connect IQ tutorial</title>
+      <link>
+        https://dev.to/klukyanov/how-to-build-a-garmin-watch-app-our-clay-sniper-story-and-a-connect-iq-tutorial-46ke</link>
+      <pubDate>Thu, 12 Nov 2026 08:22:35 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>24</rank>
+    </item>
+    <item>
+      <title>Every Kind of Delivery We Make Got More Punctual and Our Board Was Told We Were Getting
+        Worse</title>
+      <link>
+        https://dev.to/serguey_shinder_4ab9b87b1/every-kind-of-delivery-we-make-got-more-punctual-and-our-board-was-told-we-were-getting-worse-42c0</link>
+      <pubDate>Thu, 12 Nov 2026 08:22:19 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <level>MANAGER</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>LOST</title>
+      <link>https://dev.to/medusa_08005/lost-3jag</link>
+      <pubDate>Thu, 12 Nov 2026 08:22:05 +0000</pubDate>
+      <category>CAREER</category>
+      <level>JUNIOR</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>StampName</title>
+      <link>https://dev.to/stampname/stampname-28g1</link>
+      <pubDate>Thu, 12 Nov 2026 08:22:05 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>27</rank>
+    </item>
+    <item>
+      <title>Ön provizyon nedir, kart neden bloke edilir?</title>
+      <link>https://dev.to/huseyinbozdemir/on-provizyon-nedir-kart-neden-bloke-edilir-1j87</link>
+      <pubDate>Thu, 12 Nov 2026 08:21:26 +0000</pubDate>
+      <category>PRODUCT_QUALITY_ECONOMICS</category>
+      <level>JUNIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>Grafana Tempo has no built-in authentication layer</title>
+      <link>https://dev.to/kozhevniko/grafana-tempo-has-no-built-in-authentication-layer-dak</link>
+      <pubDate>Thu, 12 Nov 2026 08:21:23 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Tired of Weak ISO 8583 Parsers? I Built a Better Java Alternative</title>
+      <link>
+        https://dev.to/asuka2001/tired-of-weak-iso-8583-parsers-i-built-a-better-java-alternative-41i4</link>
+      <pubDate>Thu, 12 Nov 2026 08:20:23 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>28</rank>
+    </item>
+    <item>
+      <title>67 of 78 Brands on My Appliance Site Have No Manufacturer Link on Their Manual Pages</title>
+      <link>
+        https://dev.to/mediadownloaderguides/67-of-78-brands-on-my-appliance-site-have-no-manufacturer-link-on-their-manual-pages-3a96</link>
+      <pubDate>Thu, 12 Nov 2026 08:20:22 +0000</pubDate>
+      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
+      <level>SENIOR</level>
+      <rank>16</rank>
+    </item>
+    <item>
+      <title>WebRTC vs SIP: When Is a Gateway Really Needed?</title>
+      <link>https://dev.to/diana_shtapova/webrtc-vs-sip-when-is-a-gateway-really-needed-mgi</link>
+      <pubDate>Thu, 12 Nov 2026 08:19:37 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>29</rank>
+    </item>
+    <item>
+      <title>Why the Bears GM Shouted Out My Book</title>
+      <link>https://davidepstein.substack.com/p/why-the-bears-gm-shouted-out-my-book</link>
+      <pubDate>Wed, 11 Nov 2026 15:56:26 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <level>MANAGER</level>
+      <rank>12</rank>
+    </item>
+    <item>
+      <title>Як ми автоматизували деплой кількох застосунків і заощадили близько 10 людино-годин на
+        тиждень</title>
+      <link>https://dou.ua/forums/topic/63231/</link>
+      <pubDate>Wed, 11 Nov 2026 13:00:06 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>Дві full-time роботи і сайд-проєкт на 7 тисяч акаунтів. Що ламалося і скільки з них
+        платять</title>
+      <link>https://dou.ua/forums/topic/63240/</link>
+      <pubDate>Wed, 11 Nov 2026 12:00:05 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>SENIOR</level>
+      <rank>24</rank>
+    </item>
+    <item>
+      <title>Власна мова програмування Oberih: еволюція до кооперативної VM з неблокуючим HTTP та
+        захистом від ReDoS</title>
+      <link>https://dou.ua/forums/topic/63273/</link>
+      <pubDate>Wed, 11 Nov 2026 11:00:05 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>32</rank>
+    </item>
+    <item>
+      <title>Як я зі штучним інтелектом молекули малював</title>
+      <link>https://dou.ua/forums/topic/63239/</link>
+      <pubDate>Wed, 11 Nov 2026 10:00:05 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>What’s next for Refactoring</title>
+      <link>https://refactoring.fm/p/whats-next-for-refactoring</link>
+      <pubDate>Wed, 11 Nov 2026 11:03:15 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <level>MANAGER</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>Rands Fall Housecleaning</title>
+      <link>https://randsinrepose.com/archives/rands-fall-housecleaning/</link>
+      <pubDate>Wed, 11 Nov 2026 23:13:05 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>23</rank>
+    </item>
+    <item>
+      <title>Prepare to be depressed</title>
+      <link>https://open.spotify.com/track/1aQUGQ7AcRxk96SX69gd4S</link>
+      <pubDate>Wed, 11 Nov 2026 16:51:49 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>30</rank>
+    </item>
+    <item>
+      <title>This Week in Source Control: 11 November 2026</title>
+      <link>https://nesbitt.io/2026/11/11/this-week-in-source-control.html</link>
+      <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>Blind trust: stealing credentials through CSP</title>
+      <link>https://portswigger.net/research/blind-trust-stealing-credentials-through-csp</link>
+      <pubDate>Wed, 11 Nov 2026 14:26:01 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>SENIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Jev, Clef and the Economics of AI Decisions</title>
+      <link>https://www.awesome-testing.com/2026/11/jev-clef-and-the-economics-of-ai-decisions</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>15</rank>
+    </item>
+    <item>
+      <title>The Hidden Value of Feeling Bad</title>
+      <link>https://leadershipfreak.blog/2026/11/11/the-hidden-value-of-feeling-bad/</link>
+      <pubDate>Wed, 11 Nov 2026 11:31:00 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
       <level>JUNIOR</level>
       <rank>14</rank>
     </item>
     <item>
-      <title>We Are All Junior Talent Now</title>
-      <link>https://tomtunguz.com/we-are-all-junior-talent-now/</link>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0000</pubDate>
-      <category>CAREER</category>
-      <level>SENIOR</level>
-      <rank>41</rank>
+      <title>The Dead Did Not Say That: AI Griefbots and Memory</title>
+      <link>
+        https://smarterarticles.co.uk/the-dead-did-not-say-that-ai-griefbots-and-memory?pk_campaign=rss-feed</link>
+      <pubDate>Thu, 12 Nov 2026 02:00:30 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>11</rank>
     </item>
     <item>
-      <title>Five CTE Traps That Return the Wrong Answer Quietly</title>
-      <link>https://everydaydatascience.com/article/cte-traps-five-quiet-mistakes</link>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 -0000</pubDate>
+      <title>What a Basic Income Cannot Buy: Work, Meaning and the AI Shock</title>
+      <link>
+        https://smarterarticles.co.uk/what-a-basic-income-cannot-buy-work-meaning-and-the-ai-shock?pk_campaign=rss-feed</link>
+      <pubDate>Wed, 11 Nov 2026 02:00:30 +0000</pubDate>
       <category>OTHER</category>
+      <level>MANAGER</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>A LEGO 3D Printer</title>
+      <link>https://hackaday.com/2026/11/11/a-lego-3d-printer/</link>
+      <pubDate>Thu, 12 Nov 2026 06:00:42 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>27</rank>
+    </item>
+    <item>
+      <title>It’s Elite, For The Commodore Pet</title>
+      <link>https://hackaday.com/2026/11/11/its-elite-for-the-commodore-pet/</link>
+      <pubDate>Thu, 12 Nov 2026 03:00:20 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>26</rank>
+    </item>
+    <item>
+      <title>FLOSS Weekly Episode 883: Telnet Broke Us</title>
+      <link>https://hackaday.com/2026/11/11/floss-weekly-episode-883-telnet-broke-us/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:42 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>JUNIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>Modular, 3D Printed Train Whistles For Everyone</title>
+      <link>https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/</link>
+      <pubDate>Wed, 11 Nov 2026 21:00:39 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>32</rank>
+    </item>
+    <item>
+      <title>CHIP 8: The Pong Game’s Afoot!</title>
+      <link>https://hackaday.com/2026/11/11/chip-8-the-pong-games-afoot/</link>
+      <pubDate>Wed, 11 Nov 2026 18:00:12 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>28</rank>
+    </item>
+    <item>
+      <title>The Drawer Every Standing Desk Needs</title>
+      <link>https://hackaday.com/2026/11/11/the-drawer-every-standing-desk-needs/</link>
+      <pubDate>Wed, 11 Nov 2026 16:30:11 +0000</pubDate>
+      <category>DIY/FUN</category>
       <level>JUNIOR</level>
       <rank>29</rank>
+    </item>
+    <item>
+      <title>EV Batteries Are Proving Hardier Than Expected</title>
+      <link>https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/</link>
+      <pubDate>Wed, 11 Nov 2026 15:00:08 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>25</rank>
+    </item>
+    <item>
+      <title>Drowning in a Testing Backlog? Your Problem Isn’t AI, It’s Culture</title>
+      <link>
+        https://www.cassandrahl.com/blog/drowning-in-a-testing-backlog-your-problem-isnt-ai-its-culture/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>How to Make Your Site LLM-Friendly</title>
+      <link>https://www.joshmedeski.com/posts/how-to-make-your-site-llm-friendly</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Kryptos K4: The W-Rectangle and Its Half-Turn</title>
+      <link>https://glthr.com/kryptos-k4-a-rectangle-hidden-in-the-cipher</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>30</rank>
+    </item>
+    <item>
+      <title>Anthropic Just Proved AI Has “Feelings”, and They Can Control It</title>
+      <link>
+        https://vijayasekhar-deepak.beehiiv.com/p/anthropic-just-proved-ai-has-feelings-and-they-can-control-it</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Who Captures the Most Margin in AI?</title>
+      <link>https://tomtunguz.com/who-captures-the-most-margin-in-ai/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0000</pubDate>
+      <category>PRODUCT_QUALITY_ECONOMICS</category>
+      <level>MANAGER</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Agent Memory Is Three Systems, Not One. Five Papers Prove the Split</title>
+      <link>https://everydaydatascience.com/article/agent-memory-three-systems-november-papers</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 -0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>19</rank>
     </item>
   </channel>
 </rss>
