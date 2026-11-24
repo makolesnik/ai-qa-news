@@ -9,125 +9,355 @@
     <managingEditor>MK</managingEditor>
     <generator>AI QA Feed Generator</generator>
     <item>
-      <title>Pre-training is (still) not plateauing</title>
-      <link>https://sebastianraschka.com/blog/2026/pretraining-is-still-not-plateauing.html</link>
-      <pubDate>Sun, 22 Nov 2026 22:07:01 +0000</pubDate>
-      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
-      <level>SENIOR</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>My learning bits for Sunday of 22nd November 2026</title>
-      <link>https://karlosmid.com/2026/11/my-learning-bits-for-sunday-22nd-november-2026/</link>
-      <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>SENIOR</level>
-      <rank>14</rank>
-    </item>
-    <item>
-      <title>I am speaking at DevOpsCon Munich Dec’26</title>
-      <link>https://testwithnishi.com/2026/11/22/i-am-speaking-at-devopscon-munich-dec26/</link>
-      <pubDate>Sun, 22 Nov 2026 06:18:28 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>JUNIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>How AWS’s Tech Lead Works and Uses AI</title>
-      <link>https://newsletter.eng-leadership.com/p/how-awss-tech-lead-works-and-uses</link>
-      <pubDate>Sun, 22 Nov 2026 19:16:31 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>11</rank>
-    </item>
-    <item>
-      <title>The Senior JavaScript Interview Is Open Today</title>
-      <link>https://thetshaped.dev/p/the-senior-javascript-interview-is</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:37 +0000</pubDate>
-      <category>CAREER</category>
-      <level>JUNIOR</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>Grab Bag: Cybersecure Sign Language Edition</title>
-      <link>https://www.rickmanelius.com/p/grab-bag-cybersecure-sign-language</link>
-      <pubDate>Sun, 22 Nov 2026 09:01:53 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>JUNIOR</level>
-      <rank>11</rank>
-    </item>
-    <item>
-      <title>Shipping 100+ PRs to production in a week</title>
-      <link>https://lethain.com/passing-100-prs-in-a-week/</link>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
-      <category>AI_GENERATED_TESTS</category>
-      <level>MANAGER</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>Select Styling Specimens</title>
-      <link>https://simonwillison.net/2026/Nov/22/select-styling/</link>
-      <pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>16</rank>
-    </item>
-    <item>
-      <title>When Drawers Get Their Own Status Lights</title>
-      <link>https://hackaday.com/2026/11/22/when-drawers-get-their-own-status-lights/</link>
-      <pubDate>Mon, 23 Nov 2026 06:00:20 +0000</pubDate>
-      <category>DIY/FUN</category>
+      <title>The Gaming Chip’s 33-Year Journey: From Quake to ChatGPT</title>
+      <link>
+        https://medium.com/the-long-thread/the-gaming-chips-33-year-journey-from-quake-to-chatgpt-9b0737a32541?source=rss-770fc3e11a47------2</link>
+      <pubDate>Tue, 24 Nov 2026 05:28:07 +0000</pubDate>
+      <category>OTHER</category>
       <level>JUNIOR</level>
       <rank>20</rank>
     </item>
     <item>
-      <title>I Heard There Was a Secret Port…</title>
-      <link>https://hackaday.com/2026/11/22/i-heard-there-was-a-secret-port/</link>
-      <pubDate>Mon, 23 Nov 2026 03:00:47 +0000</pubDate>
+      <title>Jensen Huang Is Back. Nvidia’s Board Just Showed Who Really Controls AI</title>
+      <link>
+        https://medium.com/predict/jensen-huang-is-back-nvidias-board-just-showed-who-really-controls-ai-1bf1e62e3767?source=rss-770fc3e11a47------2</link>
+      <pubDate>Mon, 23 Nov 2026 16:06:26 +0000</pubDate>
       <category>OTHER</category>
+      <level>MANAGER</level>
+      <rank>18</rank>
+    </item>
+    <item>
+      <title>The Scientists Who Taught Machines to Guess the Next Word</title>
+      <link>
+        https://medium.com/the-long-thread/the-scientists-who-taught-machines-to-guess-the-next-word-6dd49d037203?source=rss-770fc3e11a47------2</link>
+      <pubDate>Mon, 23 Nov 2026 07:23:14 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>JUNIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>Logistic Regression From-Scratch with Newton-Raphson Training Using C#</title>
+      <link>
+        https://jamesmccaffreyblog.com/2026/11/23/logistic-regression-from-scratch-with-newton-raphson-training-using-csharp/</link>
+      <pubDate>Mon, 23 Nov 2026 11:30:42 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>SENIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>SRE Weekly Issue #544</title>
+      <link>https://sreweekly.com/sre-weekly-issue-544/</link>
+      <pubDate>Mon, 23 Nov 2026 04:06:38 +0000</pubDate>
+      <category>SRE</category>
+      <level>SENIOR</level>
+      <rank>12</rank>
+    </item>
+    <item>
+      <title>“Decoding Leadership” and the CTO Squeeze</title>
+      <link>https://www.jamesshore.com/v2/presentations/2026/decoding-leadership-and-the-cto-squeeze</link>
+      <pubDate>Mon, 23 Nov 2026 21:57:01 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <level>MANAGER</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Object permanence</title>
+      <link>
+        https://doctorow.medium.com/object-permanence-00a572ccc03a?source=rss-eba9888d741b------2</link>
+      <pubDate>Mon, 23 Nov 2026 13:18:59 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>The Debt Trap</title>
+      <link>
+        https://doctorow.medium.com/https-pluralistic-net-2026-11-23-grasshoppers-v-ants-hyperbolic-discounting-f34f664a47ec?source=rss-eba9888d741b------2</link>
+      <pubDate>Mon, 23 Nov 2026 13:18:56 +0000</pubDate>
+      <category>PRODUCT_QUALITY_ECONOMICS</category>
+      <level>MANAGER</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>Талант-пул чи архів резюме? </title>
+      <link>https://linarecruiting.substack.com/p/167</link>
+      <pubDate>Mon, 23 Nov 2026 10:27:46 +0000</pubDate>
+      <category>CAREER</category>
+      <level>MANAGER</level>
+      <rank>13</rank>
+    </item>
+    <item>
+      <title>Why Is All Current AI Test Automation Wrong? Part-7: E2E Test Automation Is Much, Much
+        Harder Than Coding. If AI Coding Isn't There Yet, AI Test Automation Is Even Further Behind </title>
+      <link>https://agileway.substack.com/p/why-is-all-current-ai-test-automation</link>
+      <pubDate>Mon, 23 Nov 2026 20:02:33 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>How to Test Applications Under Poor Network Conditions with Bean Network Tester</title>
+      <link>
+        https://www.softwaretestingmagazine.com/knowledge/how-to-test-applications-under-poor-network-conditions-with-bean-network-tester/</link>
+      <pubDate>Mon, 23 Nov 2026 17:32:56 +0000</pubDate>
+      <category>MANUAL_TESTING</category>
+      <level>JUNIOR</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>The Myth of Motivation</title>
+      <link>https://leadershipfreak.blog/2026/11/23/the-myth-of-motivation/</link>
+      <pubDate>Mon, 23 Nov 2026 11:31:00 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>MANAGER</level>
+      <rank>12</rank>
+    </item>
+    <item>
+      <title>New open source project: TramiLoop</title>
+      <link>https://www.softwaretester.blog/tramiloop-multitrack-loop-audio-daw/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>24</rank>
+    </item>
+    <item>
+      <title>Backlogs, naming things, and readings!</title>
+      <link>https://refactoring.fm/p/backlogs-naming-things-and-readings</link>
+      <pubDate>Mon, 23 Nov 2026 11:03:10 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <level>SENIOR</level>
+      <rank>20</rank>
+    </item>
+    <item>
+      <title>A smarter team makes your life harder, not easier. </title>
+      <link>https://sundaylettersfromsam.substack.com/p/a-smarter-team-makes-your-life-harder</link>
+      <pubDate>Mon, 23 Nov 2026 00:02:06 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>MANAGER</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>Forget ChatGPT &amp; Gemini — Here Are New AI Tools That Will Blow Your Mind (No BS)</title>
+      <link>https://aimadesimple0.substack.com/p/forget-chatgpt-and-gemini-here-are-235</link>
+      <pubDate>Mon, 23 Nov 2026 10:17:27 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Robot Framework Test Automation: Automate Web, Desktop, Mobile, and Embedded Systems</title>
+      <link>
+        https://testingpodcast.com/robot-framework-test-automation-automate-web-desktop-mobile-and-embedded-systems/</link>
+      <pubDate>Mon, 23 Nov 2026 18:00:00 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>JUNIOR</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>Reading List – 2026-11-23</title>
+      <link>https://allen.hutchison.org/2026/11/23/reading-list-2026-11-23/</link>
+      <pubDate>Mon, 23 Nov 2026 21:33:44 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
+      <level>SENIOR</level>
+      <rank>20</rank>
+    </item>
+    <item>
+      <title>Turning the dials on code review</title>
+      <link>https://fffej.substack.com/p/turning-the-dials-on-code-review</link>
+      <pubDate>Mon, 23 Nov 2026 06:02:35 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>SENIOR</level>
+      <rank>15</rank>
+    </item>
+    <item>
+      <title>Meet people, when you are meeting</title>
+      <link>https://www.o2sn.dk/2026/11/23/meet-people-when-you-are-meeting/</link>
+      <pubDate>Mon, 23 Nov 2026 16:19:32 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>MANAGER</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>Your Doctor Is Being Cloned: Who Should Pay for the Fake</title>
+      <link>
+        https://smarterarticles.co.uk/your-doctor-is-being-cloned-who-should-pay-for-the-fake?pk_campaign=rss-feed</link>
+      <pubDate>Tue, 24 Nov 2026 02:00:30 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>3</rank>
+    </item>
+    <item>
+      <title>Who Draws the Next Gruffalo: Why AI Cannot Replace the Illustrator</title>
+      <link>
+        https://smarterarticles.co.uk/who-draws-the-next-gruffalo-why-ai-cannot-replace-the-illustrator?pk_campaign=rss-feed</link>
+      <pubDate>Mon, 23 Nov 2026 02:00:30 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>13</rank>
+    </item>
+    <item>
+      <title>AI in QA - Issue #37</title>
+      <link>https://aiinqa.com/ai-in-qa-issue-37/</link>
+      <pubDate>Mon, 23 Nov 2026 11:30:00 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>It isn’t that the Trackpad Sings Well…</title>
+      <link>https://hackaday.com/2026/11/23/it-isnt-that-the-trackpad-sings-well/</link>
+      <pubDate>Tue, 24 Nov 2026 06:00:06 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>23</rank>
+    </item>
+    <item>
+      <title>ESP Microcontrollers as Analog Radios</title>
+      <link>https://hackaday.com/2026/11/23/esp-microcontrollers-as-analog-radios/</link>
+      <pubDate>Tue, 24 Nov 2026 03:00:48 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>27</rank>
+    </item>
+    <item>
+      <title>That Java Phone Can Still Go Online</title>
+      <link>https://hackaday.com/2026/11/23/that-java-phone-can-still-go-online/</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:34 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>27</rank>
+    </item>
+    <item>
+      <title>Debian Comes to the Surface Duo 2</title>
+      <link>https://hackaday.com/2026/11/23/debian-comes-to-the-surface-duo-2/</link>
+      <pubDate>Mon, 23 Nov 2026 21:00:15 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>27</rank>
+    </item>
+    <item>
+      <title>A Dozen Completely DIY Robot Actuators</title>
+      <link>https://hackaday.com/2026/11/23/a-dozen-completely-diy-robot-actuators/</link>
+      <pubDate>Mon, 23 Nov 2026 19:30:53 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>28</rank>
+    </item>
+    <item>
+      <title>Correcting The Pink Photo From My Modified Phone: A Follow-Up</title>
+      <link>
+        https://hackaday.com/2026/11/23/correcting-the-pink-photo-from-my-modified-phone-a-follow-up/</link>
+      <pubDate>Mon, 23 Nov 2026 18:00:29 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>27</rank>
+    </item>
+    <item>
+      <title>Building a wireless network adapter for the Super Nintendo</title>
+      <link>
+        https://hackaday.com/2026/11/23/building-a-wireless-network-adapter-for-the-super-nintendo/</link>
+      <pubDate>Mon, 23 Nov 2026 16:30:30 +0000</pubDate>
+      <category>DIY/FUN</category>
+      <level>JUNIOR</level>
+      <rank>26</rank>
+    </item>
+    <item>
+      <title>Who Can Say No to the Founder? A Strong Second-in-Command.</title>
+      <link>https://hbr.org/2026/11/who-can-say-no-to-the-founder-a-strong-second-in-command</link>
+      <pubDate>Mon, 23 Nov 2026 21:15:39 +0000</pubDate>
+      <category>OTHER</category>
+      <level>MANAGER</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>What the Volatility of the AI Trade Means for Your Company</title>
+      <link>https://hbr.org/2026/11/what-the-volatility-of-the-ai-trade-means-for-your-company</link>
+      <pubDate>Mon, 23 Nov 2026 19:10:58 +0000</pubDate>
+      <category>PRODUCT_QUALITY_ECONOMICS</category>
+      <level>MANAGER</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>When CEO Comebacks Succeed—and When They Fail</title>
+      <link>https://hbr.org/2026/11/when-ceo-comebacks-succeed-and-when-they-fail</link>
+      <pubDate>Mon, 23 Nov 2026 13:05:34 +0000</pubDate>
+      <category>OTHER</category>
+      <level>MANAGER</level>
+      <rank>19</rank>
+    </item>
+    <item>
+      <title>How the Best Leaders Develop an Enterprise Mindset</title>
+      <link>https://hbr.org/2026/11/how-the-best-leaders-develop-an-enterprise-mindset</link>
+      <pubDate>Mon, 23 Nov 2026 13:15:16 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>MANAGER</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>Чому розпізнавання по картинці помиляється в кожному десятому випадку: як я визначаю
+        друк колекційної картки на iPhone</title>
+      <link>https://dou.ua/forums/topic/63518/</link>
+      <pubDate>Mon, 23 Nov 2026 15:00:05 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>SENIOR</level>
+      <rank>14</rank>
+    </item>
+    <item>
+      <title>Front-end Digest № 179: Детальний огляд ChatGPT Sites, JS брешуть та тривимірна
+        анатомія React</title>
+      <link>https://dou.ua/forums/topic/63606/</link>
+      <pubDate>Mon, 23 Nov 2026 13:00:06 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>24</rank>
+    </item>
+    <item>
+      <title>Hindsight: зовнішня памʼять для агентів. Досвід self-hosted</title>
+      <link>https://dou.ua/forums/topic/63483/</link>
+      <pubDate>Mon, 23 Nov 2026 12:00:06 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>How I Fixed My LinkedIn Feed</title>
+      <link>https://brodzinski.com/2026/11/how-i-fixed-linkedin.html</link>
+      <pubDate>Mon, 23 Nov 2026 13:44:45 +0000</pubDate>
+      <category>OTHER</category>
+      <level>MANAGER</level>
+      <rank>15</rank>
+    </item>
+    <item>
+      <title>When in doubt, flail about</title>
+      <link>https://seangoedecke.com/when-in-doubt-flail-about/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>SENIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>Notes on OpenAI's perplexity reveal</title>
+      <link>https://seangoedecke.com/notes-on-openais-perplexity-reveal/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI_(general)</category>
       <level>SENIOR</level>
       <rank>16</rank>
     </item>
     <item>
-      <title>Hackaday Links: November 22, 2026</title>
-      <link>https://hackaday.com/2026/11/22/hackaday-links-november-22-2026/</link>
-      <pubDate>Mon, 23 Nov 2026 00:00:30 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>18</rank>
-    </item>
-    <item>
-      <title>Recycling Thousands of Coffee Capsules into a Moka Pot</title>
-      <link>https://hackaday.com/2026/11/22/recycling-thousands-of-coffee-capsules-into-a-moka-pot/</link>
-      <pubDate>Sun, 22 Nov 2026 21:00:56 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>Building a Single-Chip USB GPU</title>
-      <link>https://hackaday.com/2026/11/22/building-a-single-chip-usb-gpu/</link>
-      <pubDate>Sun, 22 Nov 2026 18:00:49 +0000</pubDate>
-      <category>DIY/FUN</category>
+      <title>Re-reading A Philosophy of Software Design</title>
+      <link>https://allaboutcoding.ghinda.com/re-reading-a-philosophy-of-software-design/</link>
+      <pubDate>Mon, 23 Nov 2026 08:08:48 +0000</pubDate>
+      <category>DESIGN/PATTERNS/ARCHITECTURE</category>
       <level>SENIOR</level>
-      <rank>18</rank>
+      <rank>2</rank>
     </item>
     <item>
-      <title>Soft Robot Made for the Races</title>
-      <link>https://hackaday.com/2026/11/22/soft-robot-made-for-the-races/</link>
-      <pubDate>Sun, 22 Nov 2026 15:00:49 +0000</pubDate>
-      <category>DIY/FUN</category>
-      <level>JUNIOR</level>
-      <rank>18</rank>
-    </item>
-    <item>
-      <title>Potatoes Grow in Simulated Lunar Soil as Well as on Earth</title>
-      <link>
-        https://hackaday.com/2026/11/22/potatoes-grow-in-simulated-lunar-soil-as-well-as-on-earth/</link>
-      <pubDate>Sun, 22 Nov 2026 12:00:53 +0000</pubDate>
+      <title>Маск проти України? | Anthropic на Nasdaq | GTA VI захоплює світ — DOU News #277</title>
+      <link>https://dou.ua/lenta/articles/dou-news-277/</link>
+      <pubDate>Mon, 23 Nov 2026 11:00:06 +0000</pubDate>
       <category>OTHER</category>
       <level>JUNIOR</level>
-      <rank>17</rank>
+      <rank>25</rank>
     </item>
     <item>
       <title>44% айтівців витрачають усе зароблене або більше. Що відбувається з фінансами
@@ -139,326 +369,336 @@
       <rank>8</rank>
     </item>
     <item>
-      <title>Was software just always too complex for humans?</title>
-      <link>https://anil.recoil.org/notes/software-too-complex-for-humans</link>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <title>datasette-charts 0.2a0</title>
+      <link>https://simonwillison.net/2026/Nov/24/datasette-charts/</link>
+      <pubDate>Tue, 24 Nov 2026 04:24:29 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>datasette-agent 0.7a1</title>
+      <link>https://simonwillison.net/2026/Nov/24/datasette-agent/</link>
+      <pubDate>Tue, 24 Nov 2026 03:45:57 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>18</rank>
+    </item>
+    <item>
+      <title>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
+      <link>https://simonwillison.net/2026/Nov/23/glm-54/</link>
+      <pubDate>Mon, 23 Nov 2026 23:40:49 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>Ladybird's first alpha release</title>
+      <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
+      <pubDate>Mon, 23 Nov 2026 21:46:35 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>19</rank>
+    </item>
+    <item>
+      <title>datasette-charts 0.1a0</title>
+      <link>https://simonwillison.net/2026/Nov/23/datasette-charts/</link>
+      <pubDate>Mon, 23 Nov 2026 00:37:20 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>15</rank>
+    </item>
+    <item>
+      <title>A FAANG PM's Guide to Practical AI Evals</title>
+      <link>https://www.news.aakashg.com/p/practical-ai-evals</link>
+      <pubDate>Tue, 24 Nov 2026 00:34:06 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>2</rank>
+    </item>
+    <item>
+      <title>Day 56 of 100: ESLint for Test Code — Rules That Prevent Flakiness</title>
+      <link>https://scrolltest.com/100-days-day-56-typescript-eslint-tests/</link>
+      <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
+      <category>TEST_AUTOMATION</category>
+      <level>JUNIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>A must-read article about AI from McKinsey</title>
+      <link>https://normanmarks.wordpress.com/2026/11/23/a-must-read-article-about-ai-from-mckinsey/</link>
+      <pubDate>Mon, 23 Nov 2026 15:45:03 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>8</rank>
+    </item>
+    <item>
+      <title>How To Build Your Chief Of Staff | Peter Yang</title>
+      <link>https://alifeengineered.substack.com/p/how-to-build-your-chief-of-staff</link>
+      <pubDate>Mon, 23 Nov 2026 12:05:34 +0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>JUNIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>DoorDash Dispatch: Building a Lightning-Fast Delivery System</title>
+      <link>https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning</link>
+      <pubDate>Mon, 23 Nov 2026 16:31:03 +0000</pubDate>
+      <category>SRE</category>
+      <level>SENIOR</level>
+      <rank>17</rank>
+    </item>
+    <item>
+      <title>AI Math Proofs Aren't Knowledge Until Someone Explains Them</title>
+      <link>
+        https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/</link>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>SENIOR</level>
+      <rank>16</rank>
+    </item>
+    <item>
+      <title>The Birthday Paradox Shows Small LLMs Pick From About 6 of 40 Words</title>
+      <link>
+        https://towardsdatascience.com/the-birthday-paradox-shows-small-llms-pick-from-about-6-of-40-words/</link>
+      <pubDate>Mon, 23 Nov 2026 13:30:00 +0000</pubDate>
+      <category>AI_(general)</category>
       <level>SENIOR</level>
       <rank>13</rank>
     </item>
     <item>
-      <title>Who Draws the Next Gruffalo: Why AI Cannot Replace the Illustrator</title>
+      <title>What a 90% Prompt Cache Hit Rate Hides About Attention Work</title>
       <link>
-        https://smarterarticles.co.uk/who-draws-the-next-gruffalo-why-ai-cannot-replace-the-illustrator?pk_campaign=rss-feed</link>
-      <pubDate>Mon, 23 Nov 2026 02:00:30 +0000</pubDate>
+        https://towardsdatascience.com/what-a-90-prompt-cache-hit-rate-hides-about-attention-work/</link>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
       <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>6</rank>
+      <level>SENIOR</level>
+      <rank>13</rank>
     </item>
     <item>
-      <title>No Robo Bosses Act: Why a Human Signature Is Not a Decision</title>
+      <title>Supercharging transformer residual connections</title>
+      <link>https://research.google/blog/supercharging-transformer-residual-connections/</link>
+      <pubDate>Mon, 23 Nov 2026 17:21:12 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>SENIOR</level>
+      <rank>4</rank>
+    </item>
+    <item>
+      <title>Zero-Days on an Assembly Line: Why Your 30-Day Patch SLA Is Dead</title>
       <link>
-        https://smarterarticles.co.uk/no-robo-bosses-act-why-a-human-signature-is-not-a-decision?pk_campaign=rss-feed</link>
-      <pubDate>Sun, 22 Nov 2026 02:00:30 +0000</pubDate>
-      <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>MANAGER</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>Executive Briefing: Your backup job says it ran. Could your team actually restore what
-        it needs?</title>
-      <link>https://natesnewsletter.substack.com/p/ai-cyber-defense-business</link>
-      <pubDate>Sun, 22 Nov 2026 13:03:03 +0000</pubDate>
+        https://greenido.dev/2026/11/23/zero-days-on-an-assembly-line-why-your-30-day-patch-sla-is-dead/</link>
+      <pubDate>Mon, 23 Nov 2026 13:55:00 +0000</pubDate>
       <category>SECURITY_TESTING</category>
       <level>MANAGER</level>
       <rank>1</rank>
     </item>
     <item>
-      <title>SRE Weekly Issue #544</title>
-      <link>https://sreweekly.com/sre-weekly-issue-544/</link>
-      <pubDate>Mon, 23 Nov 2026 04:06:38 +0000</pubDate>
-      <category>SRE</category>
-      <level>SENIOR</level>
-      <rank>5</rank>
-    </item>
-    <item>
-      <title>A smarter team makes your life harder, not easier. </title>
-      <link>https://sundaylettersfromsam.substack.com/p/a-smarter-team-makes-your-life-harder</link>
-      <pubDate>Mon, 23 Nov 2026 00:02:06 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>MANAGER</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>A folder-first photo workflow for Mac that outlives every app</title>
-      <link>
-        https://dev.to/whimkid/a-folder-first-photo-workflow-for-mac-that-outlives-every-app-1cn2</link>
-      <pubDate>Mon, 23 Nov 2026 08:01:13 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Go sync.Pool and Object Reuse: Reducing GC Pressure in High-Throughput Services</title>
-      <link>
-        https://dev.to/bar_dror_a3d32cb94b1/go-syncpool-and-object-reuse-reducing-gc-pressure-in-high-throughput-services-jd1</link>
-      <pubDate>Mon, 23 Nov 2026 08:01:08 +0000</pubDate>
-      <category>OTHER</category>
+      <title>#178 · Runtime Harness Governance in QA: PR Sandboxes, PyPI Supply-Chain Risks, Agent
+        Cost Telemetry, and GitHub Event Streams</title>
+      <link>https://daily.testingeducation.org/podcast/2026-11-23/</link>
+      <pubDate>Mon, 23 Nov 2026 07:23:31 +0000</pubDate>
+      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
       <level>SENIOR</level>
       <rank>19</rank>
     </item>
     <item>
-      <title>The .NET 11 changes I’d try first after .NET Conf 2026</title>
-      <link>https://dev.to/kasuken/the-net-11-changes-id-try-first-after-net-conf-2026-2a7l</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:50 +0000</pubDate>
-      <category>OTHER</category>
+      <title>What Is Productivity In A Learning Process?</title>
+      <link>https://codemanship.wordpress.com/2026/11/23/what-is-productivity-in-a-learning-process/</link>
+      <pubDate>Mon, 23 Nov 2026 11:09:59 +0000</pubDate>
+      <category>ENGINEERING_CULTURE_QUALITY</category>
+      <level>SENIOR</level>
+      <rank>16</rank>
+    </item>
+    <item>
+      <title>Finding slow requests with Aspire and an AI agent</title>
+      <link>
+        https://www.meziantou.net/finding-slow-requests-with-aspire-and-an-ai-agent.htm?utm_medium=social&amp;utm_source=syndication</link>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <category>AI_GENERATED_TESTS</category>
+      <level>SENIOR</level>
+      <rank>18</rank>
+    </item>
+    <item>
+      <title>State of B2B SaaS AI Search Readiness (Nov 2026): Auditing 100 Public Websites</title>
+      <link>
+        https://dev.to/innflows/state-of-b2b-saas-ai-search-readiness-nov-2026-auditing-100-public-websites-310a</link>
+      <pubDate>Tue, 24 Nov 2026 07:42:11 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>MANAGER</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>Residual Connections: Why Adding the Input Back Makes Very Deep Networks Trainable</title>
+      <link>
+        https://dev.to/umeshtharukaofficial/residual-connections-why-adding-the-input-back-makes-very-deep-networks-trainable-56bf</link>
+      <pubDate>Tue, 24 Nov 2026 07:41:56 +0000</pubDate>
+      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
+      <level>SENIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Microsoft Left a Hole in Business Logins Open From July to November. Is Your Admin the
+        Next Phishing Target?</title>
+      <link>
+        https://dev.to/hackerme/microsoft-left-a-hole-in-business-logins-open-from-july-to-november-is-your-admin-the-next-ldp</link>
+      <pubDate>Tue, 24 Nov 2026 07:40:53 +0000</pubDate>
+      <category>SECURITY_TESTING</category>
+      <level>JUNIOR</level>
+      <rank>5</rank>
+    </item>
+    <item>
+      <title>Claude Ship là gì?</title>
+      <link>https://dev.to/sebbasstian/claude-ship-la-gi-4p73</link>
+      <pubDate>Tue, 24 Nov 2026 07:40:50 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>It works in curl and returns 400 from the app. Finding the difference between two
+        "identical" requests.</title>
+      <link>
+        https://dev.to/minpin_proxy/it-works-in-curl-and-returns-400-from-the-app-finding-the-difference-between-two-identical-387e</link>
+      <pubDate>Tue, 24 Nov 2026 07:39:47 +0000</pubDate>
+      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>How Google Accidentally Changed the DevOps World</title>
+      <link>https://dev.to/tharvbytes/how-google-accidentally-changed-the-devops-world-3klj</link>
+      <pubDate>Tue, 24 Nov 2026 07:39:38 +0000</pubDate>
+      <category>SHIFT_LEFT_TESTING/SHIFT_RIGHT_TESTING/CI/CD</category>
       <level>JUNIOR</level>
       <rank>14</rank>
     </item>
     <item>
-      <title>Three months of selling scrapers on the Apify Store, with the real numbers</title>
+      <title>Building JalSaathi: An irrigation advisor for small farmers, with no sensors</title>
       <link>
-        https://dev.to/fade97/three-months-of-selling-scrapers-on-the-apify-store-with-the-real-numbers-5fd0</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:29 +0000</pubDate>
+        https://dev.to/ashutosh_kumar_dc651b2a60/building-jalsaathi-an-irrigation-advisor-for-small-farmers-with-no-sensors-5e9k</link>
+      <pubDate>Tue, 24 Nov 2026 07:39:11 +0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>21</rank>
+    </item>
+    <item>
+      <title>Our Next Laptops May Run on Arm Processors and Many of the Drivers at Our Depots Were
+        Never Written for One</title>
+      <link>
+        https://dev.to/serguey_shinder_4ab9b87b1/our-next-laptops-may-run-on-arm-processors-and-many-of-the-drivers-at-our-depots-were-never-written-14om</link>
+      <pubDate>Tue, 24 Nov 2026 07:39:11 +0000</pubDate>
+      <category>OTHER</category>
+      <level>MANAGER</level>
+      <rank>16</rank>
+    </item>
+    <item>
+      <title>AI 生成的 PR 越来越多，如何用自动化门禁挡住不靠谱的提交</title>
+      <link>
+        https://dev.to/lvyafei2026coder/ai-sheng-cheng-de-pr-yue-lai-yue-duo-ru-he-yong-zi-dong-hua-men-jin-dang-zhu-bu-kao-pu-de-ti-jiao-524j</link>
+      <pubDate>Tue, 24 Nov 2026 07:39:09 +0000</pubDate>
+      <category>QUALITY_GOVERNANCE</category>
+      <level>SENIOR</level>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>More of the Software You Build May Be Measured by Its Carbon</title>
+      <link>
+        https://dev.to/asael_shinder_9f53bdca840/more-of-the-software-you-build-may-be-measured-by-its-carbon-1ia5</link>
+      <pubDate>Tue, 24 Nov 2026 07:38:53 +0000</pubDate>
       <category>PRODUCT_QUALITY_ECONOMICS</category>
-      <level>JUNIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Stop Guessing, Start Cutting: Cloud Costs You Can Ship This Week</title>
-      <link>
-        https://dev.to/devwithzach/stop-guessing-start-cutting-cloud-costs-you-can-ship-this-week-1d5j</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:23 +0000</pubDate>
-      <category>OTHER</category>
-      <level>SENIOR</level>
-      <rank>17</rank>
-    </item>
-    <item>
-      <title>Cockpit gauges and a cleaner documents layout</title>
-      <link>https://dev.to/giannialagna-me/cockpit-gauges-and-a-cleaner-documents-layout-3p8i</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:07 +0000</pubDate>
-      <category>OTHER</category>
-      <level>JUNIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>I built a Modbus simulator that Claude drives over MCP: test SCADA without a PLC</title>
-      <link>
-        https://dev.to/cybriantops/i-built-a-modbus-simulator-that-claude-drives-over-mcp-test-scada-without-a-plc-214k</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:05 +0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
-      <level>JUNIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Cross-model code review between Claude Code and Codex: setting up poteto's
-        adversarial-review</title>
-      <link>
-        https://dev.to/skillselion/cross-model-code-review-between-claude-code-and-codex-setting-up-potetos-adversarial-review-2a82</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:02 +0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
-      <level>SENIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>Eight Reasons I Switched from Traefik to HAProxy Ingress</title>
-      <link>https://dev.to/postmanpat/eight-reasons-i-switched-from-traefik-to-haproxy-ingress-5fmg</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:02 +0000</pubDate>
-      <category>OTHER</category>
-      <level>SENIOR</level>
-      <rank>19</rank>
-    </item>
-    <item>
-      <title>AI’s Next Political Battle Is Being Fought at the Data Center</title>
-      <link>https://dev.to/spaisee/ais-next-political-battle-is-being-fought-at-the-data-center-26ba</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:01 +0000</pubDate>
-      <category>AI_(general)</category>
       <level>MANAGER</level>
-      <rank>2</rank>
-    </item>
-    <item>
-      <title>My Hermes agent used a GitHub token it never saw</title>
-      <link>https://dev.to/alexar76/my-hermes-agent-used-a-github-token-it-never-saw-151a</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
-      <level>SENIOR</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>Your Cloudflare settings are hiding your site from ChatGPT. Here's how to check.</title>
-      <link>
-        https://dev.to/juanauriti/your-cloudflare-settings-are-hiding-your-site-from-chatgpt-heres-how-to-check-11l2</link>
-      <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>Turning the dials on code review</title>
-      <link>https://fffej.substack.com/p/turning-the-dials-on-code-review</link>
-      <pubDate>Mon, 23 Nov 2026 06:02:35 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>9</rank>
-    </item>
-    <item>
-      <title>When in doubt, flail about</title>
-      <link>https://seangoedecke.com/when-in-doubt-flail-about/</link>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
-      <level>SENIOR</level>
-      <rank>15</rank>
-    </item>
-    <item>
-      <title>Notes on OpenAI's perplexity reveal</title>
-      <link>https://seangoedecke.com/notes-on-openais-perplexity-reveal/</link>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>To code well, avoid blunders</title>
-      <link>https://seangoedecke.com/to-code-well-avoid-blunders/</link>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-      <category>ENGINEERING_CULTURE_QUALITY</category>
-      <level>SENIOR</level>
-      <rank>12</rank>
-    </item>
-    <item>
-      <title>Debugging a running .NET application with WinDbg and an AI agent</title>
-      <link>
-        https://www.meziantou.net/debugging-a-running-dotnet-application-with-windbg-and-an-ai-agent.htm?utm_medium=social&amp;utm_source=syndication</link>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
-      <category>DEFECT_LEAKAGE_ANALYSIS/RCA</category>
-      <level>SENIOR</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Building NetSuite Automated Tests in Plain English</title>
-      <link>https://www.kenst.com/building-netsuite-automated-tests-in-english/</link>
-      <pubDate>Sun, 22 Nov 2026 18:10:21 +0000</pubDate>
-      <category>VIBIUM</category>
-      <level>JUNIOR</level>
-      <rank>1</rank>
-    </item>
-    <item>
-      <title>RANSAC, Explained: Consensus Fitting for Image Feature Matching</title>
-      <link>
-        https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/</link>
-      <pubDate>Sun, 22 Nov 2026 15:00:00 +0000</pubDate>
-      <category>MACHINE_LEARNING/DEEP_LEARNING</category>
-      <level>SENIOR</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>How AI Changes the Four Types of Analytics for Data Scientists</title>
-      <link>
-        https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/</link>
-      <pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>ATD 2026: Hallway chats, cheaper failures and bending systems</title>
-      <link>https://qualityeng.substack.com/p/atd-2026</link>
-      <pubDate>Sun, 22 Nov 2026 17:22:56 +0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>MANAGER</level>
-      <rank>7</rank>
-    </item>
-    <item>
-      <title>@adlrocha - How can we limit what AI Labs know about us?</title>
-      <link>https://adlrocha.substack.com/p/adlrocha-how-can-we-limit-what-ai</link>
-      <pubDate>Sun, 22 Nov 2026 09:00:52 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>AI x Bio is not _just_ a data problem</title>
-      <link>https://combine-lab.github.io/blog/2026/11/22/ai-bio-data.html</link>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>SENIOR</level>
-      <rank>8</rank>
-    </item>
-    <item>
-      <title>Dario Is a Player, Not the Game</title>
-      <link>
-        https://danielmiessler.com/blog/dario-player-not-the-game?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <pubDate>Sun, 22 Nov 2026 23:15:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Humans Stepping Down as the Best in 2027</title>
-      <link>
-        https://danielmiessler.com/blog/humans-stepping-down-2027?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <pubDate>Sun, 22 Nov 2026 23:15:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>4</rank>
-    </item>
-    <item>
-      <title>Autonomous Media in 2027?</title>
-      <link>
-        https://danielmiessler.com/blog/autonomous-media-2027?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <pubDate>Sun, 22 Nov 2026 01:55:00 +0000</pubDate>
-      <category>AI_(general)</category>
-      <level>MANAGER</level>
-      <rank>6</rank>
-    </item>
-    <item>
-      <title>Cool Things - November 22, 2026</title>
-      <link>https://pfbonkers.com/clever/2026/11/22/cool-things-november-22-2026</link>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 -0000</pubDate>
-      <category>BOOKS/CONFERENCES/PODCASTS/RESOURCES</category>
-      <level>JUNIOR</level>
-      <rank>10</rank>
-    </item>
-    <item>
-      <title>Grok Bot to get local Computer Use and Dictation in any app</title>
-      <link>
-        https://www.testingcatalog.com/grok-bot-to-get-local-computer-use-and-dictation-in-any-app/</link>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
       <rank>5</rank>
     </item>
     <item>
-      <title>Run AI Models on Your Mobile Phone</title>
-      <link>https://vijayasekhar-deepak.beehiiv.com/p/run-ai-models-on-your-mobile-phone</link>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 -0000</pubDate>
-      <category>AI_(general)</category>
-      <level>JUNIOR</level>
-      <rank>3</rank>
-    </item>
-    <item>
-      <title>November 16 – November 22, 2026 – Content &amp; Platform Updates</title>
-      <link>https://www.offsec.com/blog/</link>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 -0000</pubDate>
+      <title>How to track SEC Form 4 insider buying into a spreadsheet (no API key)</title>
+      <link>
+        https://dev.to/ofirbaranesadagent/how-to-track-sec-form-4-insider-buying-into-a-spreadsheet-no-api-key-3013</link>
+      <pubDate>Tue, 24 Nov 2026 07:38:49 +0000</pubDate>
       <category>OTHER</category>
       <level>JUNIOR</level>
-      <rank>13</rank>
+      <rank>24</rank>
     </item>
     <item>
-      <title>Your First Personal Agent Should Have One Job</title>
-      <link>https://lws.io/blog/a-pragmatic-approach-to-setting-up-personal-agents/</link>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 -0000</pubDate>
-      <category>AGENTS/SKILLS/AGENTIC</category>
+      <title>From OBS to 10,000 Viewers: The Architecture of a Live Online Video Platform</title>
+      <link>
+        https://dev.to/suresh_nathanael_edb225e5/from-obs-to-10000-viewers-the-architecture-of-a-live-online-video-platform-48oo</link>
+      <pubDate>Tue, 24 Nov 2026 07:38:43 +0000</pubDate>
+      <category>OTHER</category>
+      <level>SENIOR</level>
+      <rank>22</rank>
+    </item>
+    <item>
+      <title>The Senior JavaScript Interview Is Open Today</title>
+      <link>https://thetshaped.dev/p/the-senior-javascript-interview-is</link>
+      <pubDate>Mon, 23 Nov 2026 08:00:37 +0000</pubDate>
+      <category>CAREER</category>
       <level>JUNIOR</level>
-      <rank>2</rank>
+      <rank>16</rank>
     </item>
     <item>
-      <title>Google Picked 10 African AI Startups. The Money Behind Them Is Still the Story.</title>
-      <link>https://everydaydatascience.com/article/google-africa-ai-lab-ten-startups</link>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 -0000</pubDate>
-      <category>AI_(general)</category>
+      <title>Nobody asked you to protect me</title>
+      <link>https://www.manager.dev/newsletter/nobody-asked-you-to-protect-me</link>
+      <pubDate>Tue, 24 Nov 2026 07:01:00 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
       <level>MANAGER</level>
-      <rank>3</rank>
+      <rank>11</rank>
+    </item>
+    <item>
+      <title>Seeing the machine code of your Java program, with a few lines of Java</title>
+      <link>https://lemire.me/blog/2026/11/23/seeing-the-machine-code-of-your-java-program/</link>
+      <pubDate>Mon, 23 Nov 2026 13:00:38 +0000</pubDate>
+      <category>PERFORMANCE_TESTING</category>
+      <level>SENIOR</level>
+      <rank>1</rank>
+    </item>
+    <item>
+      <title>Stop asking users what they want</title>
+      <link>https://newsletter.posthog.com/p/user-interviews</link>
+      <pubDate>Mon, 23 Nov 2026 19:01:02 +0000</pubDate>
+      <category>PRODUCT_QUALITY_ECONOMICS</category>
+      <level>JUNIOR</level>
+      <rank>12</rank>
+    </item>
+    <item>
+      <title>Astra, Neon, Opus or Fable: which one fits your work? The prompt guide that answers it
+        for your actual tasks, plus the model I start with for each kind of work.</title>
+      <link>https://natesnewsletter.substack.com/p/judge-ai-models</link>
+      <pubDate>Mon, 23 Nov 2026 14:04:04 +0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>9</rank>
+    </item>
+    <item>
+      <title>How can I think through the consequences of a decision? (Futures Wheel)</title>
+      <link>https://andiroberts.com/leadership-questions/consequences-of-a-decision-futures-wheel</link>
+      <pubDate>Mon, 23 Nov 2026 14:53:25 +0000</pubDate>
+      <category>SOFT_SKILLS/WELLNESS/COACHING</category>
+      <level>MANAGER</level>
+      <rank>10</rank>
+    </item>
+    <item>
+      <title>OpenAI brings GPT-6.2 Sol to ChatGPT Chat and Dots to EU</title>
+      <link>https://www.testingcatalog.com/openai-brings-gpt-6-2-sol-to-chatgpt-chat-and-dots-to-eu/</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0000</pubDate>
+      <category>AI_(general)</category>
+      <level>JUNIOR</level>
+      <rank>7</rank>
+    </item>
+    <item>
+      <title>Your AI Agent May Not Need Long Context</title>
+      <link>https://vijayasekhar-deepak.beehiiv.com/p/your-ai-agent-may-not-need-long-context</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0000</pubDate>
+      <category>AGENTS/SKILLS/AGENTIC</category>
+      <level>SENIOR</level>
+      <rank>6</rank>
+    </item>
+    <item>
+      <title>Five GROUP BY Traps That Change Your Totals Without an Error</title>
+      <link>https://everydaydatascience.com/article/group-by-traps-five-aggregation-mistakes</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0000</pubDate>
+      <category>OTHER</category>
+      <level>JUNIOR</level>
+      <rank>22</rank>
     </item>
   </channel>
 </rss>
